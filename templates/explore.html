@@ -1,0 +1,246 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="page-header">
+  <div class="ph-info">
+    <div class="ph-title">Career Exploration 🧭</div>
+    <div class="ph-sub">Answer honestly Snoopy will find your best-fit career direction!</div>
+    <div class="prog-wrap">
+      <div class="prog-track"><div class="prog-fill" style="width:0%" id="prog-fill"></div></div>
+      <div class="prog-meta">
+        <span class="prog-label">Fill in all sections to see your result</span>
+        <span class="prog-pct" id="prog-pct">0%</span>
+      </div>
+    </div>
+  </div>
+  <img src="{{ url_for('static', filename='images/celebrating_snoopy.jpg') }}"
+       alt="Celebrating Snoopy"
+       class="ph-snoopy-img"/>
+</div>
+
+<div class="body-wrap">
+<form action="/explore/result" method="POST" id="explore-form">
+
+  <!-- ── Model selector ──────────────────────────────────── -->
+  <div class="k-card">
+    <div class="sec-header">
+      <div class="sec-icon sec-icon-purple">🤖</div>
+      <span class="sec-title sec-title-purple">Choose your ML model</span>
+    </div>
+    <p style="font-size:13px;color:var(--muted);font-weight:600;margin-bottom:1rem;">
+      Both models use the same questions. Pick how you want Snoopy to think about your career!
+    </p>
+   <div class="mode-select">
+  <label class="mode-opt" id="opt-m1">
+    <input type="radio" name="model" value="1" required style="display:none" onchange="selectModel(1)"/>
+    <!-- CHANGED: replaced 🌸 emoji with snoopy_m1.jpg -->
+    <img src="{{ url_for('static', filename='images/snoopy_m1.jpg') }}"
+         alt="Model 1 Snoopy"
+         class="mode-opt-img"/>
+    <div class="mode-opt-title">Model 1</div>
+    <div class="mode-opt-desc">Uses your real dataset interests mapped to career labels. real-world uncertainty.</div>
+    <span class="mode-opt-tag tag-m1">Real dataset labels</span>
+  </label>
+  <label class="mode-opt" id="opt-m2">
+    <input type="radio" name="model" value="2" style="display:none" onchange="selectModel(2)"/>
+    <!-- CHANGED: replaced ⭐ emoji with snoopy_m2.jpg -->
+    <img src="{{ url_for('static', filename='images/snoopy_m2.jpg') }}"
+         alt="Model 2 Snoopy"
+         class="mode-opt-img"/>
+    <div class="mode-opt-title">Model 2</div>
+    <div class="mode-opt-desc">Uses personality-profile-matched training for higher accuracy.</div>
+    <span class="mode-opt-tag tag-m2">Profile-based training</span>
+  </label>
+</div>
+
+  <!-- ── Section 1: Interests ───────────────────────────── -->
+  <div class="sec-header">
+    <div class="sec-icon sec-icon-pink">💡</div>
+    <span class="sec-title sec-title-pink">Your interests</span>
+  </div>
+
+  {% set interests = [
+    ("tech_interest",     "💻", "Technology interest",    "Do you enjoy computers, coding, gadgets, or technology?"),
+    ("data_interest",     "📊", "Data & logic interest",  "Do you enjoy math, numbers, charts, or solving problems?"),
+    ("creative_interest", "🎨", "Creative interest",      "Do you enjoy drawing, design, writing, music, or creating ideas?"),
+    ("business_interest", "💼", "Business interest",      "Do you enjoy leadership, selling, planning, or business ideas?"),
+    ("people_interest",   "🤝", "People interest",        "Do you enjoy helping, teaching, guiding, or talking with people?"),
+  ] %}
+
+  {% for name, icon, title, desc in interests %}
+  <div class="qb">
+    <label class="ql">{{ icon }} {{ title }}</label>
+    <p class="qs">{{ desc }}</p>
+    <p class="qs">0 = Not at all &nbsp;·&nbsp; 5 = Very much</p>
+    <div class="likert-row">
+      {% for v in range(6) %}
+        <label class="likert-opt">
+          <input type="radio" name="{{ name }}" value="{{ v }}" required onchange="updateProgress()"/>
+          <span>{{ v }}</span>
+        </label>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+
+  <!-- ── Section 2: Personality ─────────────────────────── -->
+  <div class="sec-header">
+    <div class="sec-icon sec-icon-purple">🧠</div>
+    <span class="sec-title sec-title-purple">Your personality</span>
+  </div>
+
+  {% set personality = [
+    ("extraversion",      "🌟", "Extraversion",      "Are you social, energetic, and outgoing?"),
+    ("neuroticism",       "💭", "Emotional sensitivity", "Do you worry, overthink, or feel stress easily?"),
+    ("agreeableness",     "💗", "Agreeableness",     "Are you kind, caring, and easy to work with?"),
+    ("conscientiousness", "📋", "Conscientiousness",  "Are you organized, careful, and responsible?"),
+    ("openness",          "🌈", "Openness",           "Do you enjoy new ideas, creativity, and learning new things?"),
+  ] %}
+
+  {% for name, icon, title, desc in personality %}
+  <div class="qb">
+    <label class="ql">{{ icon }} {{ title }}</label>
+    <p class="qs">{{ desc }}</p>
+    <div class="slider-wrap">
+      <span class="slider-edge">0 Low</span>
+      <input type="range" name="{{ name }}" min="0" max="1" step="0.1" value="0.5"
+             oninput="this.nextElementSibling.textContent=parseFloat(this.value).toFixed(1);updateProgress()"/>
+      <span class="slider-val">0.5</span>
+      <span class="slider-edge">1 High</span>
+    </div>
+  </div>
+  {% endfor %}
+
+  <!-- ── Section 3: Study habits ────────────────────────── -->
+  <div class="sec-header">
+    <div class="sec-icon sec-icon-green">📚</div>
+    <span class="sec-title sec-title-green">Study & work habits</span>
+  </div>
+
+  <div class="qb">
+    <label class="ql">⏰ How many hours do you study per day?</label>
+    <p class="qs">Enter a number, e.g. 3.5</p>
+    <input type="number" name="study_hours" min="0" max="12" step="0.5" value="4"
+           class="num-input" onchange="updateProgress()"/>
+  </div>
+
+  <div class="qb">
+    <label class="ql">🏫 What is your attendance percentage?</label>
+    <div class="slider-wrap">
+      <span class="slider-edge">0%</span>
+      <input type="range" name="attendance" min="0" max="100" step="1" value="80"
+             oninput="this.nextElementSibling.textContent=this.value+'%';updateProgress()"/>
+      <span class="slider-val">80%</span>
+      <span class="slider-edge">100%</span>
+    </div>
+  </div>
+
+  <div class="qb">
+    <label class="ql">🔥 How motivated are you to reach your goals?</label>
+    <p class="qs">0 = Not motivated at all &nbsp;·&nbsp; 5 = Extremely motivated</p>
+    <div class="likert-row">
+      {% for v in range(6) %}
+        <label class="likert-opt">
+          <input type="radio" name="motivation" value="{{ v }}" required onchange="updateProgress()"/>
+          <span>{{ v }}</span>
+        </label>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="qb">
+    <label class="ql">⏱️ How good is your time management?</label>
+    <p class="qs">0 = Very poor &nbsp;·&nbsp; 5 = Excellent</p>
+    <div class="likert-row">
+      {% for v in range(6) %}
+        <label class="likert-opt">
+          <input type="radio" name="time_mgmt" value="{{ v }}" required onchange="updateProgress()"/>
+          <span>{{ v }}</span>
+        </label>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="qb">
+    <label class="ql">🎭 Do you join extracurricular activities?</label>
+    <div class="yn-row">
+      <label class="yn-opt">
+        <input type="radio" name="extracurricular" value="1" required onchange="updateProgress()"/>
+        ✅ Yes!
+      </label>
+      <label class="yn-opt">
+        <input type="radio" name="extracurricular" value="0" onchange="updateProgress()"/>
+        ❌ No
+      </label>
+    </div>
+  </div>
+
+  <div class="qb">
+    <label class="ql">😰 How high is your stress level?</label>
+    <p class="qs">0 = Very calm &nbsp;·&nbsp; 5 = Very stressed</p>
+    <div class="likert-row">
+      {% for v in range(6) %}
+        <label class="likert-opt">
+          <input type="radio" name="stress" value="{{ v }}" required onchange="updateProgress()"/>
+          <span>{{ v }}</span>
+        </label>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="qb">
+    <label class="ql">📖 What is your primary learning style?</label>
+    <div class="mc-grid">
+      <label class="mc-opt">
+        <input type="radio" name="learning_style" value="0" required onchange="updateProgress()"/>
+        👁️ Visual
+      </label>
+      <label class="mc-opt">
+        <input type="radio" name="learning_style" value="1" onchange="updateProgress()"/>
+        👂 Auditory
+      </label>
+      <label class="mc-opt" style="grid-column:span 2;">
+        <input type="radio" name="learning_style" value="2" onchange="updateProgress()"/>
+        🙌 Kinesthetic (hands-on)
+      </label>
+    </div>
+  </div>
+
+  <div class="footer-bar">
+  <div class="fb-hint-wrap">
+    <img src="{{ url_for('static', filename='images/result_snoopy.jpg') }}"
+         alt="Snoopy ready"
+         class="fb-snoopy-img"/>
+    <p class="fb-hint">Snoopy is ready to find your career!</p>
+  </div>
+  <button type="submit" class="kawaii-btn btn-purple">
+    See my result ✨
+  </button>
+</div>
+
+</form>
+</div>
+
+{% block scripts %}
+<script>
+function selectModel(n) {
+  document.getElementById('opt-m1').classList.remove('selected-m1');
+  document.getElementById('opt-m2').classList.remove('selected-m2');
+  document.getElementById('opt-m' + n).classList.add('selected-m' + n);
+  updateProgress();
+}
+
+function updateProgress() {
+  const form   = document.getElementById('explore-form');
+  const radios = form.querySelectorAll('input[type="radio"][required]');
+  const groups = {};
+  radios.forEach(r => { groups[r.name] = groups[r.name] || false; if (r.checked) groups[r.name] = true; });
+  const total  = Object.keys(groups).length;
+  const done   = Object.values(groups).filter(Boolean).length;
+  const pct    = Math.round((done / total) * 100);
+  document.getElementById('prog-fill').style.width = pct + '%';
+  document.getElementById('prog-pct').textContent  = pct + '%';
+}
+</script>
+{% endblock %}
+{% endblock %}

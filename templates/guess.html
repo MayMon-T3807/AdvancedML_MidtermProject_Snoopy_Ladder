@@ -1,0 +1,197 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="page-header">
+  <div class="ph-title-wrap">
+    <img src="{{ url_for('static', filename='images/game_snoopy.jpg') }}"
+         alt="Game Snoopy"
+         class="ph-title-img"/>
+    <div>
+      <div class="ph-title">Career Guessing Game</div>
+      <div class="ph-sub">Two staircases climb toward each other — your career is revealed at the top!</div>
+    </div>
+  </div>
+  <span style="background:#F5F0FF;color:#7C3AED;font-size:12px;font-weight:800;
+               padding:7px 18px;border-radius:20px;border:2px solid #C084FC;">
+    Step {{ step }} of {{ total }}
+  </span>
+</div>
+
+<div class="body-wrap">
+
+  <!-- Mystery dots bar -->
+  <div class="mystery-bar">
+    <div>
+      <div class="mystery-label">🔍 Career being uncovered...</div>
+      <div style="font-size:14px;font-weight:900;color:#C084FC;letter-spacing:3px;margin-top:4px;">
+        {% for i in range(total) %}?{% endfor %}
+      </div>
+    </div>
+    <div class="mystery-dots">
+      {% for i in range(total) %}
+        <div class="dot {% if i < step - 1 %}revealed{% endif %}"></div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Staircase ladder arena -->
+  <div class="ladder-arena">
+    <div class="ladder-top-labels">
+  <span class="stair-label tag-ai">
+    <img src="{{ url_for('static', filename='images/up_snoopy.jpg') }}"
+         alt="Snoopy climbing"
+         class="stair-snoopy-img"/>
+    Snoopy's Staircase
+  </span>
+  <span class="stair-label tag-you">
+    <img src="{{ url_for('static', filename='images/smile_snoopy.jpg') }}"
+         alt="Your Snoopy"
+         class="stair-snoopy-img"/>
+    Your Staircase
+  </span>
+</div>
+
+    {#
+      SVG MATH FOR 15 STEPS:
+      viewBox width  = 520px
+      viewBox height = 300px
+
+      Each staircase occupies half the width: 0..260 (left) and 260..520 (right)
+      Safe drawing area per side: ~230px wide, ~230px tall
+
+      Per step:
+        horizontal shift (h_gap) = 220 / total  = 220 / 15 ≈ 14px
+        vertical   shift (v_gap) = 210 / total  = 210 / 15 = 14px
+
+      Each step rect:
+        width  = 50px (fixed, small enough for 15 steps)
+        height = 10px
+
+      Left staircase:  step i starts at x = 8 + i*14,  y = 238 - i*14
+      Right staircase: step i starts at x = 462 - i*14, y = 238 - i*14
+                       (462 = 520 - 8 - 50, mirror of left)
+    #}
+
+    {% set svg_w    = 520 %}
+    {% set svg_h    = 300 %}
+    {% set s_w      = 50  %}
+    {% set s_h      = 10  %}
+    {% set h_gap    = 14  %}
+    {% set v_gap    = 14  %}
+    {% set base_y   = 238 %}
+    {% set left_x0  = 8   %}
+    {% set right_x0 = 462 %}
+
+    <svg class="ladder-svg"
+         viewBox="0 0 {{ svg_w }} {{ svg_h }}"
+         xmlns="http://www.w3.org/2000/svg">
+
+      <!-- Result box at the top center — revealed when ladders meet -->
+      <rect x="185" y="6" width="150" height="40" rx="10"
+            fill="#F5F0FF" stroke="#C084FC" stroke-width="2.5"/>
+      <text x="260" y="31"
+            text-anchor="middle"
+            font-family="'Nunito',sans-serif"
+            font-size="11"
+            font-weight="800"
+            fill="#7C3AED">🏆 Career revealed here!</text>
+
+      <!-- LEFT staircase — AI, climbs from bottom-left up toward center -->
+      {% for i in range(total) %}
+        {% set sx = left_x0 + i * h_gap %}
+        {% set sy = base_y  - i * v_gap %}
+
+        {% if i < step - 1 %}
+          <!-- Done step: filled purple -->
+          <rect x="{{ sx }}" y="{{ sy }}"
+                width="{{ s_w }}" height="{{ s_h }}"
+                rx="4" fill="#C084FC"/>
+
+        {% elif i == step - 1 %}
+      
+          <text x="{{ sx + 14 }}" y="{{ sy - 3 }}"
+                font-size="14"
+                font-family="'Nunito',sans-serif">🐶</text>
+          <rect x="{{ sx }}" y="{{ sy }}"
+                width="{{ s_w }}" height="{{ s_h }}"
+                rx="4" fill="#FFB7C5"
+                stroke="#d63870" stroke-width="2"/>
+
+        {% else %}
+          <!-- Future step: empty light color -->
+          <rect x="{{ sx }}" y="{{ sy }}"
+                width="{{ s_w }}" height="{{ s_h }}"
+                rx="4" fill="#F0E6F6"/>
+        {% endif %}
+      {% endfor %}
+
+      {% for i in range(total) %}
+        {% set sx = right_x0 - i * h_gap %}
+        {% set sy = base_y   - i * v_gap %}
+
+        {% if i < step - 1 %}
+          <!-- Done step: filled green -->
+          <rect x="{{ sx }}" y="{{ sy }}"
+                width="{{ s_w }}" height="{{ s_h }}"
+                rx="4" fill="#6EE7B7"/>
+
+        {% elif i == step - 1 %}
+          <!-- Current active step: pink highlight + paw character above -->
+          <text x="{{ sx + 14 }}" y="{{ sy - 3 }}"
+                font-size="14"
+                font-family="'Nunito',sans-serif">🐾</text>
+          <rect x="{{ sx }}" y="{{ sy }}"
+                width="{{ s_w }}" height="{{ s_h }}"
+                rx="4" fill="#FFB7C5"
+                stroke="#d63870" stroke-width="2"/>
+
+        {% else %}
+          <!-- Future step: empty light color -->
+          <rect x="{{ sx }}" y="{{ sy }}"
+                width="{{ s_w }}" height="{{ s_h }}"
+                rx="4" fill="#F0E6F6"/>
+        {% endif %}
+      {% endfor %}
+
+      <!-- Dashed connector lines from top of each staircase to result box -->
+      {% set top_left_x  = left_x0  + (total - 1) * h_gap + s_w / 2 %}
+      {% set top_right_x = right_x0 - (total - 1) * h_gap + s_w / 2 %}
+      {% set top_y       = base_y   - (total - 1) * v_gap %}
+
+      <line x1="{{ top_left_x }}"  y1="{{ top_y }}"
+            x2="222" y2="46"
+            stroke="#C084FC" stroke-width="1.5"
+            stroke-dasharray="4,3"/>
+
+      <line x1="{{ top_right_x }}" y1="{{ top_y }}"
+            x2="298" y2="46"
+            stroke="#6EE7B7" stroke-width="1.5"
+            stroke-dasharray="4,3"/>
+
+    
+      <text x="{{ svg_w / 2 }}" y="{{ svg_h - 8 }}"
+            text-anchor="middle"
+            font-family="'Nunito',sans-serif"
+            font-size="11"
+            font-weight="700"
+            fill="#9C7CB8">
+      </text>
+
+    </svg>
+  </div>
+
+
+  <div class="q-card">
+    <div class="q-step-tag">Step {{ step }} of {{ total }}</div>
+    <div class="q-text">{{ question.text }}</div>
+    <form action="/guess/answer" method="POST" class="ans-form">
+      {% for opt in question.options %}
+        <button type="submit" name="answer" value="{{ opt }}" class="ans-btn">
+          {{ opt | capitalize }}
+        </button>
+      {% endfor %}
+    </form>
+  </div>
+
+</div>
+{% endblock %}

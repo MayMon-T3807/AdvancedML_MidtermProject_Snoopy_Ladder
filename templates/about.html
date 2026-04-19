@@ -1,0 +1,151 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="about-hero">
+  <img src="{{ url_for('static', filename='images/ladder_snoopy.jpg') }}"
+       alt="Snoopy Ladder"
+       class="about-hero-img"/>
+  <div class="about-title">About Snoopy Ladder</div>
+  <div class="about-sub">A  ML-powered career discovery app built as a midterm project for Advanced Machine Learning Class</div>
+</div>
+
+<div class="about-body">
+
+  <!-- Project Info -->
+  <div class="about-card">
+    <div class="about-card-icon">🎓</div>
+    <div>
+      <div class="about-card-title">Project Information</div>
+      <div class="about-card-body">
+        <strong>University:</strong> Parami Univesity <br>
+        <strong>Course Name:</strong> Advanced Machine Learning Class (Section B) <br>
+        <strong>Instructor:</strong> Dr.Nwe Nwe Htay Win <br>
+        <strong>Student Name:</strong> May Mon Thant <br>
+        <strong>Project Type:</strong> Midterm Project
+      </div>
+    </div>
+  </div>
+
+  <div class="about-card">
+    <div class="about-card-icon">🔮</div>
+    <div>
+      <div class="about-card-title">Career Guessing Mode</div>
+      <div class="about-card-body">
+        Inspired by <strong>Max Klymenko's Career Ladder</strong> interviews.
+        Uses <strong>K-Nearest Neighbors (KNN, k=3)</strong> trained on a custom career dataset
+        with 15 features including whether the work is creative, technical, people-facing,
+        or location-specific. The model finds the three most similar real career profiles
+        to your answers and reveals the top match. Euclidean distance is used to measure similarity.
+      </div>
+
+      <div class="tech-badges">
+        <span class="tech-badge">KNN (k=3)</span>
+        <span class="tech-badge">Euclidean distance</span>
+        <span class="tech-badge">OrdinalEncoder</span>
+        <span class="tech-badge">career_ladder.csv</span>
+        <span class="tech-badge">15 features</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Model 1 -->
+  <div class="about-card">
+    <div class="about-card-icon">🧭</div>
+    <div>
+      <div class="about-card-title">
+        Career Exploration — Model 1 (Real dataset, Around 50% accuracy)
+      </div>
+
+      <div class="about-card-body">
+        Uses <strong>AdaBoost</strong> trained on three merged datasets where career labels
+        come directly from the real <strong>Recommended_Career</strong> column,
+        simplified into 6 categories. Big5 personality traits and study habits are randomly
+        sampled from their respective datasets. This creates a real-world disconnection
+        between features and labels — which is why accuracy is ~50%.
+        This model is honest about uncertainty.
+      </div>
+
+      <div class="tech-badges">
+        <span class="tech-badge">AdaBoost</span>
+        <span class="tech-badge">Real dataset labels</span>
+        <span class="tech-badge">~50% accuracy</span>
+        <span class="tech-badge">3 datasets merged</span>
+        <span class="tech-badge">Honest uncertainty</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Model 2 -->
+  <div class="about-card">
+    <div class="about-card-icon">⭐</div>
+    <div>
+      <div class="about-card-title">
+        Career Exploration — Model 2 (Profile-based, around 99% accuracy)
+      </div>
+
+      <div class="about-card-body">
+        Also uses <strong>AdaBoost</strong> but with personality and habit profiles assigned
+        per career category. Rule based is added which results in much higher accuracy  but it trades off some real-world randomness
+        for learnable structure.
+      </div>
+
+      <div class="tech-badges">
+        <span class="tech-badge">AdaBoost</span>
+        <span class="tech-badge">Profile-based training</span>
+        <span class="tech-badge">~80% accuracy</span>
+        <span class="tech-badge">Rule-based structure</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Datasets -->
+  <div class="about-card">
+    <div class="about-card-icon">📊</div>
+    <div>
+      <div class="about-card-title">Datasets Used</div>
+
+      <div class="about-card-body">
+        This project combines multiple datasets for career prediction and exploration.
+      </div>
+
+      <div class="dataset-list">
+        <div class="dataset-item">
+          <div class="dataset-name">AI-based Career Recommendation System</div>
+          <div class="dataset-desc">
+            Skills, interests, and recommended careers — used for interest keyword features
+            and career labels.
+          </div>
+        </div>
+
+        <div class="dataset-item">
+          <div class="dataset-name">Big Five Personality Dataset (data-final.csv)</div>
+          <div class="dataset-desc">
+            50 personality items scored 1–5, averaged into 5 trait scores
+            (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism),
+            normalized to 0–1.
+          </div>
+        </div>
+
+        <div class="dataset-item">
+          <div class="dataset-name">Enhanced Student Habits & Performance</div>
+          <div class="dataset-desc">
+            Study hours, attendance, motivation, stress, learning style —
+            normalized with MinMaxScaler.
+          </div>
+        </div>
+
+        <div class="dataset-item">
+          <div class="dataset-name">Career Ladder (career_ladder.csv)</div>
+          <div class="dataset-desc">
+            Custom manually curated dataset of diverse careers with
+            15 categorical and numerical features,
+            inspired by Max Klymenko's career format.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="page-header" style="background:linear-gradient(135deg,#F5F0FF,#FFF0F3);">
+  <div>
+    <div class="ph-title">The ladders have met! 🎉</div>
+    <div class="ph-sub">Both sides climbed all the way — here's Snoopy's final answer!</div>
+  </div>
+
+  {% if snoopy_img %}
+    <img src="{{ url_for('static', filename='images/' + snoopy_img) }}"
+         alt="Snoopy Trophy"
+         style="width:56px;height:56px;object-fit:cover;border-radius:50%;border:3px solid #C084FC;">
+  {% else %}
+    <img src="{{ url_for('static', filename='images/snoopy.jpg') }}"
+         alt="Snoopy Trophy"
+         style="width:56px;height:56px;object-fit:cover;border-radius:50%;border:3px solid #C084FC;">
+  {% endif %}
+</div>
+
+<div class="body-wrap" style="max-width:580px;">
+
+  <div class="reveal-card">
+    <div class="confetti-row">🎉 🎯 🌟 🎊</div>
+    <div class="reveal-eyebrow">✨ The AI guesses your career is...</div>
+
+    {% if snoopy_img %}
+      <img src="{{ url_for('static', filename='images/' + snoopy_img) }}"
+           alt="Snoopy as {{ career }}"
+           class="snoopy-img"/>
+    {% else %}
+      <img src="{{ url_for('static', filename='images/snoopy.jpg') }}"
+           alt="Snoopy"
+           class="snoopy-img"/>
+    {% endif %}
+
+    <div class="career-name">{{ career }}</div>
+    <div class="career-msg">{{ career_msg }}</div>
+
+    <div class="verdict-row">
+      <button class="v-btn v-correct" onclick="alert('Woohoo! Snoopy is so happy! 🎉')">
+        ✅ That's correct!
+      </button>
+      <a href="/guess" class="v-btn v-again">🔄 Play again</a>
+    </div>
+  </div>
+
+  <div class="related-card">
+    <div class="rc-title">🌸 Closest career matches</div>
+    <div class="chip-row">
+      {% for r in related %}
+        <span class="chip">{{ r }}</span>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="action-row">
+    <a href="/explore" class="kawaii-btn btn-pink" style="justify-content:center;">
+      🧭 Try Career Exploration
+    </a>
+    <a href="/" class="kawaii-btn btn-ghost">
+      🏠 Go home
+    </a>
+  </div>
+
+</div>
+{% endblock %}

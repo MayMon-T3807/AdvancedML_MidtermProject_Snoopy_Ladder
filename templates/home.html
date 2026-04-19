@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="hero">
+  <div class="hero-eyebrow">✨ Career Guide Using Machine Learning ✨</div>
+  <h1 class="hero-title">
+    Find your <span class="accent-pink">dream career</span><br>
+    with <span class="accent-purple">Snoopy's help!</span>
+  </h1>
+  <p class="hero-sub">
+    Can our AI guess your exact job from a few questions? Or let it explore what career path truly fits your personality and habits.
+  </p>
+
+  <div class="snoopy-showcase">
+    <div class="snoopy-bubble">
+      <img class="snoopy-real-img"
+           src="{{ url_for('static', filename='images/tech_snoopy.jpg') }}"
+           alt="Tech Snoopy">
+      <div class="snoopy-label">Tech Snoopy</div>
+    </div>
+    <div class="snoopy-bubble">
+      <img class="snoopy-real-img"
+           src="{{ url_for('static', filename='images/creative_snoopy.jpg') }}"
+           alt="Creative Snoopy">
+      <div class="snoopy-label">Creative Snoopy</div>
+    </div>
+    <div class="snoopy-bubble">
+      <img class="snoopy-real-img"
+           src="{{ url_for('static', filename='images/medical_snoopy.jpg') }}"
+           alt="Medical Snoopy">
+      <div class="snoopy-label">Medical Snoopy</div>
+    </div>
+    <div class="snoopy-bubble">
+      <img class="snoopy-real-img"
+           src="{{ url_for('static', filename='images/business_snoopy.jpg') }}"
+           alt="Business Snoopy">
+      <div class="snoopy-label">Business Snoopy</div>
+    </div>
+    <div class="snoopy-bubble">
+      <img class="snoopy-real-img"
+           src="{{ url_for('static', filename='images/education_snoopy.jpg') }}"
+           alt="Education Snoopy">
+      <div class="snoopy-label">Education Snoopy</div>
+    </div>
+  </div>
+</div>
+
+<div class="modes-section">
+
+  <div class="mode-card mode-card-guess">
+    <img class="mode-icon-img"
+         src="{{ url_for('static', filename='images/guess_snoopy.jpg') }}"
+         alt="Guess My Career Snoopy">
+
+    <h2 class="mode-title">Guess My Career</h2>
+    <p class="mode-body">
+      Answer one question at a time and climb the ladder. Two ladders meet in the middle and your career is revealed
+    </p>
+    <div class="mode-tags">
+      <span class="tag-pill pill-purple">Game-like</span>
+      <span class="tag-pill pill-purple">Two ladders</span>
+      <span class="tag-pill pill-purple">Career Reveal</span>
+    </div>
+    <a href="/guess" class="kawaii-btn btn-purple"
+       style="display:flex;justify-content:center;">
+      Guess Career🎯
+    </a>
+  </div>
+
+  <div class="mode-card mode-card-explore">
+    <!-- CHANGED: replaced 🧭 emoji div with snoopy image -->
+    <img class="mode-icon-img"
+         src="{{ url_for('static', filename='images/explore_snoopy.jpg') }}"
+         alt="Explore Careers Snoopy">
+
+    <h2 class="mode-title">Explore Careers</h2>
+    <p class="mode-body">
+      Answer a reflective questionnaire about your personality, interests, and habits. Choose between two ML models and discover your best-fit career direction.
+    </p>
+    <div class="mode-tags">
+      <span class="tag-pill pill-pink">2 ML models</span>
+      <span class="tag-pill pill-pink">Personality quiz</span>
+      <span class="tag-pill pill-green">Your best fit</span>
+    </div>
+    <a href="/explore" class="kawaii-btn btn-pink"
+       style="display:flex;justify-content:center;">
+      Start exploring
+    </a>
+  </div>
+
+</div>
+
+<div class="how-section">
+  <h2 class="how-title">How it works 🌟</h2>
+  <p class="how-sub">Two different experiences</p>
+  <div class="how-grid">
+    <div class="how-step">
+      <div class="step-num">1</div>
+      <div class="step-title">Choose your mode</div>
+      <div class="step-body">Guessing game or career exploration each has its own vibe, questions, and results.</div>
+    </div>
+    <div class="how-step">
+      <div class="step-num">2</div>
+      <div class="step-title">Answer questions</div>
+      <div class="step-body">Guessing: one per ladder rung. Exploration: a full personality and habits quiz.</div>
+    </div>
+    <div class="how-step">
+      <div class="step-num">3</div>
+      <div class="step-title">Get your result</div>
+      <div class="step-body">Your best-fit career field explained just for you.</div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

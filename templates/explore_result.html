@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="page-header" style="background:linear-gradient(135deg,#F5F0FF,#FFF0F3);">
+  <div>
+    <div class="ph-title">Snoopy found your career! 🌸</div>
+    <div class="ph-sub">Based on your personality, interests, and habits</div>
+  </div>
+  <span class="ph-snoopy">🎊🐶</span>
+</div>
+
+<div class="body-wrap" style="max-width:620px;">
+
+  <div class="result-hero">
+    <div class="model-badge {{ 'badge-m1' if model == '1' else 'badge-m2' }}">
+      {{ '🌸 Model 1 — Real dataset' if model == '1' else '⭐ Model 2 — Profile-based' }}
+    </div>
+
+    {% if snoopy_img %}
+      <img src="{{ url_for('static', filename='images/' + snoopy_img) }}"
+           alt="Snoopy as {{ top_career }}" class="snoopy-img"/>
+    {% else %}
+      <div style="font-size:80px;margin:0.5rem 0;">🐶</div>
+    {% endif %}
+
+    <div class="rh-eyebrow">✨ Your best-fit career field is...</div>
+    <div class="rh-career">{{ top_career }}</div>
+    <div style="margin:10px 0;">{{ career_emoji }}</div>
+    <div class="rh-msg">{{ career_message }}</div>
+  </div>
+
+  <div class="k-card">
+    <div class="sec-header" style="margin-top:0;">
+      <div class="sec-icon sec-icon-purple">🌟</div>
+      <span class="sec-title sec-title-purple">Why this fits you</span>
+    </div>
+    <p style="font-size:13px;color:var(--muted);line-height:1.7;font-weight:600;">
+      {{ why_message }}
+    </p>
+  </div>
+
+  <div class="k-card">
+    <div class="sec-header" style="margin-top:0;">
+      <div class="sec-icon sec-icon-pink">💼</div>
+      <span class="sec-title sec-title-pink">Sample careers in this field</span>
+    </div>
+    <div class="chip-row">
+      {% for job in sample_jobs %}
+        <span class="chip">{{ job }}</span>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="action-row">
+    <a href="/explore" class="kawaii-btn btn-purple">
+      🔄 Try other model
+    </a>
+    <a href="/guess" class="kawaii-btn btn-pink">
+      🔮 Try guessing game
+    </a>
+  </div>
+  <div style="text-align:center;margin-top:10px;">
+    <a href="/" class="kawaii-btn btn-ghost">🏠 Go home</a>
+  </div>
+
+</div>
+{% endblock %}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Snoopy Ladder 🐾</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+  <link rel="icon" type="image/png"
+        href="{{ url_for('static', filename='images/snoopy.jpg') }}"/>
+</head>
+<body>
+
+  <nav class="navbar">
+    <a href="/" class="nav-logo">
+      <img src="{{ url_for('static', filename='images/snoopy.jpg') }}"
+       alt="Snoopy"
+       class="nav-logo-img"/>
+        Snoopy Ladder
+    </a>
+    
+    <div class="nav-links">
+  <a href="/" class="nav-link {% if request.endpoint=='home' %}active-home{% endif %}">
+    <img src="{{ url_for('static', filename='images/home_snoopy.jpg') }}"
+         alt="Home" class="nav-link-img"/> Home
+  </a>
+  <a href="/guess" class="nav-link {% if 'guess' in request.endpoint %}active-guess{% endif %}">
+    <img src="{{ url_for('static', filename='images/guess_career_snoopy.jpg') }}"
+         alt="Guess" class="nav-link-img"/> Guess My Career
+  </a>
+  <a href="/explore" class="nav-link {% if 'explore' in request.endpoint %}active-explore{% endif %}">
+    <img src="{{ url_for('static', filename='images/explore_career_snoopy.jpg') }}"
+         alt="Explore" class="nav-link-img"/> Explore Careers
+  </a>
+  <a href="/about" class="nav-link {% if request.endpoint=='about' %}active-about{% endif %}">
+    <img src="{{ url_for('static', filename='images/about_snoopy.jpg') }}"
+         alt="About" class="nav-link-img"/> About
+  </a>
+</div>
+  </nav>
+
+  <main>{% block content %}{% endblock %}</main>
+
+  <footer class="site-footer">
+    Made with 💕 + Machine Learning &nbsp;🐾&nbsp; Inspired by the Career Ladder &nbsp;·&nbsp; ML Web App Midterm Project
+  </footer>
+
+  {% block scripts %}{% endblock %}
+</body>
+</html>
