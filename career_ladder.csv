@@ -1,0 +1,1501 @@
+career_name,domain,paid,customer_type,product_type,physical_presence,location_specific,scale,people_interaction,manual_work,creative_output,technical_work,uniqueness_level,automation_risk,social_impact,typical_age_min
+UX Designer,education,sometimes,platform,physical,yes,yes,large,medium,no,yes,yes,low,medium,medium,21
+Civil Engineer,design,sometimes,organizations,experience,no,no,small,medium,yes,no,yes,high,medium,high,15
+Vehicle Armoring Specialist,design,sometimes,platform,content,yes,yes,medium,high,no,yes,no,medium,medium,medium,22
+Marketing Specialist,non-profit,sometimes,companies,experience,no,no,large,medium,no,no,no,medium,low,low,14
+Teacher,entertainment,no,individuals,physical,sometimes,yes,small,medium,no,yes,no,medium,medium,medium,29
+Journalist,marketing,yes,organizations,content,yes,yes,small,medium,yes,yes,no,high,low,low,30
+Photographer,music,no,brands,service,sometimes,no,small,medium,no,yes,yes,high,high,medium,27
+UX Designer,marketing,sometimes,platform,content,yes,yes,small,low,yes,yes,no,medium,low,medium,29
+Community Manager,social media,sometimes,companies,digital,sometimes,yes,massive,high,no,yes,no,low,medium,low,14
+Photographer,non-profit,yes,organizations,experience,yes,yes,small,high,yes,no,no,medium,medium,medium,24
+Video Editor,automotive,no,companies,experience,sometimes,yes,massive,medium,yes,no,no,low,high,low,30
+Civil Engineer,design,sometimes,platform,digital,no,no,small,medium,yes,no,yes,high,low,medium,24
+Photographer,technology,sometimes,organizations,experience,no,yes,medium,high,yes,no,yes,high,medium,high,18
+Content Creator,music,sometimes,companies,experience,sometimes,yes,massive,medium,no,yes,no,low,high,low,17
+YouTuber,social media,yes,organizations,physical,sometimes,yes,massive,medium,yes,no,no,medium,medium,medium,30
+Journalist,religion,sometimes,individuals,physical,yes,yes,medium,high,no,no,yes,high,medium,low,19
+Marketing Specialist,education,yes,individuals,service,yes,no,medium,high,yes,yes,no,low,medium,medium,23
+Graphic Designer,education,yes,platform,physical,yes,yes,medium,high,no,yes,no,high,medium,medium,27
+Product Manager,automotive,no,organizations,digital,yes,no,small,high,no,no,yes,medium,low,medium,21
+Sound Engineer,design,sometimes,companies,digital,no,no,small,low,no,yes,no,high,medium,high,19
+Civil Engineer,marketing,sometimes,companies,experience,yes,no,small,high,no,no,no,low,high,high,28
+Journalist,music,no,individuals,experience,sometimes,yes,large,low,yes,no,yes,low,high,medium,16
+Civil Engineer,religion,no,organizations,experience,yes,no,large,medium,no,yes,no,medium,low,low,18
+Community Manager,social media,no,individuals,physical,sometimes,no,medium,high,yes,yes,yes,medium,low,medium,24
+Automotive Engineer,education,no,platform,content,no,no,massive,medium,yes,no,yes,high,medium,medium,27
+Social Media Influencer,automotive,no,brands,physical,no,yes,massive,medium,no,yes,no,low,low,low,26
+Church Choir Member,religion,no,brands,experience,no,yes,medium,low,no,yes,no,low,low,low,20
+Sound Engineer,marketing,sometimes,individuals,physical,no,yes,large,low,no,no,no,low,medium,high,22
+Civil Engineer,automotive,yes,individuals,experience,sometimes,no,small,high,yes,no,yes,low,low,high,29
+Marketing Specialist,music,yes,platform,digital,yes,yes,large,medium,yes,yes,yes,low,high,low,27
+Automotive Engineer,social media,sometimes,brands,physical,yes,no,medium,low,yes,yes,yes,high,low,medium,24
+Vehicle Armoring Specialist,design,no,individuals,physical,sometimes,yes,small,low,no,yes,no,high,low,high,22
+Community Manager,entertainment,no,organizations,physical,yes,yes,large,high,no,yes,no,low,high,medium,15
+Music Producer,technology,no,organizations,experience,yes,yes,massive,low,no,yes,yes,medium,medium,high,21
+Data Analyst,education,no,companies,service,no,yes,massive,medium,yes,yes,no,high,low,low,25
+Automotive Engineer,education,sometimes,platform,content,no,yes,small,high,yes,no,yes,medium,medium,medium,13
+Civil Engineer,marketing,no,companies,digital,no,no,small,high,no,yes,yes,low,high,medium,25
+Community Manager,automotive,sometimes,platform,service,sometimes,yes,massive,medium,no,no,no,low,high,medium,18
+Film Editor,religion,no,individuals,digital,sometimes,no,massive,high,yes,yes,no,low,low,low,13
+Social Media Influencer,entertainment,yes,individuals,service,sometimes,no,large,low,yes,yes,yes,high,low,medium,18
+Video Editor,social media,no,brands,experience,no,yes,small,medium,yes,yes,no,high,low,medium,17
+Journalist,design,no,brands,experience,sometimes,no,massive,low,yes,yes,no,high,medium,medium,20
+Mechanical Technician,non-profit,no,platform,experience,sometimes,no,massive,high,no,yes,no,high,medium,low,30
+UX Designer,religion,sometimes,individuals,physical,sometimes,yes,medium,medium,yes,no,yes,low,high,low,19
+Teacher,design,yes,platform,digital,sometimes,no,small,medium,no,no,no,medium,high,low,15
+Mechanical Technician,design,no,individuals,physical,sometimes,no,massive,low,no,no,yes,medium,low,low,26
+Photographer,entertainment,sometimes,organizations,service,yes,no,massive,medium,no,no,yes,high,high,high,26
+Religious Youth Leader,automotive,no,companies,digital,sometimes,no,massive,high,no,no,no,high,high,low,18
+Data Analyst,non-profit,sometimes,platform,content,sometimes,yes,small,medium,no,no,no,low,high,low,21
+Civil Engineer,music,sometimes,individuals,experience,yes,yes,small,medium,yes,yes,yes,medium,low,medium,18
+Community Manager,music,no,brands,service,no,yes,small,medium,no,no,no,low,low,high,17
+Church Choir Member,technology,sometimes,organizations,experience,sometimes,no,medium,high,yes,yes,yes,medium,medium,low,18
+Music Producer,marketing,no,individuals,experience,sometimes,yes,massive,medium,no,yes,yes,low,medium,medium,28
+Social Media Influencer,technology,yes,organizations,service,yes,yes,massive,high,yes,yes,no,low,high,high,14
+Product Manager,technology,no,individuals,digital,yes,no,small,medium,no,no,yes,high,high,low,18
+Church Choir Member,marketing,sometimes,platform,experience,sometimes,yes,small,medium,yes,yes,yes,low,medium,high,22
+YouTuber,design,sometimes,brands,digital,no,no,small,medium,yes,yes,yes,medium,low,high,18
+Data Analyst,social media,sometimes,companies,service,yes,no,medium,high,no,yes,no,medium,medium,low,29
+Fashion Model,marketing,no,platform,experience,no,yes,medium,low,no,no,no,low,high,low,25
+Marketing Specialist,entertainment,yes,individuals,physical,no,no,medium,low,no,yes,yes,medium,high,low,17
+Marketing Specialist,design,yes,companies,experience,yes,yes,small,high,yes,yes,no,low,medium,high,23
+Social Media Influencer,technology,no,individuals,digital,no,no,large,medium,yes,yes,no,high,low,low,24
+UX Designer,automotive,sometimes,companies,content,yes,no,small,high,yes,no,no,high,medium,high,21
+Community Manager,religion,yes,platform,service,yes,no,medium,high,yes,yes,yes,medium,medium,medium,22
+Architect,marketing,no,individuals,experience,sometimes,yes,small,medium,no,no,yes,high,low,high,30
+Automotive Engineer,education,sometimes,organizations,digital,yes,no,medium,high,yes,yes,no,high,medium,low,26
+Software Developer,non-profit,sometimes,individuals,content,no,no,medium,medium,yes,no,no,high,low,low,28
+Data Analyst,marketing,no,companies,digital,yes,yes,large,low,yes,no,yes,high,low,low,29
+Religious Youth Leader,non-profit,no,individuals,service,sometimes,yes,massive,medium,yes,no,yes,medium,medium,low,24
+Photographer,music,no,platform,physical,yes,no,medium,high,yes,yes,no,low,low,high,18
+Civil Engineer,technology,sometimes,individuals,experience,yes,yes,large,medium,no,no,no,low,high,low,17
+Data Analyst,music,sometimes,platform,service,no,yes,massive,medium,yes,no,yes,high,medium,medium,27
+Video Editor,marketing,sometimes,companies,physical,no,no,massive,high,no,yes,no,medium,low,medium,20
+Automotive Engineer,non-profit,sometimes,individuals,content,yes,no,medium,high,yes,no,yes,high,low,low,29
+Software Developer,education,yes,platform,digital,no,no,medium,medium,no,no,no,low,medium,high,13
+Fashion Model,non-profit,sometimes,brands,digital,yes,no,medium,high,no,yes,no,high,high,low,26
+UX Designer,education,yes,platform,service,sometimes,yes,medium,low,yes,yes,yes,medium,medium,low,14
+Photographer,social media,yes,individuals,digital,sometimes,yes,large,low,yes,no,no,high,medium,medium,14
+UX Designer,religion,yes,organizations,digital,sometimes,yes,medium,medium,yes,yes,no,high,high,low,28
+Data Analyst,social media,no,companies,content,sometimes,no,massive,high,no,no,yes,low,medium,high,25
+Fashion Model,education,no,brands,digital,no,yes,medium,medium,no,no,yes,high,medium,medium,14
+Video Editor,automotive,sometimes,organizations,experience,yes,no,medium,high,yes,no,yes,medium,high,medium,27
+Video Editor,music,no,platform,physical,yes,no,medium,high,no,yes,no,medium,high,medium,24
+Graphic Designer,social media,yes,platform,service,yes,yes,medium,high,no,no,no,high,low,medium,18
+Fashion Model,religion,yes,individuals,experience,yes,no,massive,high,yes,yes,no,medium,low,low,25
+Graphic Designer,music,sometimes,organizations,digital,sometimes,yes,massive,low,yes,no,yes,high,low,high,19
+UX Designer,music,sometimes,companies,digital,no,yes,large,medium,yes,yes,yes,medium,low,high,30
+Marketing Specialist,non-profit,yes,platform,digital,sometimes,yes,massive,high,yes,yes,yes,medium,low,low,20
+UX Designer,music,no,organizations,service,yes,yes,small,high,no,yes,yes,low,low,high,25
+YouTuber,automotive,sometimes,brands,physical,yes,no,small,high,yes,yes,no,low,medium,medium,26
+Church Choir Member,design,yes,companies,physical,no,yes,large,medium,no,no,no,medium,high,medium,19
+Event Coordinator,non-profit,no,platform,physical,yes,no,medium,low,yes,yes,yes,medium,medium,low,18
+Teacher,entertainment,sometimes,organizations,service,yes,no,massive,low,yes,no,no,high,low,medium,15
+Film Editor,non-profit,sometimes,platform,content,sometimes,yes,small,medium,yes,no,yes,medium,medium,low,19
+Video Editor,technology,no,organizations,content,sometimes,yes,large,high,no,no,yes,high,low,medium,28
+Data Analyst,design,yes,companies,physical,yes,no,large,high,yes,no,yes,high,low,medium,27
+Product Manager,marketing,yes,platform,physical,sometimes,yes,large,medium,yes,no,yes,high,medium,medium,25
+Film Editor,technology,yes,brands,service,no,yes,small,medium,yes,yes,no,medium,medium,low,29
+Software Developer,education,yes,platform,service,no,no,medium,low,yes,no,yes,low,high,high,17
+Church Choir Member,marketing,yes,platform,service,no,yes,large,low,no,yes,no,low,medium,low,28
+Music Producer,technology,sometimes,platform,digital,sometimes,yes,medium,high,yes,no,no,medium,high,low,23
+Data Analyst,entertainment,sometimes,organizations,content,sometimes,no,massive,high,yes,no,yes,low,high,low,14
+Civil Engineer,design,no,platform,digital,sometimes,yes,small,high,no,yes,no,high,high,high,23
+Mechanical Technician,technology,sometimes,brands,content,no,no,massive,medium,no,no,yes,high,high,low,27
+Music Producer,design,yes,organizations,experience,sometimes,no,small,low,yes,yes,yes,low,medium,high,17
+Marketing Specialist,technology,yes,individuals,content,sometimes,yes,large,high,no,no,yes,high,low,low,16
+Civil Engineer,education,no,companies,service,no,no,medium,medium,yes,yes,no,low,low,high,24
+Game Designer,marketing,no,companies,experience,no,no,medium,low,no,no,yes,high,high,medium,13
+YouTuber,non-profit,no,brands,experience,sometimes,no,massive,high,yes,no,no,medium,low,medium,22
+Automotive Engineer,automotive,yes,companies,content,sometimes,no,massive,medium,no,no,no,high,medium,medium,25
+Journalist,entertainment,sometimes,platform,physical,no,yes,medium,medium,yes,no,no,high,low,medium,29
+Photographer,non-profit,yes,organizations,content,yes,no,medium,medium,no,no,no,low,low,high,14
+Product Manager,marketing,sometimes,companies,physical,sometimes,yes,massive,medium,yes,no,yes,medium,high,medium,15
+Social Media Influencer,technology,yes,platform,physical,sometimes,yes,massive,low,yes,yes,yes,high,medium,low,20
+Video Editor,automotive,yes,brands,content,yes,yes,medium,high,no,no,yes,medium,medium,low,18
+Game Designer,non-profit,sometimes,platform,content,sometimes,no,large,medium,no,no,no,high,medium,medium,26
+YouTuber,music,yes,organizations,experience,yes,no,medium,high,no,no,no,low,high,high,28
+Photographer,social media,sometimes,brands,content,sometimes,no,small,high,no,no,yes,medium,medium,medium,22
+Photographer,design,yes,organizations,digital,yes,no,massive,medium,no,yes,no,high,medium,high,18
+Journalist,automotive,no,organizations,digital,sometimes,yes,medium,low,no,yes,yes,low,high,low,29
+Sound Engineer,religion,yes,brands,physical,yes,no,massive,medium,yes,no,yes,medium,medium,medium,27
+Civil Engineer,automotive,no,platform,content,sometimes,no,large,low,yes,no,no,high,medium,high,25
+YouTuber,technology,yes,organizations,digital,yes,no,massive,medium,no,yes,yes,low,low,high,29
+Video Editor,technology,yes,companies,physical,no,no,massive,medium,yes,yes,no,high,high,high,29
+Church Choir Member,religion,no,platform,digital,sometimes,no,massive,medium,yes,yes,yes,medium,medium,medium,29
+Event Coordinator,non-profit,yes,platform,experience,no,yes,large,medium,no,no,no,high,medium,medium,16
+Church Choir Member,education,no,platform,service,yes,no,massive,high,yes,no,yes,high,low,low,15
+Data Analyst,education,no,organizations,service,no,no,medium,low,yes,yes,no,high,low,high,28
+Civil Engineer,music,no,companies,experience,sometimes,yes,medium,medium,yes,yes,yes,high,medium,medium,17
+Teacher,marketing,yes,companies,experience,no,no,massive,high,no,no,no,high,medium,low,23
+Civil Engineer,social media,yes,companies,digital,no,yes,massive,low,yes,yes,no,high,high,high,28
+Community Manager,music,yes,platform,digital,sometimes,yes,small,medium,no,no,no,high,medium,low,23
+Graphic Designer,social media,yes,individuals,physical,yes,yes,massive,medium,no,no,yes,low,medium,low,26
+NGO Worker,education,yes,brands,digital,no,no,large,medium,no,no,yes,medium,high,low,13
+Video Editor,entertainment,sometimes,companies,digital,yes,no,medium,high,no,no,yes,medium,medium,low,16
+UX Designer,automotive,sometimes,platform,service,no,no,medium,medium,no,yes,no,medium,high,low,14
+YouTuber,entertainment,yes,platform,content,no,no,small,low,no,no,yes,high,high,low,26
+Automotive Engineer,automotive,yes,companies,physical,yes,no,massive,medium,yes,no,yes,medium,high,low,19
+Content Creator,music,yes,individuals,content,yes,no,large,medium,yes,yes,yes,medium,medium,medium,21
+Graphic Designer,education,no,organizations,digital,sometimes,no,large,medium,yes,no,no,high,high,medium,26
+Music Producer,education,no,organizations,physical,no,yes,medium,low,no,yes,yes,medium,high,high,19
+Event Coordinator,marketing,yes,platform,experience,no,no,small,medium,no,no,yes,low,high,low,14
+Product Manager,design,no,organizations,experience,sometimes,no,massive,high,yes,yes,no,high,medium,medium,18
+UX Designer,automotive,sometimes,individuals,digital,sometimes,no,large,low,no,no,yes,medium,high,high,13
+Teacher,education,sometimes,organizations,physical,no,yes,medium,high,no,no,yes,medium,medium,low,21
+Product Manager,entertainment,sometimes,companies,experience,sometimes,no,large,high,no,yes,no,high,low,medium,30
+YouTuber,social media,sometimes,individuals,service,yes,no,small,low,yes,yes,yes,low,high,low,24
+Photographer,social media,sometimes,individuals,digital,no,yes,massive,low,no,yes,yes,high,medium,low,30
+Architect,automotive,sometimes,brands,service,sometimes,yes,small,low,yes,yes,yes,low,medium,medium,26
+Video Editor,music,sometimes,platform,content,no,yes,large,high,yes,no,no,low,high,low,16
+Data Analyst,design,yes,individuals,experience,no,no,massive,medium,no,no,yes,high,low,low,21
+Content Creator,religion,no,brands,content,yes,yes,small,high,no,yes,yes,medium,medium,low,28
+Data Analyst,non-profit,yes,individuals,digital,no,yes,large,medium,yes,no,no,medium,low,low,23
+Vehicle Armoring Specialist,education,no,platform,experience,no,no,medium,high,yes,no,yes,low,high,high,22
+Photographer,religion,yes,individuals,content,no,yes,small,low,yes,yes,no,low,low,high,13
+Photographer,marketing,yes,organizations,content,yes,yes,large,medium,yes,yes,yes,medium,high,low,18
+Fashion Model,entertainment,sometimes,platform,physical,no,no,small,high,no,no,yes,high,medium,high,18
+Event Coordinator,social media,sometimes,companies,physical,no,yes,medium,medium,no,no,yes,low,medium,medium,29
+UX Designer,marketing,no,brands,content,no,no,small,low,yes,yes,yes,medium,low,high,28
+Film Editor,marketing,sometimes,brands,experience,sometimes,no,massive,medium,no,no,yes,low,high,high,18
+Software Developer,social media,sometimes,platform,service,yes,no,medium,low,yes,no,no,medium,low,low,27
+Sound Engineer,social media,sometimes,companies,digital,no,yes,medium,high,no,no,no,high,medium,low,22
+Community Manager,non-profit,sometimes,companies,physical,sometimes,yes,small,high,yes,yes,no,high,high,low,17
+Mechanical Technician,marketing,no,companies,digital,yes,no,large,medium,no,yes,no,high,medium,low,27
+Graphic Designer,technology,sometimes,companies,experience,yes,yes,medium,high,yes,yes,no,high,high,low,25
+Event Coordinator,music,sometimes,individuals,content,sometimes,no,medium,low,yes,yes,yes,medium,low,low,29
+Mechanical Technician,technology,yes,individuals,experience,sometimes,yes,small,low,no,yes,no,medium,medium,low,20
+YouTuber,automotive,no,brands,physical,yes,yes,large,medium,no,yes,no,low,low,medium,28
+Content Creator,non-profit,sometimes,individuals,content,no,no,large,high,no,yes,no,low,medium,low,23
+UX Designer,automotive,sometimes,platform,digital,sometimes,yes,massive,low,no,no,no,medium,high,high,25
+Religious Youth Leader,technology,yes,companies,service,yes,yes,small,low,yes,no,no,low,high,medium,26
+Podcast Host,technology,sometimes,organizations,content,yes,no,medium,high,no,no,no,medium,low,high,23
+Religious Youth Leader,technology,no,organizations,physical,yes,no,medium,low,no,yes,yes,medium,medium,high,19
+Mechanical Technician,design,yes,brands,experience,no,yes,small,low,yes,yes,yes,high,low,high,19
+Music Producer,design,sometimes,organizations,digital,no,no,small,high,yes,no,yes,low,high,high,25
+Film Editor,design,sometimes,individuals,service,no,yes,large,low,no,yes,no,high,low,high,28
+Architect,non-profit,yes,organizations,content,no,no,small,high,yes,yes,no,medium,high,high,24
+Journalist,non-profit,sometimes,companies,content,yes,yes,massive,low,no,no,no,high,high,low,29
+Product Manager,music,sometimes,brands,content,sometimes,no,large,medium,no,no,no,low,medium,medium,13
+Automotive Engineer,technology,sometimes,organizations,digital,yes,yes,medium,medium,no,no,no,high,low,high,27
+Mechanical Technician,entertainment,yes,platform,physical,yes,yes,massive,low,yes,no,no,low,low,low,19
+Software Developer,music,yes,brands,experience,sometimes,yes,medium,low,yes,no,no,high,medium,high,27
+Social Media Influencer,automotive,sometimes,organizations,content,yes,yes,massive,low,no,no,yes,low,medium,low,17
+YouTuber,design,sometimes,platform,physical,no,yes,medium,low,no,yes,no,high,high,high,15
+Vehicle Armoring Specialist,automotive,sometimes,organizations,content,sometimes,no,large,medium,yes,yes,yes,low,medium,medium,20
+Automotive Engineer,entertainment,yes,platform,experience,no,yes,large,high,yes,no,yes,low,high,high,16
+Game Designer,religion,yes,individuals,experience,no,yes,small,low,yes,yes,yes,medium,low,medium,17
+Content Creator,social media,yes,platform,digital,sometimes,no,small,high,no,no,yes,low,high,low,13
+Graphic Designer,religion,no,platform,physical,yes,no,medium,low,yes,no,no,medium,medium,medium,29
+Vehicle Armoring Specialist,design,no,organizations,physical,yes,yes,large,high,no,no,no,high,medium,low,21
+Film Editor,entertainment,no,companies,physical,sometimes,yes,massive,medium,no,no,no,medium,high,low,17
+Data Analyst,social media,sometimes,organizations,digital,no,yes,small,medium,yes,no,yes,high,high,high,22
+Video Editor,religion,no,platform,digital,sometimes,no,large,low,yes,yes,no,medium,low,medium,15
+Marketing Specialist,non-profit,sometimes,brands,experience,no,yes,large,medium,yes,yes,yes,medium,medium,low,15
+Photographer,music,sometimes,platform,physical,no,yes,massive,high,yes,no,no,medium,low,medium,17
+Interior Designer,design,sometimes,brands,digital,yes,yes,medium,low,yes,yes,yes,medium,low,medium,23
+Video Editor,entertainment,sometimes,platform,experience,no,no,massive,low,yes,yes,yes,low,low,high,19
+Community Manager,music,yes,platform,digital,yes,no,small,low,yes,yes,no,high,high,high,25
+Data Analyst,religion,sometimes,companies,service,sometimes,yes,medium,medium,no,yes,no,medium,low,high,26
+Software Developer,music,yes,platform,service,sometimes,no,medium,high,yes,no,no,high,high,medium,22
+Interior Designer,non-profit,sometimes,brands,service,yes,yes,large,medium,yes,no,yes,medium,high,low,13
+Content Creator,marketing,yes,individuals,digital,no,no,massive,high,no,yes,no,medium,high,medium,25
+Social Media Influencer,music,no,individuals,physical,sometimes,yes,large,high,yes,no,yes,medium,high,low,18
+Video Editor,design,sometimes,brands,digital,no,yes,large,low,no,yes,yes,medium,medium,medium,22
+Teacher,social media,no,individuals,experience,yes,yes,small,medium,no,yes,no,medium,medium,high,28
+Social Media Influencer,non-profit,yes,companies,experience,yes,yes,massive,high,no,yes,no,medium,medium,low,27
+Community Manager,marketing,sometimes,brands,digital,yes,yes,small,high,yes,yes,yes,low,low,medium,28
+Church Choir Member,marketing,no,individuals,physical,sometimes,no,medium,low,yes,yes,yes,medium,low,low,17
+Video Editor,entertainment,no,individuals,experience,yes,yes,massive,low,yes,yes,yes,high,medium,high,30
+Mechanical Technician,music,yes,platform,content,yes,yes,medium,medium,no,yes,yes,low,low,medium,20
+Graphic Designer,social media,yes,individuals,physical,yes,yes,large,low,no,no,yes,high,high,high,23
+Teacher,entertainment,sometimes,organizations,experience,no,yes,medium,high,no,yes,yes,high,low,high,29
+Sound Engineer,automotive,no,organizations,service,no,yes,massive,medium,no,yes,yes,medium,low,low,25
+Vehicle Armoring Specialist,design,no,brands,service,no,yes,large,medium,yes,no,no,low,high,medium,27
+Game Designer,education,sometimes,organizations,content,yes,no,medium,low,yes,no,no,low,high,low,16
+Teacher,religion,sometimes,platform,physical,yes,no,massive,high,yes,no,yes,high,medium,medium,13
+Fashion Model,technology,no,individuals,content,yes,no,small,high,yes,no,no,medium,medium,medium,16
+Marketing Specialist,design,yes,companies,service,sometimes,no,large,high,yes,yes,yes,medium,low,low,27
+Church Choir Member,design,yes,brands,service,no,no,medium,medium,yes,yes,yes,high,low,high,25
+Graphic Designer,automotive,yes,individuals,content,sometimes,no,small,medium,no,no,no,high,high,high,21
+Event Coordinator,design,yes,individuals,digital,yes,yes,large,low,no,yes,yes,medium,medium,high,29
+Game Designer,music,no,organizations,service,sometimes,yes,massive,low,no,no,yes,medium,low,medium,28
+Civil Engineer,music,no,individuals,physical,sometimes,yes,small,low,no,yes,no,high,low,low,19
+Civil Engineer,social media,yes,individuals,digital,yes,yes,large,medium,yes,yes,yes,high,low,low,30
+Interior Designer,non-profit,sometimes,companies,content,no,yes,small,high,no,no,no,high,medium,medium,18
+Podcast Host,non-profit,yes,brands,digital,sometimes,yes,massive,low,yes,yes,yes,low,high,high,23
+Content Creator,social media,sometimes,individuals,content,yes,yes,medium,high,no,no,yes,medium,low,medium,22
+Photographer,marketing,sometimes,organizations,content,sometimes,yes,massive,low,no,yes,yes,high,low,low,25
+Video Editor,technology,no,organizations,physical,no,no,large,high,yes,yes,yes,low,high,medium,21
+Civil Engineer,religion,yes,individuals,experience,yes,no,large,medium,no,yes,no,high,low,low,27
+Architect,social media,sometimes,companies,content,no,yes,small,high,no,no,yes,low,high,low,19
+Data Analyst,design,no,brands,digital,no,no,medium,high,yes,yes,yes,high,medium,low,16
+Film Editor,non-profit,no,brands,physical,sometimes,yes,massive,low,yes,no,no,high,medium,medium,28
+Automotive Engineer,music,no,individuals,digital,sometimes,no,massive,medium,yes,no,yes,low,low,low,15
+Church Choir Member,technology,sometimes,organizations,experience,no,no,medium,high,yes,no,yes,high,high,medium,29
+Church Choir Member,music,yes,organizations,physical,yes,no,small,low,yes,yes,yes,high,high,medium,30
+Social Media Influencer,marketing,yes,brands,service,no,no,large,low,yes,no,yes,high,high,high,28
+Marketing Specialist,marketing,no,brands,digital,sometimes,yes,massive,high,no,yes,no,low,high,medium,14
+Content Creator,technology,sometimes,organizations,service,sometimes,no,small,low,no,no,no,low,medium,high,25
+Photographer,marketing,yes,individuals,physical,yes,no,medium,low,no,yes,no,medium,low,high,22
+Sound Engineer,social media,sometimes,brands,service,yes,yes,medium,low,no,no,yes,medium,medium,low,20
+Podcast Host,non-profit,sometimes,organizations,physical,yes,no,medium,medium,no,no,yes,medium,high,low,30
+Teacher,religion,no,platform,content,yes,no,small,medium,yes,yes,yes,medium,medium,high,27
+Automotive Engineer,marketing,no,platform,digital,yes,no,medium,low,yes,yes,yes,high,medium,high,29
+Film Editor,entertainment,sometimes,companies,content,yes,no,small,low,yes,yes,no,high,medium,medium,25
+NGO Worker,non-profit,sometimes,platform,physical,yes,no,large,low,no,yes,no,low,medium,high,23
+Vehicle Armoring Specialist,technology,no,individuals,service,sometimes,yes,large,low,no,yes,yes,medium,high,medium,15
+Fashion Model,non-profit,sometimes,platform,service,sometimes,no,small,medium,yes,yes,yes,low,high,low,28
+Journalist,non-profit,yes,platform,content,yes,yes,massive,medium,no,no,no,low,high,medium,28
+Music Producer,social media,no,brands,service,yes,yes,medium,low,yes,yes,yes,medium,low,low,27
+Data Analyst,automotive,sometimes,individuals,physical,sometimes,no,medium,low,yes,no,no,high,low,high,27
+Automotive Engineer,non-profit,no,organizations,service,sometimes,yes,massive,high,no,no,yes,high,medium,low,19
+Product Manager,automotive,no,brands,experience,no,yes,large,medium,no,yes,no,low,high,high,22
+Product Manager,automotive,no,individuals,physical,sometimes,yes,massive,low,no,yes,yes,low,medium,medium,17
+Architect,religion,no,organizations,content,yes,yes,medium,low,yes,no,no,high,high,medium,14
+Automotive Engineer,design,yes,organizations,service,no,yes,massive,high,yes,no,no,high,medium,low,15
+Software Developer,marketing,yes,platform,content,no,yes,massive,medium,no,no,no,medium,medium,low,24
+Film Editor,religion,sometimes,platform,service,no,yes,massive,low,yes,yes,yes,low,high,medium,18
+Podcast Host,entertainment,sometimes,companies,experience,no,yes,massive,low,yes,no,no,low,low,high,20
+Journalist,entertainment,sometimes,individuals,service,no,no,large,low,yes,yes,no,medium,medium,low,22
+Podcast Host,automotive,no,individuals,physical,yes,yes,massive,medium,no,no,yes,low,medium,high,30
+Film Editor,religion,no,companies,content,no,yes,medium,low,no,yes,yes,medium,low,medium,28
+Photographer,entertainment,sometimes,platform,content,sometimes,yes,large,medium,no,no,yes,medium,low,low,20
+Product Manager,technology,no,organizations,service,yes,yes,massive,low,no,no,yes,high,medium,high,21
+Event Coordinator,technology,yes,organizations,content,no,yes,small,low,yes,no,yes,low,low,high,26
+NGO Worker,technology,no,brands,digital,yes,no,medium,medium,no,no,no,medium,high,medium,16
+YouTuber,marketing,yes,individuals,content,yes,no,medium,high,no,no,no,low,low,low,25
+YouTuber,religion,sometimes,individuals,content,no,no,massive,medium,yes,no,yes,low,medium,low,26
+Marketing Specialist,technology,yes,individuals,content,yes,no,medium,high,no,no,no,medium,high,high,16
+Photographer,education,no,companies,physical,yes,yes,small,low,no,no,yes,high,medium,low,24
+Interior Designer,non-profit,no,brands,digital,no,no,small,medium,no,no,no,high,low,medium,15
+Journalist,non-profit,no,companies,content,sometimes,no,medium,medium,yes,yes,no,low,low,medium,30
+Graphic Designer,entertainment,sometimes,brands,physical,no,no,small,medium,no,yes,yes,medium,medium,low,22
+YouTuber,non-profit,yes,companies,physical,no,no,medium,low,no,yes,yes,low,high,low,28
+Video Editor,technology,sometimes,brands,experience,no,no,small,low,no,yes,yes,low,medium,high,19
+Religious Youth Leader,religion,sometimes,companies,experience,sometimes,no,large,medium,no,yes,yes,medium,high,medium,20
+Architect,design,yes,organizations,physical,no,no,medium,medium,yes,no,yes,medium,medium,high,25
+Fashion Model,entertainment,yes,platform,physical,no,no,massive,low,no,yes,no,low,low,low,14
+Interior Designer,non-profit,no,companies,content,no,yes,large,high,yes,yes,yes,low,low,high,23
+Film Editor,technology,yes,companies,content,sometimes,no,small,low,no,yes,yes,high,low,high,26
+Podcast Host,music,no,companies,experience,sometimes,no,medium,high,yes,yes,yes,high,medium,low,20
+Marketing Specialist,non-profit,yes,individuals,physical,sometimes,yes,small,high,no,no,no,medium,medium,medium,19
+Data Analyst,technology,sometimes,brands,service,yes,yes,massive,high,yes,yes,yes,low,medium,low,18
+Journalist,marketing,yes,companies,content,yes,yes,medium,high,yes,no,no,medium,low,high,19
+Fashion Model,education,sometimes,individuals,digital,yes,yes,small,low,yes,no,no,low,low,high,24
+NGO Worker,entertainment,no,platform,experience,sometimes,no,small,medium,yes,yes,yes,low,medium,high,30
+Teacher,religion,no,platform,content,no,no,small,high,yes,no,no,high,medium,high,27
+Automotive Engineer,automotive,sometimes,platform,service,no,no,medium,high,yes,no,yes,low,high,high,17
+NGO Worker,non-profit,yes,organizations,content,sometimes,no,massive,high,no,no,yes,low,medium,high,17
+Data Analyst,non-profit,yes,individuals,content,yes,no,small,high,no,no,no,medium,medium,high,23
+Automotive Engineer,technology,no,platform,experience,sometimes,no,massive,medium,yes,yes,no,medium,low,medium,27
+Sound Engineer,entertainment,no,brands,experience,sometimes,no,massive,high,yes,yes,yes,high,high,low,23
+Fashion Model,education,sometimes,companies,physical,no,no,massive,medium,yes,no,no,low,medium,low,27
+Community Manager,religion,yes,individuals,content,no,yes,small,low,no,no,yes,medium,medium,medium,24
+Video Editor,technology,sometimes,platform,service,no,no,small,low,yes,no,no,high,low,high,25
+Content Creator,marketing,sometimes,brands,experience,yes,no,massive,medium,yes,yes,yes,medium,low,high,26
+Teacher,education,yes,platform,content,yes,yes,small,medium,yes,yes,yes,high,medium,medium,27
+YouTuber,music,sometimes,platform,service,no,yes,large,medium,no,yes,no,high,high,low,17
+Graphic Designer,automotive,yes,companies,experience,no,yes,small,medium,yes,yes,no,medium,medium,low,25
+Journalist,entertainment,no,companies,physical,yes,no,large,low,no,no,no,low,low,high,22
+NGO Worker,religion,yes,organizations,content,yes,yes,massive,high,no,yes,yes,low,medium,low,24
+Content Creator,technology,no,brands,digital,no,no,massive,low,yes,yes,yes,high,medium,high,18
+Graphic Designer,music,sometimes,platform,physical,yes,no,massive,medium,yes,no,yes,low,high,high,26
+Architect,design,yes,organizations,physical,yes,no,small,medium,no,no,no,medium,medium,low,18
+Game Designer,automotive,no,individuals,digital,yes,no,massive,high,yes,yes,no,medium,low,high,29
+Podcast Host,entertainment,yes,organizations,service,sometimes,no,massive,low,no,no,no,low,medium,high,17
+Social Media Influencer,social media,sometimes,companies,content,yes,no,medium,low,yes,yes,yes,low,low,low,21
+Sound Engineer,entertainment,no,brands,physical,sometimes,no,medium,medium,no,yes,yes,high,low,high,30
+Church Choir Member,marketing,yes,individuals,digital,sometimes,yes,massive,low,no,yes,no,low,high,medium,29
+Architect,music,sometimes,companies,experience,sometimes,yes,massive,high,yes,yes,no,high,medium,low,21
+Game Designer,entertainment,no,brands,physical,sometimes,yes,small,medium,yes,yes,yes,low,high,high,15
+Product Manager,marketing,yes,platform,content,yes,no,small,high,yes,yes,no,medium,medium,medium,27
+Video Editor,religion,sometimes,organizations,digital,sometimes,no,massive,high,no,no,no,medium,medium,medium,21
+Vehicle Armoring Specialist,non-profit,yes,organizations,digital,no,no,large,low,yes,yes,yes,low,low,high,30
+Game Designer,non-profit,yes,brands,service,yes,no,medium,high,yes,yes,yes,high,medium,high,30
+Sound Engineer,music,sometimes,individuals,content,no,yes,medium,low,yes,no,no,medium,low,low,26
+Teacher,religion,sometimes,platform,content,no,yes,large,high,yes,no,no,low,low,high,28
+Software Developer,marketing,yes,individuals,service,no,yes,large,medium,yes,no,no,medium,medium,medium,27
+Architect,social media,sometimes,platform,content,no,no,massive,low,yes,yes,yes,high,high,low,21
+Fashion Model,marketing,sometimes,individuals,experience,sometimes,yes,large,high,yes,yes,yes,low,medium,low,20
+Church Choir Member,social media,yes,companies,digital,yes,yes,medium,low,yes,yes,yes,medium,medium,medium,30
+Social Media Influencer,technology,sometimes,organizations,service,sometimes,yes,medium,low,no,no,no,low,high,high,21
+Software Developer,religion,yes,organizations,service,no,yes,small,low,no,no,yes,medium,medium,low,20
+Architect,marketing,no,companies,physical,yes,no,small,medium,no,yes,no,high,low,high,22
+Event Coordinator,religion,no,organizations,digital,yes,yes,large,high,no,no,no,low,medium,medium,17
+YouTuber,music,yes,brands,physical,no,no,medium,high,no,no,yes,medium,low,low,26
+Fashion Model,religion,sometimes,organizations,service,sometimes,no,massive,medium,yes,no,yes,high,high,medium,22
+Game Designer,non-profit,no,individuals,service,yes,yes,massive,low,yes,no,no,high,medium,low,15
+Teacher,music,no,platform,experience,yes,yes,large,low,no,no,yes,medium,high,low,15
+Data Analyst,entertainment,no,companies,content,no,no,large,medium,no,no,yes,low,high,high,25
+Civil Engineer,non-profit,sometimes,brands,physical,no,yes,large,medium,no,no,yes,high,medium,high,18
+Product Manager,design,yes,platform,physical,yes,yes,small,low,yes,yes,yes,high,high,high,16
+Event Coordinator,marketing,sometimes,platform,physical,sometimes,no,massive,high,no,yes,yes,high,medium,medium,14
+Graphic Designer,entertainment,sometimes,organizations,experience,sometimes,yes,large,medium,yes,yes,yes,low,low,high,17
+Community Manager,automotive,yes,brands,content,no,no,medium,medium,yes,yes,no,low,low,medium,20
+Interior Designer,design,sometimes,companies,physical,sometimes,no,small,low,yes,no,no,medium,medium,high,21
+Fashion Model,music,sometimes,organizations,content,sometimes,yes,large,low,no,no,no,low,medium,high,26
+Social Media Influencer,technology,no,companies,physical,yes,no,massive,high,yes,yes,yes,low,medium,medium,18
+Photographer,social media,yes,platform,physical,yes,yes,large,medium,yes,no,no,high,medium,low,16
+Product Manager,entertainment,yes,companies,content,sometimes,yes,medium,high,yes,yes,yes,medium,medium,low,19
+Journalist,automotive,sometimes,companies,digital,yes,yes,small,low,no,no,no,high,high,low,16
+Podcast Host,automotive,sometimes,brands,service,no,yes,large,low,no,yes,yes,medium,medium,high,13
+Architect,music,no,companies,physical,no,yes,small,high,no,no,yes,low,low,high,13
+Mechanical Technician,design,sometimes,brands,content,sometimes,no,massive,medium,yes,yes,no,low,high,low,26
+Graphic Designer,automotive,sometimes,platform,digital,yes,no,medium,medium,no,yes,no,low,high,high,17
+Podcast Host,technology,sometimes,brands,content,yes,no,large,medium,yes,no,no,low,medium,low,14
+Teacher,automotive,yes,platform,digital,no,no,medium,low,yes,yes,yes,medium,high,high,29
+Church Choir Member,social media,sometimes,companies,service,no,yes,small,high,no,yes,yes,medium,medium,high,29
+Mechanical Technician,marketing,yes,individuals,digital,no,yes,large,high,yes,yes,yes,low,high,medium,17
+Sound Engineer,social media,no,platform,physical,yes,no,medium,low,yes,yes,yes,medium,medium,medium,29
+Social Media Influencer,music,sometimes,brands,content,yes,no,medium,low,yes,no,yes,medium,medium,medium,15
+Event Coordinator,automotive,no,brands,content,yes,yes,large,high,no,no,yes,high,low,high,22
+Church Choir Member,non-profit,yes,companies,digital,no,yes,medium,low,no,no,yes,low,medium,medium,20
+YouTuber,marketing,sometimes,companies,experience,yes,no,large,medium,no,no,yes,medium,medium,low,27
+Product Manager,marketing,yes,brands,physical,yes,yes,massive,low,yes,no,yes,medium,high,medium,21
+Church Choir Member,social media,sometimes,platform,digital,no,no,small,high,yes,no,yes,medium,medium,low,29
+Religious Youth Leader,social media,no,organizations,physical,sometimes,no,large,medium,yes,yes,no,medium,medium,medium,23
+Interior Designer,marketing,sometimes,companies,physical,no,yes,large,medium,no,yes,no,high,medium,high,30
+Music Producer,music,yes,companies,digital,sometimes,no,medium,low,yes,no,yes,high,low,high,27
+Church Choir Member,technology,yes,companies,digital,no,no,medium,low,yes,yes,no,high,medium,high,27
+Fashion Model,entertainment,yes,platform,digital,yes,no,medium,high,yes,no,no,low,medium,medium,29
+Marketing Specialist,education,no,individuals,service,yes,no,massive,high,yes,yes,no,medium,high,medium,30
+YouTuber,music,sometimes,platform,service,sometimes,yes,large,high,yes,yes,yes,high,medium,low,19
+Data Analyst,non-profit,sometimes,brands,content,no,no,large,low,no,yes,no,medium,high,medium,29
+Fashion Model,technology,sometimes,brands,service,no,no,medium,medium,no,yes,no,high,high,medium,29
+YouTuber,education,yes,organizations,digital,yes,no,massive,medium,yes,no,yes,medium,low,medium,24
+Event Coordinator,entertainment,yes,platform,service,no,yes,large,medium,yes,no,no,high,low,high,22
+UX Designer,entertainment,yes,organizations,content,no,no,medium,medium,no,yes,no,high,high,medium,25
+Photographer,non-profit,sometimes,platform,content,no,yes,large,low,yes,no,yes,low,medium,low,25
+Podcast Host,technology,no,brands,service,sometimes,yes,small,medium,yes,yes,no,high,low,high,14
+Game Designer,religion,no,individuals,digital,sometimes,no,small,medium,no,yes,yes,high,high,low,15
+Marketing Specialist,education,no,platform,content,sometimes,yes,medium,high,no,no,no,high,medium,low,15
+Marketing Specialist,non-profit,yes,individuals,content,no,yes,medium,medium,no,no,yes,medium,medium,low,25
+Religious Youth Leader,non-profit,sometimes,companies,digital,no,no,massive,low,yes,yes,yes,medium,high,low,30
+Journalist,social media,no,organizations,physical,sometimes,no,small,medium,no,no,no,high,medium,high,16
+Data Analyst,education,yes,individuals,physical,no,yes,large,high,no,no,no,low,medium,medium,14
+Podcast Host,marketing,no,organizations,content,sometimes,yes,large,high,yes,no,yes,high,high,high,28
+Mechanical Technician,music,yes,brands,digital,no,yes,medium,low,yes,yes,yes,medium,medium,low,27
+Data Analyst,education,no,platform,digital,no,yes,medium,high,no,no,no,medium,high,medium,23
+NGO Worker,social media,yes,organizations,experience,yes,no,medium,low,no,yes,no,medium,low,medium,23
+Marketing Specialist,automotive,sometimes,companies,digital,no,no,large,high,yes,yes,yes,high,high,medium,13
+Software Developer,music,sometimes,platform,digital,sometimes,no,medium,low,yes,no,yes,medium,high,low,19
+Film Editor,religion,no,brands,service,no,yes,medium,medium,no,yes,no,low,high,medium,16
+Sound Engineer,education,no,platform,physical,no,yes,large,medium,yes,no,no,high,medium,high,17
+Graphic Designer,entertainment,sometimes,companies,physical,sometimes,yes,large,low,yes,no,yes,medium,high,high,26
+Music Producer,design,sometimes,organizations,experience,sometimes,yes,medium,high,yes,no,no,high,medium,medium,18
+Architect,technology,sometimes,platform,content,sometimes,no,medium,low,no,no,yes,low,low,high,29
+Game Designer,social media,no,companies,digital,yes,no,massive,high,no,no,yes,high,high,medium,20
+Automotive Engineer,music,sometimes,brands,physical,sometimes,yes,large,high,yes,yes,no,medium,low,low,23
+Podcast Host,marketing,no,brands,service,sometimes,no,medium,low,no,yes,yes,medium,high,low,30
+Event Coordinator,automotive,yes,organizations,digital,no,yes,massive,low,no,yes,yes,low,medium,medium,25
+Podcast Host,technology,no,organizations,content,no,no,medium,low,yes,no,yes,low,medium,low,20
+Interior Designer,technology,sometimes,organizations,physical,yes,yes,large,medium,yes,yes,yes,low,low,high,22
+Data Analyst,education,yes,organizations,experience,sometimes,no,massive,low,yes,no,yes,high,low,medium,17
+Fashion Model,social media,sometimes,organizations,digital,yes,no,medium,medium,yes,no,no,low,high,medium,28
+Vehicle Armoring Specialist,entertainment,no,platform,content,sometimes,yes,massive,medium,no,yes,yes,medium,medium,low,30
+Architect,music,no,organizations,digital,yes,yes,large,medium,yes,no,no,high,low,medium,14
+Automotive Engineer,non-profit,sometimes,companies,physical,yes,yes,massive,medium,no,yes,yes,high,high,high,21
+Fashion Model,religion,no,companies,physical,sometimes,no,small,medium,no,no,yes,low,low,low,26
+Community Manager,technology,sometimes,companies,digital,sometimes,no,massive,medium,no,no,yes,low,medium,medium,28
+Social Media Influencer,education,no,organizations,service,yes,yes,massive,low,no,yes,yes,low,low,low,13
+Software Developer,automotive,sometimes,brands,experience,no,no,large,medium,yes,no,no,low,medium,low,26
+Fashion Model,entertainment,yes,companies,digital,no,no,large,medium,no,no,no,low,low,high,29
+Podcast Host,religion,no,companies,service,yes,yes,large,high,yes,no,yes,low,low,medium,25
+Data Analyst,entertainment,yes,organizations,digital,no,no,small,medium,yes,yes,no,medium,medium,low,24
+UX Designer,marketing,yes,organizations,physical,no,yes,large,medium,no,no,yes,low,medium,low,18
+Automotive Engineer,non-profit,sometimes,platform,physical,sometimes,yes,small,low,yes,yes,yes,high,medium,medium,22
+YouTuber,non-profit,yes,companies,experience,yes,no,massive,high,yes,no,no,low,medium,high,29
+Graphic Designer,automotive,no,companies,service,no,no,small,low,no,yes,no,medium,medium,high,14
+Data Analyst,design,no,organizations,physical,sometimes,yes,small,low,yes,no,yes,medium,low,high,19
+Photographer,music,sometimes,companies,service,no,no,medium,high,no,yes,no,low,medium,medium,14
+Film Editor,entertainment,yes,individuals,digital,yes,yes,massive,high,no,no,yes,low,medium,high,26
+Film Editor,social media,yes,individuals,physical,no,yes,massive,low,yes,yes,yes,medium,high,low,27
+YouTuber,music,no,brands,service,no,yes,small,medium,yes,no,no,medium,low,medium,18
+Civil Engineer,automotive,no,brands,digital,no,yes,small,medium,yes,yes,no,high,medium,low,27
+Event Coordinator,technology,no,brands,content,no,no,medium,medium,yes,no,yes,medium,medium,low,21
+Photographer,social media,no,platform,service,yes,yes,small,medium,no,yes,no,high,high,low,18
+Graphic Designer,marketing,yes,organizations,service,no,no,massive,high,no,yes,yes,high,high,high,20
+Photographer,non-profit,yes,platform,experience,yes,yes,medium,medium,yes,no,no,low,medium,low,18
+Automotive Engineer,design,yes,brands,service,no,yes,small,medium,no,no,no,low,high,low,18
+Event Coordinator,design,no,organizations,service,yes,no,medium,high,yes,yes,no,high,high,high,18
+Mechanical Technician,music,no,organizations,physical,no,yes,large,high,yes,no,yes,medium,low,medium,24
+Sound Engineer,education,sometimes,companies,digital,no,yes,massive,low,no,no,yes,medium,high,medium,16
+Mechanical Technician,marketing,yes,companies,physical,no,no,small,high,no,no,no,low,high,low,28
+Music Producer,entertainment,yes,individuals,physical,no,no,small,high,no,no,no,high,low,high,19
+Social Media Influencer,automotive,no,platform,experience,yes,no,small,medium,no,yes,no,medium,high,low,20
+Journalist,technology,sometimes,individuals,digital,sometimes,no,large,low,no,yes,yes,low,low,medium,14
+Community Manager,design,sometimes,companies,physical,yes,no,small,high,yes,yes,no,medium,high,high,17
+UX Designer,non-profit,no,brands,digital,yes,yes,large,high,no,yes,no,high,medium,medium,16
+Social Media Influencer,automotive,no,companies,digital,yes,yes,large,low,no,no,no,medium,high,low,18
+Film Editor,design,sometimes,companies,service,sometimes,yes,large,high,yes,no,no,medium,high,high,15
+Community Manager,technology,no,individuals,digital,yes,yes,large,low,no,no,yes,low,medium,low,15
+Sound Engineer,religion,yes,organizations,experience,no,yes,small,low,yes,no,yes,high,high,medium,28
+Architect,technology,yes,brands,physical,yes,no,small,medium,yes,yes,no,high,high,high,21
+Religious Youth Leader,design,sometimes,brands,physical,no,yes,medium,low,no,no,no,low,medium,low,19
+Social Media Influencer,music,no,platform,experience,yes,no,massive,low,no,yes,yes,medium,high,medium,16
+Photographer,non-profit,yes,organizations,digital,yes,yes,medium,high,yes,yes,yes,high,high,low,21
+Civil Engineer,music,yes,platform,experience,yes,yes,small,low,yes,yes,yes,low,high,low,16
+Photographer,marketing,yes,brands,content,sometimes,no,large,high,yes,no,yes,medium,medium,low,29
+Podcast Host,religion,no,organizations,service,no,no,massive,low,yes,yes,yes,high,low,medium,30
+YouTuber,marketing,no,companies,digital,yes,yes,medium,low,yes,no,yes,low,high,medium,28
+Music Producer,music,sometimes,brands,experience,no,no,small,low,no,yes,yes,low,low,low,19
+Mechanical Technician,marketing,yes,organizations,content,sometimes,yes,small,low,no,yes,no,medium,high,high,19
+Community Manager,automotive,sometimes,organizations,content,yes,yes,medium,medium,no,no,yes,low,low,low,22
+Community Manager,religion,no,platform,digital,sometimes,yes,massive,high,yes,yes,yes,low,medium,high,21
+NGO Worker,automotive,yes,companies,content,yes,no,medium,medium,yes,yes,yes,medium,high,high,16
+Church Choir Member,marketing,sometimes,organizations,service,sometimes,yes,small,low,no,no,no,low,medium,medium,21
+Teacher,automotive,no,platform,experience,no,no,massive,low,no,no,no,low,low,low,18
+Architect,religion,sometimes,organizations,experience,yes,yes,massive,medium,yes,yes,no,low,medium,medium,30
+Sound Engineer,technology,yes,organizations,service,sometimes,no,small,high,no,yes,no,medium,medium,high,28
+Video Editor,education,sometimes,individuals,experience,yes,no,massive,medium,no,yes,yes,low,low,high,25
+Music Producer,technology,yes,companies,digital,sometimes,no,medium,high,no,yes,yes,medium,high,medium,14
+Event Coordinator,marketing,yes,brands,service,sometimes,yes,small,medium,yes,yes,yes,high,low,high,17
+Podcast Host,automotive,no,individuals,physical,yes,no,large,low,no,no,yes,high,medium,low,15
+Content Creator,music,sometimes,organizations,content,sometimes,yes,large,high,yes,yes,no,low,medium,medium,13
+Software Developer,social media,yes,companies,service,yes,yes,large,high,yes,no,no,medium,low,medium,24
+Data Analyst,technology,no,organizations,experience,sometimes,no,massive,high,yes,no,yes,low,high,medium,24
+Interior Designer,automotive,yes,platform,experience,sometimes,no,small,high,no,yes,no,medium,low,high,21
+Religious Youth Leader,social media,sometimes,platform,digital,yes,yes,small,low,no,no,no,medium,low,low,13
+Sound Engineer,non-profit,sometimes,platform,content,yes,yes,large,medium,no,no,yes,medium,high,high,15
+Social Media Influencer,entertainment,yes,companies,digital,yes,no,small,medium,yes,yes,yes,high,low,low,13
+UX Designer,education,yes,companies,physical,no,no,small,high,yes,no,no,medium,high,high,25
+Community Manager,design,sometimes,individuals,service,yes,yes,small,medium,no,yes,yes,high,medium,low,29
+Product Manager,religion,no,individuals,digital,sometimes,no,medium,medium,no,no,no,high,high,medium,20
+Content Creator,marketing,no,companies,physical,yes,no,massive,high,no,no,yes,high,high,high,15
+Religious Youth Leader,religion,no,companies,experience,no,yes,large,high,no,yes,no,low,high,high,14
+Journalist,music,sometimes,brands,digital,yes,yes,small,high,yes,no,yes,high,medium,high,13
+Civil Engineer,education,sometimes,platform,content,no,yes,large,high,yes,no,no,medium,medium,low,24
+Community Manager,non-profit,no,companies,physical,sometimes,yes,small,low,no,no,no,high,low,medium,30
+Interior Designer,religion,no,organizations,service,yes,no,small,high,no,yes,no,medium,medium,low,17
+Software Developer,entertainment,sometimes,individuals,content,no,yes,massive,high,no,yes,yes,medium,low,low,25
+Film Editor,music,sometimes,individuals,experience,sometimes,yes,massive,high,yes,yes,no,medium,high,medium,15
+NGO Worker,social media,no,organizations,content,sometimes,yes,small,medium,no,no,yes,low,low,medium,25
+YouTuber,religion,no,organizations,physical,sometimes,yes,large,high,yes,no,yes,low,medium,medium,21
+Church Choir Member,education,sometimes,organizations,digital,sometimes,yes,large,medium,yes,no,no,high,medium,medium,22
+Content Creator,automotive,yes,organizations,service,no,no,small,low,no,no,no,low,low,high,29
+Church Choir Member,non-profit,no,companies,digital,sometimes,yes,massive,low,no,yes,yes,high,medium,low,19
+Interior Designer,entertainment,yes,brands,content,yes,yes,small,high,no,no,no,medium,low,medium,27
+Data Analyst,automotive,sometimes,individuals,physical,yes,yes,small,low,yes,yes,yes,low,medium,high,17
+Church Choir Member,technology,sometimes,individuals,service,yes,yes,large,medium,yes,yes,yes,low,medium,high,26
+Vehicle Armoring Specialist,technology,yes,companies,service,sometimes,yes,large,medium,no,no,yes,medium,high,low,23
+Teacher,music,yes,individuals,service,sometimes,yes,medium,low,yes,no,yes,high,low,high,13
+Software Developer,music,no,brands,digital,sometimes,yes,medium,low,yes,no,yes,low,high,medium,13
+Game Designer,entertainment,no,brands,service,yes,yes,medium,medium,no,yes,yes,medium,medium,medium,13
+Religious Youth Leader,education,yes,companies,physical,yes,yes,large,high,yes,no,no,medium,medium,medium,29
+Architect,technology,no,individuals,experience,no,yes,massive,low,no,no,yes,high,medium,high,16
+Religious Youth Leader,religion,yes,companies,physical,yes,no,small,low,yes,no,yes,low,high,medium,24
+YouTuber,design,no,platform,experience,yes,yes,medium,medium,no,yes,yes,medium,high,high,24
+Photographer,education,yes,individuals,digital,sometimes,yes,medium,high,yes,yes,no,medium,high,medium,29
+UX Designer,automotive,yes,companies,service,no,no,small,medium,no,yes,no,low,medium,low,27
+Social Media Influencer,religion,sometimes,platform,digital,yes,no,medium,high,yes,yes,yes,medium,medium,high,15
+Fashion Model,religion,no,organizations,physical,sometimes,yes,large,high,yes,yes,no,low,high,medium,23
+Product Manager,religion,no,companies,content,sometimes,yes,massive,medium,no,no,no,high,medium,high,27
+Product Manager,automotive,no,individuals,physical,sometimes,no,large,medium,no,no,yes,medium,low,high,22
+Journalist,religion,sometimes,individuals,content,no,no,large,high,no,yes,yes,medium,high,high,25
+Church Choir Member,automotive,no,brands,digital,yes,no,small,low,yes,yes,yes,medium,low,low,26
+Film Editor,non-profit,yes,platform,content,yes,yes,massive,medium,no,yes,no,high,high,high,22
+Product Manager,automotive,no,companies,content,no,yes,medium,medium,yes,no,no,medium,low,medium,17
+Game Designer,religion,no,platform,physical,sometimes,no,large,low,yes,no,yes,low,low,medium,15
+Interior Designer,education,sometimes,organizations,physical,sometimes,no,massive,high,yes,no,yes,medium,low,high,28
+Architect,non-profit,no,organizations,physical,sometimes,yes,large,medium,no,no,no,high,high,medium,22
+Software Developer,automotive,yes,platform,content,no,yes,large,high,yes,no,no,medium,low,low,23
+Interior Designer,automotive,no,brands,digital,sometimes,no,massive,low,no,yes,no,medium,low,low,15
+Interior Designer,automotive,yes,companies,experience,yes,no,massive,medium,yes,yes,yes,low,low,high,23
+Marketing Specialist,music,yes,brands,experience,yes,yes,small,low,yes,yes,no,medium,low,medium,17
+Video Editor,design,no,companies,content,no,yes,large,medium,no,yes,no,low,low,low,17
+Social Media Influencer,music,no,brands,physical,no,yes,large,medium,yes,yes,yes,high,low,low,28
+Content Creator,technology,yes,platform,physical,yes,yes,small,high,yes,no,yes,low,high,high,20
+Event Coordinator,social media,no,brands,physical,yes,yes,small,low,no,no,yes,medium,medium,low,16
+Fashion Model,religion,sometimes,companies,experience,no,no,large,high,yes,yes,no,medium,medium,medium,25
+Music Producer,marketing,no,individuals,digital,yes,yes,small,low,yes,yes,yes,high,low,low,18
+NGO Worker,education,yes,brands,experience,no,yes,massive,high,no,yes,yes,low,medium,high,30
+Civil Engineer,design,sometimes,companies,physical,yes,no,massive,medium,no,no,no,high,low,low,14
+Film Editor,technology,sometimes,individuals,content,sometimes,yes,small,high,yes,yes,no,high,high,medium,26
+Photographer,marketing,yes,platform,physical,no,no,massive,high,no,yes,yes,medium,medium,low,29
+Interior Designer,music,sometimes,companies,content,yes,yes,massive,high,yes,yes,yes,low,high,low,26
+Film Editor,design,no,brands,digital,no,no,massive,medium,yes,no,yes,high,high,low,15
+Photographer,music,sometimes,individuals,digital,no,no,medium,medium,yes,no,no,medium,medium,medium,20
+Mechanical Technician,automotive,no,individuals,service,yes,yes,small,medium,no,yes,no,low,high,medium,29
+Civil Engineer,marketing,no,companies,experience,no,yes,small,high,no,yes,yes,high,high,high,23
+Sound Engineer,music,yes,brands,content,yes,no,small,low,yes,no,no,medium,high,high,14
+Vehicle Armoring Specialist,marketing,yes,companies,content,sometimes,no,large,high,yes,yes,no,high,low,medium,22
+Film Editor,entertainment,yes,individuals,service,no,yes,small,medium,yes,no,no,low,low,medium,29
+Film Editor,music,yes,organizations,experience,yes,yes,large,medium,no,no,no,high,medium,high,30
+Community Manager,marketing,sometimes,organizations,physical,no,yes,medium,high,yes,yes,no,high,low,medium,15
+Mechanical Technician,music,sometimes,individuals,content,no,no,small,low,no,yes,yes,high,medium,low,16
+Content Creator,social media,yes,organizations,service,sometimes,no,massive,high,yes,no,no,low,medium,low,23
+NGO Worker,marketing,no,companies,experience,no,no,medium,high,no,yes,yes,medium,medium,high,24
+Software Developer,social media,sometimes,companies,physical,no,yes,large,high,yes,no,yes,medium,medium,medium,28
+Photographer,automotive,no,platform,experience,yes,no,medium,high,no,no,no,low,high,high,14
+Software Developer,religion,sometimes,organizations,physical,sometimes,no,small,low,yes,yes,no,low,medium,high,26
+YouTuber,social media,no,organizations,digital,sometimes,yes,massive,low,no,no,no,medium,low,high,16
+Community Manager,education,sometimes,brands,experience,no,yes,medium,medium,yes,no,yes,high,low,low,26
+Sound Engineer,entertainment,yes,companies,service,sometimes,no,medium,low,no,yes,no,low,medium,low,30
+Event Coordinator,non-profit,yes,platform,digital,yes,yes,small,medium,no,yes,yes,high,medium,medium,27
+Marketing Specialist,non-profit,sometimes,individuals,digital,sometimes,no,large,low,no,no,no,high,low,low,25
+NGO Worker,education,sometimes,brands,content,no,no,small,low,no,yes,no,medium,low,low,24
+YouTuber,technology,sometimes,brands,digital,yes,no,large,medium,no,yes,yes,high,medium,medium,30
+UX Designer,music,no,platform,digital,yes,no,medium,high,yes,yes,yes,low,low,medium,28
+Music Producer,education,yes,brands,digital,yes,yes,massive,medium,yes,yes,yes,low,high,low,28
+Event Coordinator,entertainment,yes,individuals,content,yes,yes,medium,medium,no,no,yes,medium,high,medium,15
+Photographer,education,no,companies,physical,no,yes,massive,low,yes,no,no,low,medium,high,23
+UX Designer,entertainment,sometimes,brands,content,sometimes,no,small,low,no,yes,no,high,low,high,28
+Music Producer,design,yes,brands,experience,yes,yes,massive,low,yes,yes,no,high,low,low,29
+Civil Engineer,marketing,no,brands,experience,yes,yes,small,medium,no,yes,no,medium,medium,high,19
+Sound Engineer,non-profit,sometimes,companies,experience,no,no,medium,medium,no,yes,yes,medium,medium,low,19
+Data Analyst,non-profit,sometimes,platform,digital,no,no,large,medium,yes,no,yes,high,high,high,29
+Mechanical Technician,entertainment,sometimes,platform,content,no,yes,large,low,no,yes,yes,medium,high,low,28
+Interior Designer,automotive,no,organizations,experience,no,no,medium,low,yes,yes,no,low,medium,low,20
+NGO Worker,marketing,yes,brands,physical,sometimes,yes,large,high,no,no,yes,low,medium,low,20
+Religious Youth Leader,music,yes,organizations,digital,yes,no,large,low,yes,yes,yes,medium,low,high,19
+Religious Youth Leader,religion,no,individuals,digital,no,no,medium,low,yes,yes,yes,medium,medium,low,13
+Religious Youth Leader,automotive,sometimes,organizations,physical,yes,yes,small,medium,yes,yes,no,high,medium,low,15
+NGO Worker,entertainment,sometimes,organizations,service,yes,yes,large,low,yes,yes,yes,high,low,medium,14
+Religious Youth Leader,religion,sometimes,companies,physical,no,yes,medium,low,yes,yes,yes,low,high,low,13
+Content Creator,automotive,yes,brands,service,no,no,small,low,no,no,no,low,medium,high,26
+Sound Engineer,religion,yes,platform,service,sometimes,no,massive,low,no,yes,no,high,high,medium,29
+Data Analyst,social media,sometimes,individuals,experience,no,no,medium,high,yes,yes,no,medium,high,medium,14
+Architect,design,sometimes,individuals,physical,no,yes,small,medium,yes,no,no,low,low,medium,17
+Marketing Specialist,education,sometimes,platform,content,yes,yes,small,high,yes,no,yes,low,low,medium,29
+Software Developer,design,yes,individuals,content,sometimes,yes,medium,medium,no,no,no,medium,low,high,13
+Journalist,education,sometimes,individuals,content,no,no,small,medium,yes,yes,no,medium,low,medium,22
+Fashion Model,automotive,no,organizations,content,no,yes,massive,low,yes,no,yes,medium,low,low,15
+Journalist,entertainment,no,companies,experience,yes,yes,small,low,no,no,yes,high,low,medium,20
+Photographer,religion,sometimes,brands,experience,sometimes,no,small,medium,no,no,yes,medium,medium,low,18
+Software Developer,design,yes,companies,service,sometimes,yes,medium,high,yes,yes,yes,medium,medium,low,30
+Podcast Host,marketing,sometimes,organizations,content,yes,no,large,low,yes,no,no,high,low,medium,27
+Religious Youth Leader,social media,no,platform,content,no,yes,small,high,no,yes,yes,medium,medium,medium,22
+Fashion Model,social media,sometimes,brands,physical,no,yes,massive,high,no,yes,yes,low,high,low,14
+Product Manager,religion,sometimes,organizations,content,sometimes,no,small,medium,no,no,no,high,high,low,18
+Podcast Host,social media,no,brands,service,no,yes,small,medium,yes,no,no,high,medium,high,25
+Data Analyst,technology,no,platform,digital,sometimes,yes,large,low,yes,yes,no,medium,high,medium,30
+Mechanical Technician,automotive,no,organizations,physical,sometimes,yes,medium,high,yes,no,no,low,low,low,17
+Social Media Influencer,automotive,sometimes,individuals,digital,no,yes,large,high,yes,no,yes,medium,high,medium,29
+Community Manager,technology,yes,platform,experience,yes,no,small,high,no,yes,yes,low,high,low,28
+Graphic Designer,non-profit,no,platform,physical,no,no,massive,high,yes,no,yes,low,high,high,16
+Journalist,marketing,no,companies,digital,no,yes,medium,medium,yes,yes,no,medium,low,low,17
+Marketing Specialist,marketing,yes,companies,content,yes,no,massive,medium,yes,yes,no,low,high,high,25
+Video Editor,non-profit,yes,companies,experience,sometimes,no,massive,high,no,yes,yes,high,low,high,13
+NGO Worker,automotive,yes,brands,physical,no,no,medium,medium,yes,yes,no,low,low,low,30
+Photographer,automotive,sometimes,brands,digital,yes,yes,massive,medium,yes,yes,yes,low,low,medium,25
+Sound Engineer,marketing,no,brands,digital,no,yes,small,low,yes,yes,yes,low,high,high,25
+Journalist,religion,no,brands,digital,yes,no,small,high,no,yes,no,low,low,high,16
+Mechanical Technician,entertainment,no,companies,digital,sometimes,yes,medium,low,yes,yes,no,medium,medium,medium,29
+Music Producer,design,no,companies,digital,yes,yes,medium,low,no,yes,no,high,low,low,23
+Event Coordinator,education,sometimes,platform,content,sometimes,yes,massive,high,no,yes,yes,high,low,high,23
+Photographer,education,yes,organizations,physical,sometimes,no,medium,medium,no,no,no,low,high,low,20
+Fashion Model,marketing,yes,companies,service,yes,yes,small,high,yes,yes,yes,high,low,high,16
+Automotive Engineer,technology,no,brands,digital,sometimes,yes,small,medium,no,no,no,high,low,low,27
+Community Manager,religion,yes,platform,physical,no,no,small,low,no,yes,yes,high,medium,high,16
+Automotive Engineer,entertainment,no,companies,experience,sometimes,no,massive,high,no,yes,yes,medium,medium,low,27
+YouTuber,design,sometimes,platform,experience,yes,yes,large,high,yes,no,yes,high,low,low,16
+Sound Engineer,social media,sometimes,companies,content,yes,yes,massive,low,no,yes,yes,medium,high,low,26
+Civil Engineer,design,sometimes,organizations,physical,sometimes,yes,medium,high,yes,yes,yes,medium,medium,medium,27
+Mechanical Technician,music,yes,companies,content,yes,yes,small,low,no,yes,no,medium,high,low,19
+Product Manager,marketing,no,individuals,service,sometimes,no,small,low,yes,no,yes,medium,low,medium,24
+Automotive Engineer,marketing,sometimes,brands,experience,yes,yes,large,medium,yes,yes,no,high,medium,medium,16
+Event Coordinator,design,yes,platform,service,sometimes,no,massive,high,yes,yes,no,high,medium,high,21
+Interior Designer,music,no,organizations,experience,no,yes,massive,high,no,yes,no,high,low,low,18
+Film Editor,automotive,sometimes,organizations,experience,yes,no,medium,low,no,no,no,low,high,low,14
+Marketing Specialist,automotive,no,platform,experience,no,no,medium,low,yes,no,no,low,medium,low,17
+Video Editor,automotive,yes,organizations,content,yes,no,massive,low,yes,no,yes,low,low,medium,18
+Video Editor,technology,sometimes,organizations,service,sometimes,no,medium,low,yes,no,no,medium,high,medium,14
+YouTuber,design,no,platform,physical,no,yes,small,low,yes,yes,yes,medium,medium,low,21
+Fashion Model,music,no,organizations,experience,yes,no,medium,medium,no,yes,no,low,low,low,17
+Civil Engineer,design,sometimes,companies,experience,sometimes,yes,small,high,no,yes,no,low,high,high,20
+Interior Designer,entertainment,sometimes,individuals,service,yes,yes,medium,high,no,yes,no,low,low,medium,15
+Mechanical Technician,marketing,yes,brands,experience,sometimes,yes,small,high,yes,yes,no,medium,high,low,21
+Automotive Engineer,education,yes,individuals,physical,sometimes,no,massive,high,no,no,no,medium,low,medium,17
+Automotive Engineer,design,sometimes,individuals,digital,no,no,large,medium,yes,no,no,high,medium,high,21
+YouTuber,design,no,companies,physical,no,yes,massive,high,no,yes,no,medium,low,medium,17
+Podcast Host,religion,no,individuals,digital,no,yes,small,low,yes,yes,no,low,medium,high,25
+Software Developer,non-profit,yes,platform,content,yes,no,large,low,no,no,yes,low,medium,medium,14
+Vehicle Armoring Specialist,music,yes,brands,physical,no,yes,small,low,no,yes,no,medium,low,high,27
+Vehicle Armoring Specialist,entertainment,sometimes,organizations,physical,yes,no,medium,high,yes,no,no,low,medium,high,27
+Automotive Engineer,social media,no,brands,content,no,yes,large,high,yes,yes,no,high,high,medium,22
+YouTuber,design,yes,platform,physical,yes,yes,large,low,yes,no,yes,low,low,high,15
+Interior Designer,design,sometimes,platform,physical,sometimes,yes,large,low,no,no,no,medium,low,medium,27
+Product Manager,marketing,no,individuals,content,no,no,small,high,yes,yes,yes,high,high,medium,19
+Marketing Specialist,education,sometimes,platform,experience,no,no,small,high,yes,no,no,high,low,low,26
+Content Creator,entertainment,no,platform,experience,sometimes,yes,massive,medium,no,no,yes,medium,medium,low,14
+Software Developer,entertainment,no,platform,content,yes,yes,medium,high,yes,no,no,low,medium,low,15
+Content Creator,social media,yes,platform,service,yes,yes,large,medium,yes,yes,yes,low,medium,high,28
+Music Producer,music,no,platform,physical,sometimes,no,small,low,no,yes,no,high,low,low,16
+Content Creator,entertainment,sometimes,platform,physical,yes,no,medium,low,no,no,yes,high,low,low,13
+Fashion Model,social media,yes,companies,service,yes,no,large,medium,no,yes,no,low,high,medium,25
+Community Manager,marketing,yes,platform,physical,no,yes,small,low,no,no,no,high,low,low,23
+UX Designer,social media,no,companies,service,yes,yes,small,medium,no,yes,yes,high,medium,medium,15
+Content Creator,design,sometimes,brands,content,yes,no,large,low,yes,yes,yes,high,high,high,27
+YouTuber,design,sometimes,companies,physical,no,yes,large,high,no,no,yes,high,high,low,17
+YouTuber,non-profit,sometimes,brands,digital,sometimes,yes,massive,high,yes,no,no,low,low,medium,23
+Graphic Designer,marketing,no,organizations,experience,no,no,small,low,no,no,no,low,high,medium,14
+Vehicle Armoring Specialist,automotive,sometimes,platform,content,sometimes,no,small,medium,yes,no,no,high,high,low,20
+Community Manager,design,yes,individuals,content,sometimes,no,small,high,yes,no,yes,low,medium,medium,17
+Photographer,entertainment,yes,individuals,digital,no,no,medium,low,no,no,yes,medium,medium,medium,22
+Religious Youth Leader,design,no,individuals,digital,yes,no,massive,high,no,no,no,medium,low,medium,22
+Community Manager,music,sometimes,platform,physical,sometimes,yes,large,medium,no,yes,yes,low,low,high,20
+Podcast Host,non-profit,yes,individuals,physical,yes,yes,massive,low,yes,no,no,medium,high,low,15
+Game Designer,technology,no,brands,service,sometimes,no,large,medium,yes,yes,yes,low,high,high,30
+Marketing Specialist,automotive,sometimes,individuals,content,yes,yes,large,high,no,no,yes,low,low,medium,26
+Social Media Influencer,technology,no,companies,physical,no,no,small,high,yes,no,no,high,low,low,22
+Product Manager,marketing,sometimes,companies,experience,sometimes,yes,large,medium,yes,yes,no,high,low,high,23
+Event Coordinator,education,yes,individuals,service,no,yes,large,low,no,no,yes,low,medium,medium,17
+UX Designer,automotive,no,individuals,content,sometimes,yes,massive,medium,yes,no,no,medium,low,high,22
+Photographer,automotive,sometimes,individuals,physical,yes,no,large,low,no,no,no,high,medium,high,16
+Community Manager,marketing,sometimes,brands,service,no,yes,medium,medium,yes,yes,no,high,medium,high,26
+Game Designer,education,no,companies,digital,no,no,large,high,no,yes,no,medium,low,high,16
+Church Choir Member,design,sometimes,individuals,experience,yes,yes,massive,medium,yes,yes,no,high,high,high,25
+YouTuber,entertainment,yes,brands,physical,yes,no,small,medium,yes,no,no,low,medium,high,17
+Podcast Host,technology,yes,organizations,content,no,no,medium,high,no,yes,yes,medium,medium,high,17
+Journalist,marketing,no,companies,service,sometimes,yes,massive,medium,no,no,no,medium,high,low,29
+Sound Engineer,automotive,sometimes,organizations,service,yes,yes,small,low,yes,no,no,high,low,low,20
+Social Media Influencer,automotive,no,organizations,physical,sometimes,yes,massive,low,no,no,yes,high,medium,high,27
+Teacher,religion,sometimes,brands,digital,yes,yes,large,medium,yes,yes,yes,medium,medium,low,30
+Event Coordinator,technology,sometimes,platform,service,yes,no,massive,medium,no,yes,yes,high,medium,high,22
+Photographer,social media,yes,organizations,digital,no,yes,large,low,no,yes,yes,low,medium,high,18
+Data Analyst,entertainment,sometimes,brands,experience,no,no,small,low,yes,no,no,low,low,low,13
+Social Media Influencer,design,sometimes,individuals,content,no,yes,massive,low,no,yes,yes,medium,high,medium,17
+Sound Engineer,automotive,sometimes,brands,physical,sometimes,no,medium,low,yes,yes,no,high,high,low,18
+Content Creator,design,sometimes,companies,content,sometimes,no,medium,low,no,yes,yes,medium,high,high,17
+Civil Engineer,non-profit,yes,platform,content,yes,yes,small,low,no,yes,yes,high,high,high,16
+Product Manager,automotive,no,brands,service,sometimes,no,small,low,yes,yes,yes,low,high,high,15
+Game Designer,automotive,sometimes,platform,content,yes,yes,massive,low,no,yes,yes,medium,high,medium,27
+YouTuber,social media,no,brands,physical,yes,no,massive,low,no,yes,no,medium,low,high,28
+Automotive Engineer,entertainment,yes,organizations,experience,yes,yes,small,high,no,no,yes,high,high,low,15
+Music Producer,technology,yes,individuals,experience,yes,yes,small,medium,no,no,yes,low,high,high,17
+Sound Engineer,social media,no,companies,experience,yes,yes,medium,low,yes,no,no,low,low,high,19
+UX Designer,design,yes,platform,physical,sometimes,no,massive,low,yes,no,no,medium,high,high,13
+Religious Youth Leader,music,sometimes,organizations,physical,sometimes,no,medium,medium,yes,yes,no,medium,low,medium,29
+NGO Worker,music,yes,organizations,service,sometimes,yes,small,medium,yes,no,no,high,medium,medium,23
+Mechanical Technician,social media,no,companies,content,yes,no,small,low,no,yes,no,low,high,high,24
+NGO Worker,technology,sometimes,individuals,experience,yes,no,small,medium,yes,yes,yes,medium,low,medium,14
+Film Editor,automotive,no,individuals,physical,no,yes,large,medium,yes,yes,yes,medium,low,high,18
+Podcast Host,technology,yes,organizations,digital,no,yes,large,medium,no,yes,yes,medium,low,medium,27
+Graphic Designer,design,sometimes,organizations,physical,yes,no,small,low,yes,yes,no,high,medium,low,19
+Music Producer,entertainment,no,platform,physical,no,yes,medium,medium,yes,yes,yes,medium,high,low,14
+Photographer,non-profit,no,companies,service,no,yes,massive,medium,yes,no,no,medium,medium,low,13
+Teacher,entertainment,no,brands,content,yes,no,massive,high,no,no,no,medium,low,medium,16
+Event Coordinator,religion,yes,individuals,physical,no,yes,small,medium,no,yes,yes,low,high,medium,16
+YouTuber,marketing,no,brands,service,yes,no,medium,low,yes,no,no,medium,low,medium,13
+Architect,non-profit,yes,brands,physical,no,yes,small,low,yes,yes,no,high,medium,medium,17
+Podcast Host,education,sometimes,organizations,digital,no,no,small,high,yes,no,no,low,low,high,26
+Game Designer,education,sometimes,organizations,physical,sometimes,yes,small,low,yes,yes,yes,high,medium,low,21
+Vehicle Armoring Specialist,technology,sometimes,brands,content,no,no,massive,high,yes,no,yes,high,high,high,23
+Church Choir Member,technology,sometimes,companies,service,yes,yes,large,medium,yes,no,no,high,medium,medium,27
+UX Designer,music,no,organizations,content,yes,yes,small,medium,yes,no,yes,medium,high,high,24
+Church Choir Member,marketing,sometimes,platform,service,yes,no,medium,medium,yes,yes,no,high,low,low,25
+Game Designer,non-profit,yes,companies,content,no,no,massive,low,no,yes,no,low,low,low,29
+Fashion Model,design,no,platform,digital,no,yes,massive,low,yes,no,no,low,low,high,30
+Mechanical Technician,technology,yes,brands,experience,sometimes,yes,small,high,yes,yes,yes,low,high,medium,29
+Mechanical Technician,social media,yes,individuals,digital,no,yes,massive,low,no,no,yes,high,high,medium,24
+Teacher,religion,yes,brands,service,yes,no,massive,medium,no,no,yes,high,high,low,29
+UX Designer,technology,sometimes,platform,content,no,no,medium,medium,no,no,no,low,high,low,27
+Sound Engineer,religion,sometimes,brands,physical,sometimes,yes,medium,high,no,no,no,medium,low,high,25
+Architect,entertainment,no,individuals,experience,yes,no,large,medium,no,no,yes,low,low,low,21
+Product Manager,social media,yes,organizations,experience,sometimes,yes,large,high,no,no,yes,high,low,low,24
+Community Manager,marketing,yes,companies,digital,yes,yes,massive,low,yes,no,no,low,high,low,13
+Automotive Engineer,non-profit,yes,brands,experience,yes,no,massive,high,no,yes,yes,low,medium,low,14
+Podcast Host,design,yes,individuals,experience,sometimes,yes,medium,low,yes,yes,yes,low,low,high,19
+Graphic Designer,entertainment,no,individuals,physical,yes,no,small,low,no,yes,yes,low,high,high,17
+Social Media Influencer,music,no,platform,experience,no,no,small,low,no,yes,no,low,high,high,29
+Data Analyst,marketing,yes,organizations,physical,sometimes,yes,small,high,no,no,yes,low,medium,high,13
+Marketing Specialist,marketing,no,companies,digital,no,yes,medium,medium,no,no,yes,low,medium,low,27
+Teacher,marketing,yes,platform,physical,yes,yes,medium,medium,yes,no,no,high,low,low,25
+Social Media Influencer,non-profit,sometimes,individuals,digital,yes,yes,small,high,no,yes,no,medium,low,medium,13
+Photographer,design,sometimes,organizations,service,yes,yes,massive,high,no,no,yes,low,high,high,23
+NGO Worker,technology,no,brands,experience,no,yes,massive,low,yes,no,yes,low,low,low,25
+Journalist,education,yes,platform,digital,no,yes,massive,medium,yes,no,yes,low,high,low,18
+Video Editor,automotive,no,brands,content,yes,no,large,low,yes,no,no,low,medium,medium,18
+Software Developer,social media,no,platform,physical,no,no,massive,low,yes,no,no,high,low,medium,25
+Film Editor,technology,yes,brands,digital,no,no,massive,low,no,no,yes,medium,high,low,29
+Architect,design,yes,platform,content,sometimes,no,large,low,no,yes,yes,low,medium,high,30
+UX Designer,religion,no,individuals,content,sometimes,no,small,medium,yes,yes,yes,medium,low,high,16
+Event Coordinator,non-profit,sometimes,companies,content,yes,yes,large,low,no,yes,yes,medium,low,medium,16
+Automotive Engineer,religion,yes,individuals,service,yes,no,small,low,no,no,yes,low,high,high,29
+UX Designer,religion,no,brands,physical,sometimes,yes,large,medium,yes,no,no,high,medium,medium,26
+Software Developer,technology,no,brands,physical,no,no,large,high,no,yes,yes,low,medium,medium,28
+Teacher,religion,sometimes,brands,service,yes,no,massive,high,yes,yes,no,medium,low,high,16
+Photographer,non-profit,sometimes,individuals,experience,sometimes,yes,massive,low,no,yes,no,high,medium,high,16
+Automotive Engineer,marketing,no,individuals,service,no,no,large,high,no,no,yes,high,high,medium,22
+Church Choir Member,education,sometimes,companies,service,yes,no,large,low,yes,no,no,low,low,low,21
+UX Designer,non-profit,no,brands,physical,no,no,small,high,no,yes,yes,low,medium,low,30
+Fashion Model,entertainment,no,organizations,service,no,yes,large,high,yes,no,no,low,high,high,30
+Religious Youth Leader,music,no,brands,physical,sometimes,yes,small,low,yes,no,yes,high,low,high,22
+Church Choir Member,entertainment,sometimes,brands,content,yes,no,medium,high,no,yes,no,high,low,high,27
+Mechanical Technician,marketing,sometimes,organizations,content,sometimes,yes,small,medium,yes,no,yes,high,high,high,22
+Software Developer,entertainment,yes,individuals,content,yes,yes,large,low,no,yes,yes,low,low,low,21
+Film Editor,entertainment,no,companies,content,sometimes,yes,massive,high,yes,yes,yes,high,medium,high,22
+Graphic Designer,music,yes,companies,physical,yes,no,massive,high,no,yes,no,low,low,medium,20
+NGO Worker,music,sometimes,platform,experience,sometimes,no,massive,medium,yes,no,no,high,high,medium,14
+Graphic Designer,education,yes,organizations,physical,no,yes,large,high,yes,yes,yes,medium,low,low,28
+Product Manager,automotive,no,brands,experience,yes,no,medium,low,yes,no,yes,medium,high,high,29
+Church Choir Member,marketing,no,individuals,experience,no,yes,large,high,no,no,no,low,low,medium,27
+Teacher,non-profit,sometimes,brands,service,yes,no,small,high,no,no,yes,high,high,medium,30
+Community Manager,automotive,yes,individuals,physical,yes,yes,medium,medium,no,no,yes,low,low,high,26
+Event Coordinator,entertainment,sometimes,individuals,experience,no,no,massive,high,yes,no,no,medium,medium,medium,15
+Podcast Host,design,yes,individuals,physical,yes,no,large,low,yes,no,yes,high,high,medium,28
+Fashion Model,music,sometimes,platform,service,no,yes,medium,medium,yes,yes,no,medium,low,medium,27
+Community Manager,technology,yes,individuals,digital,sometimes,yes,small,low,no,yes,yes,medium,high,low,15
+Graphic Designer,design,no,individuals,digital,no,no,massive,high,no,no,yes,high,high,medium,27
+Sound Engineer,social media,yes,brands,physical,no,yes,medium,low,yes,yes,yes,high,high,medium,13
+Product Manager,automotive,sometimes,brands,physical,sometimes,yes,massive,low,no,no,yes,low,low,high,16
+YouTuber,marketing,no,brands,service,yes,no,large,high,yes,yes,no,medium,high,low,20
+Marketing Specialist,marketing,yes,platform,digital,no,yes,medium,medium,yes,no,yes,high,low,medium,13
+YouTuber,music,sometimes,individuals,physical,yes,no,massive,high,no,no,yes,low,medium,medium,24
+Podcast Host,technology,sometimes,individuals,service,sometimes,yes,small,low,yes,no,yes,low,medium,low,29
+Product Manager,marketing,no,organizations,physical,yes,yes,medium,high,no,yes,yes,high,low,medium,16
+Mechanical Technician,non-profit,yes,brands,experience,yes,yes,massive,low,no,no,no,high,low,low,25
+Religious Youth Leader,non-profit,yes,brands,service,no,yes,massive,medium,yes,yes,no,medium,medium,low,28
+Interior Designer,social media,no,platform,service,no,yes,medium,medium,yes,no,yes,medium,medium,low,23
+Social Media Influencer,technology,yes,individuals,experience,no,yes,large,high,no,yes,no,low,low,low,26
+Content Creator,non-profit,sometimes,organizations,physical,yes,no,massive,medium,yes,yes,no,high,low,high,14
+Fashion Model,technology,yes,organizations,experience,sometimes,no,medium,high,yes,yes,yes,high,low,medium,27
+Content Creator,automotive,yes,brands,service,no,yes,massive,high,yes,yes,no,medium,medium,medium,16
+Church Choir Member,non-profit,no,individuals,service,sometimes,yes,medium,medium,yes,yes,no,medium,low,low,29
+Journalist,entertainment,yes,brands,digital,yes,yes,massive,low,yes,yes,no,medium,high,high,27
+Content Creator,social media,sometimes,companies,physical,no,yes,medium,high,yes,yes,yes,low,medium,medium,20
+Vehicle Armoring Specialist,religion,no,brands,physical,no,no,large,medium,no,yes,yes,medium,medium,high,20
+NGO Worker,non-profit,sometimes,organizations,service,sometimes,yes,massive,high,no,yes,no,low,low,medium,15
+Photographer,design,no,brands,service,no,yes,medium,high,yes,yes,no,low,medium,medium,18
+Automotive Engineer,music,sometimes,individuals,experience,yes,yes,small,medium,no,yes,yes,high,high,low,27
+Vehicle Armoring Specialist,entertainment,sometimes,organizations,content,yes,yes,small,high,no,yes,no,medium,low,high,28
+Architect,design,yes,platform,service,no,no,massive,medium,no,yes,yes,medium,low,medium,26
+Interior Designer,religion,no,platform,content,yes,yes,small,medium,no,no,yes,high,high,low,15
+Journalist,automotive,no,platform,experience,sometimes,no,medium,low,no,yes,no,high,high,medium,26
+Social Media Influencer,non-profit,yes,companies,digital,sometimes,no,massive,high,no,no,no,high,medium,high,20
+Social Media Influencer,marketing,yes,individuals,physical,yes,no,massive,high,no,no,no,high,medium,high,24
+Interior Designer,social media,sometimes,companies,physical,no,no,medium,high,yes,yes,yes,medium,high,low,19
+Civil Engineer,social media,no,brands,experience,no,yes,medium,high,no,yes,no,medium,medium,high,22
+Civil Engineer,technology,yes,individuals,physical,no,yes,small,low,yes,no,yes,high,medium,medium,16
+Graphic Designer,education,sometimes,brands,content,no,no,massive,low,no,no,yes,medium,medium,high,29
+Product Manager,marketing,sometimes,individuals,content,yes,no,medium,high,yes,yes,no,high,medium,high,22
+Vehicle Armoring Specialist,design,no,organizations,service,no,yes,small,high,no,no,yes,medium,low,high,30
+Data Analyst,social media,no,organizations,content,no,no,large,low,no,no,yes,high,low,low,18
+Church Choir Member,entertainment,yes,brands,experience,yes,yes,massive,medium,yes,yes,yes,high,medium,low,17
+Mechanical Technician,religion,no,individuals,experience,yes,yes,medium,medium,no,yes,no,low,low,low,17
+Journalist,social media,yes,organizations,service,sometimes,yes,large,low,no,no,yes,high,medium,low,17
+Church Choir Member,music,sometimes,brands,digital,no,no,large,medium,yes,yes,no,low,medium,high,13
+Fashion Model,social media,no,brands,content,no,no,massive,high,no,yes,yes,low,medium,medium,27
+Data Analyst,music,sometimes,brands,experience,sometimes,no,large,high,no,no,no,high,high,medium,21
+Automotive Engineer,social media,no,platform,experience,sometimes,no,massive,low,no,yes,no,high,low,medium,19
+Video Editor,marketing,yes,individuals,digital,yes,yes,medium,medium,yes,no,yes,medium,medium,medium,24
+Sound Engineer,technology,no,organizations,physical,yes,no,large,medium,no,no,no,medium,high,high,23
+Game Designer,religion,sometimes,brands,content,sometimes,yes,medium,medium,yes,yes,yes,high,high,medium,13
+Architect,education,no,organizations,content,sometimes,yes,small,medium,yes,no,no,low,medium,low,18
+Marketing Specialist,social media,no,organizations,service,no,yes,massive,high,yes,no,yes,medium,high,high,16
+Event Coordinator,education,yes,platform,digital,sometimes,no,large,medium,no,no,yes,low,high,high,15
+Podcast Host,education,yes,individuals,digital,yes,yes,medium,high,no,yes,yes,high,low,high,15
+Graphic Designer,technology,yes,individuals,service,no,yes,medium,high,yes,no,yes,high,high,high,21
+Automotive Engineer,entertainment,sometimes,brands,content,no,yes,medium,low,no,no,yes,low,low,high,29
+YouTuber,automotive,no,companies,experience,no,yes,medium,low,no,yes,yes,low,low,high,16
+UX Designer,design,sometimes,organizations,content,yes,no,massive,high,yes,no,no,low,high,low,20
+Video Editor,automotive,no,organizations,service,no,no,medium,medium,yes,no,no,medium,medium,low,27
+YouTuber,marketing,no,platform,digital,yes,yes,large,medium,yes,yes,yes,high,low,high,15
+Marketing Specialist,entertainment,no,individuals,digital,yes,yes,small,medium,no,yes,no,low,low,low,15
+Video Editor,design,yes,platform,service,sometimes,yes,small,high,yes,no,no,medium,low,high,25
+Interior Designer,non-profit,yes,platform,experience,no,no,medium,medium,yes,no,no,medium,high,low,21
+Game Designer,automotive,sometimes,platform,experience,yes,yes,small,low,no,no,yes,medium,low,low,28
+NGO Worker,social media,yes,platform,content,sometimes,no,large,high,no,no,no,high,medium,high,17
+Software Developer,marketing,yes,companies,experience,yes,no,medium,high,yes,yes,no,high,medium,low,13
+Film Editor,design,no,platform,service,sometimes,yes,medium,medium,yes,yes,no,high,high,low,25
+Journalist,automotive,yes,brands,service,no,yes,large,medium,no,no,no,high,low,high,18
+Graphic Designer,automotive,sometimes,platform,physical,no,yes,massive,medium,no,yes,no,low,medium,high,22
+Photographer,social media,no,companies,content,yes,no,small,high,no,no,yes,medium,low,low,19
+Video Editor,technology,no,platform,digital,yes,no,large,medium,no,yes,no,high,medium,medium,24
+Photographer,religion,sometimes,brands,content,no,yes,massive,medium,no,yes,yes,low,low,low,13
+Social Media Influencer,music,sometimes,companies,digital,no,yes,large,low,yes,no,yes,low,medium,medium,15
+Automotive Engineer,design,sometimes,brands,service,no,yes,medium,high,no,no,yes,high,high,medium,30
+Mechanical Technician,entertainment,yes,companies,digital,sometimes,yes,medium,low,yes,yes,yes,medium,medium,low,16
+Church Choir Member,technology,no,companies,physical,sometimes,yes,small,high,yes,no,yes,high,medium,medium,28
+Software Developer,marketing,yes,brands,service,yes,no,massive,high,yes,no,no,medium,medium,low,27
+Teacher,non-profit,sometimes,companies,experience,no,no,massive,high,yes,no,no,medium,high,high,17
+Mechanical Technician,religion,yes,organizations,service,sometimes,no,medium,medium,no,yes,yes,low,medium,high,17
+NGO Worker,non-profit,no,organizations,experience,yes,no,small,low,no,no,no,medium,low,high,28
+Religious Youth Leader,design,sometimes,brands,physical,no,no,small,low,no,no,no,high,low,high,27
+Architect,religion,no,organizations,experience,sometimes,yes,small,medium,no,yes,no,high,low,low,27
+YouTuber,non-profit,sometimes,companies,content,sometimes,no,massive,medium,yes,no,no,high,high,high,22
+Automotive Engineer,education,no,companies,content,yes,no,small,low,no,no,no,low,medium,high,13
+Product Manager,education,no,individuals,digital,no,no,medium,medium,no,no,no,high,high,low,21
+UX Designer,religion,sometimes,platform,service,yes,yes,massive,low,yes,yes,no,low,medium,low,20
+Mechanical Technician,design,yes,brands,experience,no,yes,small,high,no,yes,yes,high,medium,medium,19
+Civil Engineer,non-profit,sometimes,companies,digital,sometimes,no,large,low,no,yes,no,medium,medium,low,25
+Product Manager,education,no,companies,content,yes,yes,large,high,no,yes,no,low,medium,medium,22
+Architect,entertainment,yes,platform,experience,yes,yes,large,high,no,yes,yes,low,medium,medium,25
+Video Editor,entertainment,yes,companies,experience,yes,no,massive,medium,no,yes,yes,low,medium,low,24
+Software Developer,automotive,no,companies,digital,sometimes,yes,medium,medium,no,no,no,high,medium,high,21
+Community Manager,automotive,sometimes,individuals,service,sometimes,yes,small,high,yes,yes,no,low,low,low,17
+Church Choir Member,entertainment,no,brands,physical,sometimes,no,small,medium,no,no,yes,high,high,medium,15
+YouTuber,automotive,sometimes,individuals,digital,yes,yes,large,medium,no,no,yes,low,high,medium,30
+Event Coordinator,religion,no,companies,physical,no,yes,small,low,yes,yes,no,medium,high,high,17
+YouTuber,design,no,companies,experience,sometimes,no,medium,low,no,no,no,low,high,medium,24
+Podcast Host,religion,sometimes,individuals,experience,no,no,large,high,yes,yes,no,low,high,high,27
+Product Manager,education,no,brands,digital,no,yes,small,low,yes,no,no,medium,high,high,30
+Data Analyst,music,no,brands,content,sometimes,yes,small,low,yes,no,yes,high,low,low,19
+Social Media Influencer,social media,yes,brands,digital,yes,yes,massive,high,no,yes,yes,low,high,high,29
+Music Producer,entertainment,sometimes,organizations,experience,yes,yes,large,medium,no,yes,no,low,low,high,25
+Vehicle Armoring Specialist,religion,no,organizations,service,no,no,massive,low,no,yes,yes,high,low,low,18
+Architect,technology,yes,companies,service,yes,yes,small,high,no,yes,yes,high,low,low,23
+Event Coordinator,music,sometimes,brands,content,sometimes,no,medium,high,no,yes,no,medium,low,low,24
+Interior Designer,automotive,no,companies,content,yes,no,large,high,yes,yes,no,high,low,medium,13
+NGO Worker,social media,sometimes,companies,service,yes,no,small,high,no,no,yes,low,high,high,21
+Automotive Engineer,technology,no,brands,service,sometimes,yes,massive,low,yes,no,no,medium,low,high,27
+Data Analyst,non-profit,sometimes,brands,experience,sometimes,yes,large,low,no,no,yes,high,medium,high,16
+Software Developer,social media,no,organizations,physical,sometimes,yes,medium,medium,no,yes,yes,high,medium,medium,22
+Film Editor,music,sometimes,platform,service,no,no,small,low,yes,yes,no,low,low,low,14
+Social Media Influencer,technology,sometimes,individuals,digital,sometimes,yes,medium,medium,yes,no,yes,medium,low,low,17
+Graphic Designer,marketing,sometimes,companies,experience,no,yes,large,high,no,no,yes,high,medium,medium,19
+Film Editor,design,yes,brands,physical,sometimes,yes,massive,low,no,no,yes,low,high,high,27
+Social Media Influencer,music,sometimes,brands,content,yes,no,small,low,no,yes,no,high,medium,high,21
+UX Designer,non-profit,no,brands,experience,no,no,small,high,yes,yes,yes,high,high,medium,29
+Game Designer,non-profit,sometimes,individuals,physical,no,no,small,low,no,yes,yes,high,low,low,29
+Automotive Engineer,social media,yes,individuals,service,sometimes,yes,small,high,yes,yes,no,high,medium,medium,17
+Data Analyst,non-profit,yes,organizations,content,sometimes,no,small,medium,no,yes,yes,low,low,low,16
+Interior Designer,entertainment,sometimes,brands,content,yes,no,small,medium,no,yes,no,low,medium,low,20
+Fashion Model,social media,yes,organizations,experience,sometimes,no,massive,low,yes,yes,yes,low,medium,medium,25
+Photographer,design,yes,individuals,content,sometimes,no,small,high,no,yes,no,low,medium,low,16
+Journalist,social media,no,organizations,service,no,no,medium,low,no,no,yes,medium,medium,low,13
+Software Developer,social media,sometimes,platform,digital,sometimes,yes,small,high,no,yes,yes,medium,medium,low,23
+Product Manager,social media,no,organizations,digital,yes,yes,large,medium,no,no,no,high,low,low,14
+Graphic Designer,automotive,no,individuals,physical,sometimes,yes,medium,low,no,no,yes,high,low,medium,23
+NGO Worker,design,yes,platform,service,yes,no,massive,medium,no,yes,yes,high,medium,low,17
+Data Analyst,marketing,no,platform,physical,yes,yes,large,low,yes,no,no,high,low,low,13
+Video Editor,education,sometimes,companies,physical,yes,no,medium,high,yes,no,no,high,high,high,28
+NGO Worker,religion,no,brands,content,yes,no,medium,medium,no,yes,no,medium,medium,medium,27
+Mechanical Technician,marketing,sometimes,organizations,digital,no,no,massive,high,no,yes,no,medium,low,low,27
+Mechanical Technician,non-profit,sometimes,brands,service,no,no,medium,low,yes,no,yes,low,low,medium,25
+Graphic Designer,education,yes,organizations,digital,no,no,large,medium,no,yes,yes,low,high,medium,16
+Fashion Model,automotive,no,individuals,service,no,no,small,medium,no,no,yes,medium,high,high,24
+Church Choir Member,technology,yes,brands,content,yes,no,small,high,no,no,no,low,medium,low,28
+Music Producer,social media,no,companies,digital,no,no,large,high,no,yes,yes,medium,low,medium,18
+Marketing Specialist,non-profit,sometimes,companies,service,sometimes,no,small,low,no,no,no,low,low,medium,23
+Marketing Specialist,music,sometimes,companies,content,sometimes,yes,small,high,no,yes,no,low,low,low,24
+Marketing Specialist,marketing,yes,platform,service,sometimes,yes,small,low,yes,no,no,low,medium,low,24
+Podcast Host,entertainment,yes,organizations,physical,no,yes,medium,high,yes,yes,yes,medium,low,low,16
+Podcast Host,education,no,platform,service,sometimes,no,large,high,yes,yes,no,high,high,low,14
+NGO Worker,technology,yes,brands,digital,no,yes,small,medium,no,no,no,medium,low,low,30
+Graphic Designer,religion,no,brands,digital,no,yes,large,high,yes,yes,no,low,low,low,28
+Video Editor,music,yes,brands,digital,yes,no,large,high,no,no,yes,low,medium,high,29
+Journalist,technology,no,organizations,physical,sometimes,no,small,low,no,no,yes,low,medium,low,13
+Mechanical Technician,automotive,no,individuals,digital,yes,no,small,medium,no,no,no,high,medium,medium,16
+Interior Designer,non-profit,sometimes,brands,service,no,no,medium,high,no,yes,no,high,low,low,19
+Film Editor,entertainment,no,brands,physical,yes,yes,medium,high,yes,yes,no,high,high,low,18
+Automotive Engineer,technology,sometimes,companies,digital,no,yes,large,low,no,yes,no,medium,high,high,16
+Music Producer,social media,sometimes,organizations,physical,no,no,medium,high,yes,yes,no,high,low,medium,24
+Mechanical Technician,marketing,yes,organizations,experience,yes,yes,large,medium,yes,no,no,high,high,high,21
+Film Editor,technology,sometimes,platform,content,yes,yes,medium,high,no,yes,no,low,low,high,18
+Video Editor,technology,no,individuals,experience,yes,yes,medium,low,no,no,no,high,medium,high,13
+UX Designer,social media,sometimes,platform,service,yes,yes,massive,low,no,yes,yes,medium,high,low,26
+Content Creator,entertainment,sometimes,organizations,experience,no,no,small,medium,no,yes,no,medium,high,high,25
+Marketing Specialist,automotive,sometimes,companies,physical,no,yes,large,high,no,no,yes,low,medium,low,28
+Podcast Host,non-profit,sometimes,platform,content,yes,no,massive,medium,no,yes,no,medium,medium,high,28
+Video Editor,social media,yes,companies,physical,no,yes,small,low,no,no,no,low,high,high,29
+Sound Engineer,education,no,platform,service,yes,yes,small,high,yes,yes,no,low,medium,low,15
+Community Manager,music,sometimes,individuals,content,yes,yes,massive,low,yes,no,yes,low,low,medium,19
+Game Designer,religion,no,organizations,content,sometimes,no,massive,medium,no,no,yes,medium,medium,medium,18
+Product Manager,religion,yes,companies,physical,sometimes,no,large,low,yes,yes,no,medium,medium,low,20
+Music Producer,design,no,companies,service,sometimes,yes,medium,medium,no,yes,yes,low,low,medium,19
+Film Editor,entertainment,no,individuals,physical,sometimes,no,medium,low,yes,no,yes,high,low,low,23
+Marketing Specialist,technology,yes,brands,digital,yes,yes,massive,low,no,yes,no,medium,low,low,29
+NGO Worker,music,no,companies,content,sometimes,no,large,high,no,no,no,medium,low,medium,22
+Mechanical Technician,religion,sometimes,organizations,physical,no,yes,medium,medium,yes,no,yes,medium,high,high,21
+Sound Engineer,education,sometimes,platform,experience,sometimes,no,large,low,no,yes,yes,high,medium,low,27
+Community Manager,non-profit,sometimes,organizations,digital,no,yes,small,high,yes,yes,no,low,high,high,24
+Civil Engineer,non-profit,no,organizations,physical,yes,no,large,high,no,no,no,high,high,medium,20
+Photographer,education,yes,organizations,physical,no,yes,massive,low,no,no,no,medium,medium,low,22
+Interior Designer,religion,sometimes,organizations,experience,sometimes,no,small,medium,yes,yes,no,medium,high,medium,21
+Game Designer,education,no,organizations,experience,sometimes,yes,massive,medium,no,yes,yes,high,high,low,14
+Event Coordinator,entertainment,no,organizations,physical,sometimes,yes,small,low,yes,no,no,high,low,low,14
+Film Editor,education,no,organizations,content,no,no,massive,low,no,no,no,high,medium,medium,22
+Event Coordinator,marketing,yes,platform,experience,no,no,large,high,yes,no,yes,low,medium,low,23
+Software Developer,social media,no,organizations,content,no,yes,massive,medium,no,yes,yes,medium,high,low,21
+Automotive Engineer,non-profit,no,organizations,content,sometimes,no,massive,low,no,no,yes,high,low,medium,28
+Game Designer,design,no,platform,experience,sometimes,no,medium,high,yes,yes,yes,low,low,medium,30
+Podcast Host,entertainment,yes,individuals,physical,no,no,large,high,yes,no,no,high,high,high,24
+Social Media Influencer,non-profit,no,companies,content,no,yes,small,low,yes,no,no,medium,medium,high,27
+Journalist,automotive,no,individuals,physical,yes,no,medium,medium,no,yes,yes,high,low,high,15
+Product Manager,education,sometimes,companies,experience,no,yes,massive,low,no,yes,yes,high,high,high,29
+Architect,music,no,brands,digital,yes,yes,massive,low,yes,yes,no,low,low,low,21
+Social Media Influencer,education,sometimes,organizations,content,sometimes,yes,large,medium,no,yes,yes,low,medium,low,28
+Sound Engineer,entertainment,no,organizations,digital,no,yes,massive,high,no,no,no,medium,medium,medium,17
+Music Producer,education,sometimes,organizations,digital,sometimes,no,small,high,no,no,no,low,medium,low,19
+Civil Engineer,technology,sometimes,brands,content,yes,yes,medium,medium,yes,yes,no,medium,medium,high,17
+Graphic Designer,marketing,sometimes,organizations,digital,sometimes,yes,medium,high,yes,yes,yes,low,high,high,17
+Mechanical Technician,music,yes,companies,content,sometimes,no,medium,high,yes,yes,no,medium,high,high,21
+Teacher,education,sometimes,companies,digital,no,yes,medium,high,no,yes,no,high,medium,low,16
+Video Editor,design,yes,organizations,digital,yes,no,large,medium,yes,no,no,low,medium,high,17
+Event Coordinator,entertainment,sometimes,platform,experience,sometimes,yes,small,high,no,no,no,medium,medium,medium,27
+Product Manager,music,yes,individuals,digital,yes,no,large,medium,yes,yes,yes,medium,high,low,30
+Data Analyst,music,no,companies,service,sometimes,yes,large,low,yes,yes,no,low,medium,medium,28
+NGO Worker,education,yes,organizations,digital,sometimes,no,medium,low,yes,no,yes,medium,high,medium,27
+Community Manager,social media,yes,brands,experience,no,no,massive,low,yes,no,yes,low,medium,low,25
+Journalist,technology,yes,organizations,physical,no,yes,large,medium,yes,yes,yes,low,medium,high,23
+Music Producer,marketing,sometimes,platform,service,yes,no,medium,medium,no,no,no,medium,medium,low,30
+Vehicle Armoring Specialist,entertainment,sometimes,platform,digital,sometimes,yes,large,low,no,no,yes,high,high,high,27
+Film Editor,non-profit,yes,brands,physical,sometimes,yes,massive,medium,no,no,yes,medium,low,medium,20
+Interior Designer,automotive,yes,individuals,digital,sometimes,no,small,medium,yes,yes,no,low,high,medium,29
+Marketing Specialist,social media,yes,platform,content,sometimes,no,small,high,no,no,no,medium,low,low,17
+Fashion Model,education,yes,organizations,physical,sometimes,yes,massive,medium,yes,no,yes,medium,medium,medium,23
+Video Editor,automotive,yes,platform,content,sometimes,no,massive,high,no,no,yes,low,low,medium,29
+Marketing Specialist,non-profit,no,brands,digital,no,no,small,low,yes,no,no,low,medium,high,24
+Product Manager,religion,sometimes,companies,content,no,no,massive,medium,yes,yes,no,low,low,medium,13
+Social Media Influencer,design,no,platform,content,no,no,large,high,no,no,yes,medium,medium,high,30
+Mechanical Technician,design,no,brands,service,yes,no,small,medium,yes,yes,yes,medium,high,low,16
+Mechanical Technician,religion,yes,companies,digital,no,no,small,high,no,yes,yes,low,high,medium,13
+Teacher,education,yes,companies,physical,yes,yes,massive,medium,yes,yes,yes,low,medium,high,13
+Data Analyst,marketing,no,brands,physical,sometimes,no,massive,low,no,no,no,medium,high,high,26
+Social Media Influencer,religion,yes,platform,digital,yes,no,massive,high,yes,no,yes,medium,high,medium,14
+Data Analyst,technology,no,companies,service,yes,no,medium,low,no,no,yes,medium,medium,high,16
+Data Analyst,education,no,organizations,digital,yes,no,small,high,no,no,yes,medium,medium,medium,26
+Podcast Host,religion,no,organizations,experience,no,yes,large,low,no,no,yes,high,medium,high,21
+Data Analyst,technology,yes,companies,content,no,no,massive,medium,yes,no,no,medium,high,high,20
+Teacher,design,sometimes,companies,physical,sometimes,no,medium,medium,no,yes,no,low,low,high,22
+Software Developer,marketing,no,platform,service,sometimes,yes,small,high,no,no,no,low,low,medium,16
+Journalist,automotive,sometimes,organizations,experience,sometimes,yes,large,high,no,no,yes,low,high,high,13
+Civil Engineer,marketing,yes,brands,physical,yes,no,small,high,no,yes,yes,high,low,low,21
+Sound Engineer,non-profit,yes,platform,physical,no,no,large,medium,no,no,no,medium,low,medium,26
+Software Developer,music,no,companies,experience,sometimes,yes,medium,medium,yes,yes,yes,high,high,low,24
+Mechanical Technician,technology,sometimes,brands,experience,sometimes,yes,massive,low,no,no,yes,high,high,high,15
+Social Media Influencer,music,yes,individuals,service,yes,no,large,low,yes,yes,no,low,low,high,19
+Video Editor,education,yes,companies,content,yes,no,large,low,no,no,yes,medium,medium,medium,22
+Journalist,social media,sometimes,individuals,experience,sometimes,yes,massive,medium,yes,no,no,low,low,low,30
+Civil Engineer,automotive,yes,brands,experience,yes,no,large,high,no,yes,no,low,medium,medium,30
+Event Coordinator,music,sometimes,individuals,content,sometimes,no,massive,high,yes,no,no,medium,medium,low,24
+Music Producer,music,sometimes,platform,digital,sometimes,no,large,high,no,yes,no,medium,low,medium,27
+Podcast Host,non-profit,no,companies,physical,yes,yes,massive,medium,yes,yes,no,high,high,high,28
+Teacher,non-profit,yes,companies,service,no,no,massive,medium,no,no,yes,medium,high,medium,20
+NGO Worker,automotive,no,brands,digital,sometimes,yes,large,low,no,yes,no,medium,low,low,26
+YouTuber,technology,yes,platform,content,sometimes,no,large,high,yes,no,yes,high,low,medium,13
+Marketing Specialist,automotive,sometimes,brands,content,sometimes,no,small,medium,yes,yes,no,low,low,high,13
+Event Coordinator,education,no,brands,experience,yes,no,small,low,yes,yes,yes,medium,high,medium,25
+Architect,non-profit,sometimes,platform,content,yes,yes,massive,medium,yes,yes,no,high,high,high,21
+Journalist,education,yes,organizations,content,yes,yes,massive,low,yes,no,no,medium,high,low,15
+Graphic Designer,music,yes,brands,service,no,no,small,medium,yes,no,yes,high,high,high,26
+Software Developer,religion,sometimes,brands,digital,no,yes,medium,high,yes,no,yes,high,low,medium,25
+Community Manager,entertainment,yes,brands,digital,sometimes,no,medium,high,yes,no,yes,low,medium,high,30
+Software Developer,automotive,yes,companies,content,sometimes,no,large,low,yes,no,no,low,low,low,21
+Automotive Engineer,marketing,sometimes,individuals,digital,sometimes,yes,large,low,no,no,no,medium,medium,high,23
+Automotive Engineer,education,yes,platform,content,sometimes,yes,large,low,yes,yes,no,low,high,low,19
+Religious Youth Leader,technology,sometimes,individuals,experience,no,no,small,low,no,no,yes,medium,medium,high,22
+Game Designer,social media,no,organizations,digital,sometimes,yes,medium,medium,no,yes,no,high,high,low,16
+Social Media Influencer,technology,sometimes,individuals,content,yes,yes,small,low,yes,no,yes,medium,low,medium,28
+Civil Engineer,automotive,no,organizations,experience,sometimes,no,massive,low,yes,yes,no,high,medium,high,30
+Religious Youth Leader,non-profit,no,organizations,experience,no,yes,small,high,yes,no,yes,medium,high,medium,21
+Marketing Specialist,entertainment,no,individuals,physical,no,yes,medium,high,yes,yes,yes,low,high,medium,19
+Community Manager,technology,sometimes,individuals,service,sometimes,yes,small,low,no,no,yes,low,medium,low,29
+Civil Engineer,design,no,organizations,physical,sometimes,yes,large,medium,yes,no,no,high,high,low,19
+Podcast Host,education,no,brands,service,sometimes,no,small,medium,no,yes,yes,low,medium,high,14
+Film Editor,non-profit,sometimes,companies,digital,no,no,massive,medium,no,no,yes,high,medium,high,18
+Church Choir Member,religion,no,organizations,content,no,no,medium,high,no,no,no,high,low,high,24
+Vehicle Armoring Specialist,entertainment,yes,organizations,content,no,yes,large,medium,no,no,no,high,high,high,26
+Fashion Model,religion,sometimes,companies,physical,yes,no,massive,medium,no,yes,yes,medium,high,high,30
+Teacher,automotive,no,companies,service,yes,yes,small,high,no,no,yes,low,high,high,19
+Film Editor,marketing,yes,brands,digital,no,yes,medium,high,yes,no,no,high,low,high,15
+Product Manager,technology,yes,companies,physical,yes,yes,massive,low,yes,yes,no,low,medium,high,25
+Software Developer,social media,no,brands,digital,yes,yes,large,low,no,no,no,high,medium,high,16
+Graphic Designer,technology,no,brands,content,sometimes,yes,large,high,yes,no,yes,high,medium,low,28
+Civil Engineer,entertainment,yes,companies,digital,no,yes,large,medium,no,yes,no,low,low,medium,13
+Software Developer,technology,yes,brands,digital,no,yes,medium,high,no,yes,no,low,medium,low,23
+Religious Youth Leader,automotive,sometimes,individuals,digital,sometimes,yes,large,medium,yes,no,yes,medium,medium,medium,24
+Religious Youth Leader,music,yes,companies,physical,sometimes,yes,large,low,yes,no,no,high,medium,high,27
+Marketing Specialist,marketing,sometimes,platform,digital,no,no,small,low,yes,no,no,medium,high,high,24
+Architect,automotive,sometimes,platform,digital,no,no,large,medium,no,yes,yes,low,medium,low,15
+Game Designer,music,sometimes,brands,physical,no,yes,massive,high,no,yes,no,medium,high,high,29
+Church Choir Member,education,sometimes,brands,service,yes,no,small,low,no,yes,no,medium,medium,high,13
+Software Developer,music,no,organizations,content,sometimes,yes,massive,low,yes,no,no,high,high,medium,22
+Video Editor,design,yes,platform,digital,sometimes,yes,large,medium,yes,yes,yes,high,medium,medium,19
+Community Manager,music,yes,organizations,digital,yes,no,massive,low,no,no,no,high,high,high,24
+Journalist,music,yes,platform,physical,yes,yes,massive,high,yes,no,yes,high,medium,low,28
+Mechanical Technician,marketing,yes,platform,digital,yes,yes,small,high,no,no,no,low,high,medium,19
+Marketing Specialist,entertainment,yes,brands,physical,sometimes,yes,small,medium,no,no,yes,low,high,low,18
+Data Analyst,non-profit,no,individuals,service,no,yes,massive,high,yes,no,no,low,high,high,27
+Civil Engineer,social media,sometimes,brands,content,yes,no,medium,medium,no,no,yes,low,high,low,22
+Content Creator,music,no,individuals,experience,no,yes,small,high,yes,yes,no,high,medium,high,14
+YouTuber,non-profit,no,organizations,service,yes,no,massive,low,yes,no,no,medium,high,high,21
+Mechanical Technician,automotive,no,companies,content,no,no,small,low,no,no,yes,low,high,medium,15
+Event Coordinator,marketing,sometimes,individuals,digital,sometimes,no,medium,high,no,no,no,low,high,high,21
+Photographer,entertainment,no,platform,experience,no,no,medium,low,yes,no,yes,high,low,low,27
+Video Editor,design,no,organizations,physical,yes,yes,massive,medium,no,no,yes,high,high,low,14
+NGO Worker,entertainment,no,brands,content,yes,no,medium,high,yes,yes,no,high,high,low,24
+Journalist,education,yes,organizations,experience,no,yes,massive,high,yes,no,no,high,high,low,19
+Marketing Specialist,religion,no,brands,service,no,no,small,low,no,yes,no,medium,low,low,14
+Graphic Designer,religion,sometimes,companies,experience,yes,no,medium,low,yes,yes,yes,low,high,medium,20
+UX Designer,religion,no,companies,service,no,yes,small,low,no,yes,no,high,high,high,23
+Civil Engineer,entertainment,sometimes,organizations,digital,no,yes,large,high,no,no,no,medium,low,high,30
+UX Designer,entertainment,yes,individuals,physical,no,no,medium,low,yes,yes,no,medium,high,low,23
+Graphic Designer,music,sometimes,platform,content,sometimes,no,large,medium,no,yes,yes,medium,high,low,15
+Teacher,automotive,yes,brands,digital,no,no,medium,low,no,yes,no,low,medium,high,22
+UX Designer,entertainment,no,platform,experience,no,yes,medium,high,yes,yes,no,high,low,medium,15
+Game Designer,non-profit,yes,individuals,experience,yes,yes,massive,high,no,yes,no,medium,high,medium,18
+YouTuber,non-profit,no,organizations,digital,sometimes,no,small,low,yes,no,yes,medium,medium,low,22
+Content Creator,education,no,organizations,service,yes,yes,small,high,no,no,yes,medium,high,high,25
+Video Editor,technology,yes,companies,content,yes,no,small,medium,no,no,no,high,low,high,27
+Sound Engineer,technology,sometimes,brands,service,no,no,small,high,no,no,no,medium,high,low,24
+Civil Engineer,automotive,yes,individuals,experience,sometimes,no,massive,medium,yes,yes,yes,medium,low,high,20
+Marketing Specialist,education,sometimes,individuals,physical,no,no,massive,low,yes,yes,yes,medium,medium,low,24
+Data Analyst,non-profit,sometimes,brands,experience,yes,no,small,high,no,no,yes,low,high,high,15
+Social Media Influencer,entertainment,sometimes,individuals,digital,yes,yes,medium,high,no,yes,no,medium,high,low,19
+Architect,social media,no,platform,experience,sometimes,no,medium,medium,yes,no,yes,low,high,low,28
+Data Analyst,education,no,platform,digital,no,no,large,medium,yes,no,no,medium,low,low,25
+Video Editor,non-profit,yes,brands,physical,yes,no,massive,low,no,yes,no,low,medium,high,18
+Automotive Engineer,religion,sometimes,individuals,content,sometimes,yes,small,high,no,yes,yes,high,medium,low,23
+Video Editor,design,sometimes,individuals,digital,sometimes,yes,small,medium,no,no,yes,medium,medium,high,21
+Music Producer,non-profit,no,companies,physical,sometimes,yes,massive,high,yes,yes,no,low,medium,high,29
+Content Creator,design,no,individuals,content,yes,no,medium,high,no,yes,yes,high,low,high,15
+Vehicle Armoring Specialist,design,sometimes,organizations,service,no,no,medium,high,yes,yes,yes,high,medium,medium,18
+Civil Engineer,education,sometimes,platform,experience,yes,no,medium,high,no,no,no,low,medium,low,15
+Civil Engineer,entertainment,no,organizations,digital,yes,yes,medium,high,no,no,no,medium,medium,high,27
+Fashion Model,design,no,brands,experience,sometimes,yes,massive,medium,yes,no,no,high,medium,high,24
+Journalist,music,sometimes,brands,experience,no,yes,large,low,yes,no,no,low,high,low,27
+Podcast Host,automotive,sometimes,companies,digital,no,no,large,low,no,yes,no,medium,medium,medium,22
+Social Media Influencer,religion,no,individuals,experience,no,yes,small,medium,yes,yes,no,high,low,high,29
+Data Analyst,design,no,platform,experience,sometimes,yes,massive,high,no,yes,yes,medium,low,high,16
+Church Choir Member,religion,no,companies,experience,sometimes,yes,small,high,no,no,no,low,medium,low,16
+NGO Worker,automotive,yes,individuals,experience,no,no,large,high,yes,yes,no,low,high,low,29
+Mechanical Technician,automotive,sometimes,organizations,digital,sometimes,no,massive,medium,yes,yes,yes,high,low,high,30
+Fashion Model,non-profit,yes,organizations,service,sometimes,yes,large,low,no,yes,no,medium,low,high,25
+Graphic Designer,non-profit,sometimes,platform,digital,yes,no,small,high,yes,yes,yes,high,high,medium,20
+Podcast Host,automotive,sometimes,companies,physical,no,yes,large,medium,no,no,no,medium,medium,low,27
+Game Designer,religion,no,brands,physical,yes,yes,small,medium,yes,no,yes,low,medium,low,16
+Civil Engineer,entertainment,sometimes,brands,physical,sometimes,yes,large,high,yes,yes,yes,medium,low,high,13
+Journalist,social media,sometimes,platform,service,no,no,massive,low,yes,no,no,high,low,low,28
+Interior Designer,education,yes,organizations,service,yes,no,large,high,no,no,yes,low,high,low,19
+Teacher,music,yes,organizations,content,no,no,large,medium,yes,yes,yes,high,low,high,14
+Social Media Influencer,design,yes,platform,experience,sometimes,yes,massive,high,yes,no,yes,low,medium,high,30
+Church Choir Member,music,sometimes,platform,physical,sometimes,no,medium,high,no,no,no,medium,low,high,19
+Sound Engineer,religion,no,companies,service,yes,yes,small,low,yes,no,yes,medium,high,high,24
+Interior Designer,automotive,sometimes,individuals,physical,no,no,medium,medium,yes,yes,no,medium,low,high,29
+Journalist,technology,yes,individuals,digital,sometimes,yes,small,low,no,yes,yes,low,medium,low,17
+Mechanical Technician,marketing,yes,platform,service,sometimes,no,medium,medium,no,yes,no,high,medium,high,28
+Journalist,religion,sometimes,individuals,experience,no,yes,large,low,yes,no,yes,medium,low,high,24
+Photographer,education,no,individuals,digital,no,no,large,high,no,yes,yes,low,high,medium,24
+Music Producer,entertainment,no,brands,digital,sometimes,yes,small,low,no,no,no,low,medium,low,18
+Graphic Designer,marketing,yes,platform,content,yes,yes,large,low,yes,no,no,low,high,low,25
+Product Manager,marketing,no,companies,experience,no,no,massive,medium,yes,yes,yes,medium,low,medium,29
+Mechanical Technician,marketing,sometimes,individuals,experience,sometimes,yes,massive,low,no,no,no,medium,medium,high,15
+Photographer,automotive,yes,brands,content,no,no,large,high,no,no,yes,low,medium,high,16
+Video Editor,design,no,brands,service,sometimes,yes,small,medium,no,no,no,low,medium,high,26
+Graphic Designer,social media,yes,individuals,service,sometimes,no,medium,low,yes,yes,yes,medium,high,high,27
+Fashion Model,social media,no,brands,physical,no,yes,large,medium,no,yes,yes,low,medium,low,19
+Data Analyst,music,sometimes,organizations,content,yes,yes,medium,high,no,no,yes,high,medium,low,22
+Journalist,non-profit,yes,individuals,experience,sometimes,no,large,medium,no,yes,yes,medium,high,high,16
+Graphic Designer,technology,yes,organizations,physical,sometimes,no,large,high,yes,yes,yes,medium,high,low,16
+Mechanical Technician,entertainment,sometimes,platform,digital,no,no,large,medium,yes,yes,yes,high,high,high,23
+Journalist,technology,no,individuals,digital,yes,yes,large,medium,no,no,yes,high,medium,low,15
+Podcast Host,education,no,companies,content,no,yes,large,low,yes,no,yes,medium,low,low,27
+Game Designer,technology,sometimes,organizations,digital,yes,no,medium,medium,yes,no,yes,high,low,medium,20
+Marketing Specialist,design,yes,brands,content,sometimes,yes,large,medium,no,yes,no,medium,high,low,16
+Event Coordinator,technology,no,companies,content,no,no,medium,medium,no,yes,yes,low,low,low,22
+Interior Designer,non-profit,yes,organizations,digital,sometimes,no,large,medium,yes,no,yes,low,low,high,26
+Church Choir Member,design,sometimes,brands,service,yes,no,massive,low,no,no,yes,medium,low,high,29
+Mechanical Technician,marketing,yes,platform,experience,sometimes,yes,large,low,no,yes,yes,high,medium,low,30
+Sound Engineer,music,sometimes,companies,content,yes,yes,large,low,yes,no,yes,medium,high,high,17
+Interior Designer,automotive,yes,companies,content,sometimes,yes,large,low,no,yes,no,low,medium,medium,16
+Graphic Designer,music,yes,individuals,content,yes,yes,small,medium,no,yes,yes,low,medium,low,25
+Journalist,education,yes,platform,physical,no,yes,massive,high,no,yes,yes,medium,high,high,23
+NGO Worker,music,no,platform,experience,yes,yes,large,low,no,yes,yes,high,medium,low,14
+Social Media Influencer,music,yes,platform,experience,yes,no,small,medium,yes,no,no,medium,low,high,25
+Journalist,non-profit,yes,brands,service,yes,yes,small,high,no,yes,no,low,low,high,15
+Civil Engineer,religion,sometimes,brands,digital,yes,yes,medium,medium,yes,yes,no,medium,medium,medium,23
+Sound Engineer,marketing,sometimes,brands,physical,yes,yes,massive,medium,no,no,no,low,low,high,16
+Content Creator,entertainment,yes,organizations,experience,sometimes,yes,large,medium,yes,no,yes,low,low,medium,18
+Software Developer,marketing,no,companies,physical,no,yes,large,medium,no,no,yes,medium,medium,high,14
+UX Designer,entertainment,yes,individuals,experience,yes,yes,large,high,no,no,yes,low,medium,medium,22
+Marketing Specialist,design,no,companies,experience,sometimes,no,medium,high,no,yes,yes,high,high,medium,27
+Data Analyst,entertainment,yes,individuals,service,sometimes,yes,small,low,yes,yes,yes,low,medium,low,19
+Teacher,automotive,sometimes,platform,content,yes,no,small,high,no,yes,no,low,medium,high,28
+Marketing Specialist,entertainment,sometimes,companies,digital,no,yes,small,medium,no,no,yes,low,high,low,27
+Video Editor,design,yes,companies,physical,yes,yes,large,low,no,no,yes,medium,high,low,23
+Mechanical Technician,automotive,yes,platform,digital,no,yes,massive,low,yes,yes,no,high,medium,medium,24
+Video Editor,entertainment,no,companies,experience,sometimes,yes,large,high,yes,no,yes,high,high,medium,30
+Video Editor,non-profit,sometimes,brands,experience,no,yes,small,medium,yes,yes,yes,high,low,low,20
+Music Producer,non-profit,no,organizations,service,no,no,small,low,yes,no,yes,medium,low,low,28
+Community Manager,religion,no,organizations,experience,no,yes,small,medium,yes,no,yes,high,high,medium,16
+Church Choir Member,music,sometimes,platform,service,no,yes,small,medium,yes,no,no,high,high,high,22
+Event Coordinator,entertainment,sometimes,brands,content,no,yes,medium,low,yes,no,no,high,low,medium,16
+YouTuber,social media,yes,companies,experience,no,yes,massive,high,yes,no,yes,high,low,medium,27
+Interior Designer,automotive,no,platform,physical,yes,no,large,medium,yes,no,yes,high,low,low,23
+Sound Engineer,entertainment,no,individuals,physical,yes,no,large,high,no,yes,yes,medium,high,medium,23
+Film Editor,marketing,sometimes,individuals,physical,yes,yes,medium,medium,no,yes,no,low,medium,low,18
+Religious Youth Leader,music,no,brands,digital,yes,no,medium,low,no,yes,no,high,low,medium,22
+Photographer,social media,sometimes,companies,physical,yes,no,small,medium,no,yes,no,high,medium,low,21
+Product Manager,technology,yes,platform,digital,yes,yes,small,medium,yes,yes,yes,medium,medium,low,25
+Photographer,non-profit,sometimes,brands,experience,yes,yes,massive,low,no,yes,no,medium,low,low,23
+Journalist,technology,no,individuals,physical,yes,yes,large,medium,yes,no,no,high,medium,low,30
+Photographer,social media,yes,individuals,experience,yes,no,medium,high,no,no,no,medium,medium,high,21
+NGO Worker,education,yes,organizations,service,no,no,massive,low,yes,no,yes,high,low,medium,16
+Interior Designer,social media,yes,platform,service,yes,no,small,medium,yes,yes,no,medium,medium,low,23
+Video Editor,design,sometimes,organizations,service,no,yes,small,medium,yes,no,yes,medium,high,low,16
+Product Manager,automotive,yes,companies,experience,sometimes,yes,large,high,no,no,yes,high,medium,high,24
+Civil Engineer,design,sometimes,organizations,service,yes,no,medium,high,yes,yes,no,low,high,high,22
+Interior Designer,marketing,sometimes,platform,service,sometimes,yes,massive,medium,yes,no,yes,medium,high,low,18
+Event Coordinator,design,no,individuals,digital,yes,no,massive,medium,no,yes,no,medium,low,medium,18
+Music Producer,non-profit,no,organizations,physical,sometimes,yes,small,medium,yes,yes,no,high,medium,medium,16
+UX Designer,marketing,sometimes,organizations,physical,yes,yes,large,low,no,yes,yes,medium,high,low,30
+Event Coordinator,social media,yes,brands,service,yes,yes,large,high,no,no,no,medium,medium,low,28
+Content Creator,religion,yes,brands,service,sometimes,no,large,low,no,yes,no,medium,low,low,17
+Software Developer,design,no,organizations,physical,yes,no,large,high,yes,yes,no,high,low,high,13
+Fashion Model,automotive,no,individuals,digital,no,no,small,low,yes,no,yes,low,high,medium,23
+YouTuber,design,yes,companies,experience,sometimes,yes,large,medium,no,no,yes,medium,medium,low,30
+Podcast Host,music,yes,brands,experience,yes,yes,medium,high,yes,no,yes,high,high,high,26
+Software Developer,marketing,sometimes,individuals,digital,sometimes,no,massive,high,no,yes,no,low,medium,low,21
+Social Media Influencer,marketing,no,platform,content,yes,no,large,medium,yes,yes,no,high,low,medium,19
+Content Creator,entertainment,sometimes,platform,physical,sometimes,no,large,high,yes,no,yes,high,high,high,24
+Journalist,education,yes,companies,content,no,yes,massive,low,yes,no,yes,low,high,high,14
+Social Media Influencer,non-profit,no,organizations,experience,no,yes,massive,high,yes,yes,no,low,low,medium,13
+Teacher,music,yes,brands,physical,sometimes,no,small,low,yes,no,no,high,medium,low,26
+Data Analyst,marketing,sometimes,companies,digital,yes,yes,medium,low,no,no,yes,medium,low,high,20
+Content Creator,non-profit,yes,companies,content,no,yes,massive,high,yes,yes,no,low,medium,low,29
+Content Creator,technology,yes,brands,digital,yes,no,massive,low,no,yes,no,low,high,low,16
+Religious Youth Leader,music,sometimes,companies,service,yes,yes,massive,medium,no,no,no,low,medium,medium,25
+Video Editor,non-profit,yes,companies,experience,yes,yes,massive,medium,yes,no,no,low,high,high,19
+Church Choir Member,non-profit,yes,companies,physical,no,yes,massive,high,yes,no,no,medium,medium,low,20
+Fashion Model,music,yes,individuals,experience,yes,yes,medium,low,yes,no,no,high,high,medium,23
+Film Editor,religion,no,companies,digital,no,yes,medium,low,no,yes,yes,low,high,medium,15
+Architect,music,sometimes,companies,digital,yes,yes,massive,medium,no,yes,yes,low,high,medium,13
+Vehicle Armoring Specialist,entertainment,no,brands,physical,sometimes,no,medium,medium,yes,yes,yes,high,high,medium,30
+Civil Engineer,religion,yes,platform,physical,sometimes,no,medium,medium,no,no,no,low,low,high,19
+YouTuber,non-profit,yes,platform,service,no,yes,massive,medium,yes,no,no,high,high,high,24
+UX Designer,technology,sometimes,companies,experience,yes,no,massive,medium,no,no,no,low,low,high,20
+Product Manager,technology,sometimes,platform,content,sometimes,no,large,low,yes,yes,no,low,low,medium,24
+Fashion Model,technology,no,organizations,experience,yes,no,small,low,yes,yes,yes,low,high,medium,27
+Game Designer,technology,no,companies,physical,sometimes,yes,medium,medium,no,no,yes,medium,medium,high,26
+Interior Designer,religion,no,platform,experience,yes,yes,large,low,no,yes,yes,low,high,medium,25
+Music Producer,technology,no,brands,service,yes,no,massive,medium,yes,no,no,low,low,high,22
+Teacher,design,no,brands,service,no,yes,large,high,yes,yes,yes,low,low,low,18
+Film Editor,marketing,yes,organizations,experience,sometimes,yes,large,medium,no,yes,no,medium,medium,low,27
+Community Manager,marketing,yes,individuals,digital,sometimes,no,massive,medium,no,no,yes,low,medium,low,29
+Data Analyst,social media,yes,organizations,digital,sometimes,yes,medium,low,no,yes,no,medium,high,high,15
+Vehicle Armoring Specialist,religion,no,brands,content,sometimes,yes,medium,high,yes,no,no,low,high,medium,18
+Podcast Host,non-profit,yes,organizations,physical,no,yes,massive,medium,no,no,no,low,low,high,16
+Vehicle Armoring Specialist,religion,no,individuals,experience,sometimes,no,large,low,no,yes,no,medium,high,high,19
+Software Developer,marketing,yes,organizations,physical,yes,yes,medium,medium,no,yes,yes,low,medium,low,27
+Graphic Designer,non-profit,yes,companies,experience,no,no,small,medium,no,no,yes,low,medium,high,13
+Teacher,education,yes,individuals,physical,no,yes,large,medium,yes,yes,no,high,medium,low,17
+Community Manager,entertainment,sometimes,brands,experience,no,no,massive,low,no,yes,yes,high,medium,high,30
+Music Producer,entertainment,yes,platform,digital,sometimes,no,medium,medium,yes,no,yes,medium,high,high,18
+Film Editor,education,yes,organizations,experience,no,yes,massive,high,yes,yes,no,medium,medium,low,13
+Fashion Model,entertainment,yes,brands,physical,yes,yes,large,medium,yes,yes,yes,low,low,medium,30
+Software Developer,music,no,individuals,service,yes,yes,medium,low,no,no,no,low,medium,low,20
+Automotive Engineer,social media,sometimes,organizations,service,yes,yes,medium,medium,no,yes,yes,high,high,low,14
+YouTuber,religion,no,brands,physical,no,no,medium,low,yes,no,no,medium,medium,high,27
+Interior Designer,non-profit,yes,individuals,physical,yes,no,medium,low,no,yes,yes,high,low,low,23
+Software Developer,non-profit,no,companies,digital,no,no,large,low,yes,no,yes,medium,low,low,14
+Video Editor,automotive,sometimes,individuals,physical,sometimes,yes,small,medium,yes,no,yes,medium,medium,low,20
+Podcast Host,education,yes,individuals,content,sometimes,no,medium,medium,no,yes,no,medium,medium,low,16
+Marketing Specialist,music,no,brands,digital,yes,no,large,high,yes,yes,no,low,medium,low,28
+Church Choir Member,education,no,organizations,experience,yes,yes,massive,medium,no,no,no,medium,high,low,23
+Teacher,non-profit,sometimes,brands,service,yes,yes,medium,high,no,no,no,high,medium,medium,19
+Automotive Engineer,social media,no,individuals,experience,yes,yes,massive,low,yes,no,no,high,high,high,21
+Event Coordinator,non-profit,no,brands,physical,no,yes,small,low,yes,yes,no,low,low,low,18
+Software Developer,non-profit,yes,individuals,service,sometimes,no,medium,low,no,no,yes,medium,medium,medium,28
+Software Developer,music,yes,brands,content,sometimes,no,massive,high,yes,no,yes,high,high,medium,14
+Marketing Specialist,religion,sometimes,organizations,digital,no,yes,small,medium,yes,no,yes,medium,medium,medium,23
+Video Editor,music,no,brands,service,yes,no,small,medium,yes,yes,yes,medium,low,high,13
+Interior Designer,music,yes,companies,digital,no,yes,massive,low,no,yes,yes,low,high,high,27
+NGO Worker,religion,yes,platform,experience,yes,yes,large,high,no,yes,no,medium,medium,low,18
+Event Coordinator,entertainment,no,brands,content,sometimes,yes,medium,medium,yes,no,yes,low,high,low,21
+Architect,non-profit,sometimes,brands,content,sometimes,yes,large,medium,yes,yes,no,low,medium,medium,19
+Interior Designer,technology,no,companies,physical,sometimes,yes,small,low,yes,no,yes,low,high,high,15
+Marketing Specialist,technology,yes,platform,service,sometimes,yes,small,low,yes,no,yes,high,high,high,28
+Mechanical Technician,technology,sometimes,platform,physical,no,no,large,medium,yes,no,yes,medium,high,low,15
+Software Developer,non-profit,no,brands,digital,sometimes,no,medium,medium,no,no,no,low,medium,low,25
+Religious Youth Leader,non-profit,sometimes,brands,content,no,yes,small,medium,no,no,yes,low,medium,low,21
+Vehicle Armoring Specialist,entertainment,no,platform,content,sometimes,no,medium,medium,yes,yes,no,medium,high,high,15
+Product Manager,technology,no,organizations,physical,sometimes,no,medium,medium,yes,yes,no,high,high,medium,21
+Content Creator,automotive,no,platform,digital,no,no,massive,low,no,yes,no,high,medium,high,16
+Marketing Specialist,design,sometimes,organizations,digital,yes,no,small,medium,yes,no,yes,high,medium,low,13
+Vehicle Armoring Specialist,design,yes,companies,service,yes,no,massive,high,yes,no,no,high,medium,high,29
+UX Designer,entertainment,sometimes,companies,content,yes,no,large,high,yes,yes,no,high,medium,high,27
+NGO Worker,design,yes,platform,content,no,no,large,high,no,no,no,low,high,low,23
+Church Choir Member,entertainment,yes,companies,experience,no,no,massive,medium,no,yes,no,low,medium,high,24
+Event Coordinator,social media,sometimes,brands,content,no,yes,massive,high,yes,no,no,low,medium,medium,28
+UX Designer,design,no,companies,digital,sometimes,no,massive,medium,yes,no,yes,medium,medium,low,28
+Data Analyst,automotive,no,brands,content,sometimes,no,small,low,yes,yes,no,low,medium,high,21
+Product Manager,entertainment,yes,brands,physical,yes,yes,small,medium,yes,no,no,high,low,medium,30
+Podcast Host,marketing,no,companies,service,yes,yes,medium,low,yes,no,no,medium,high,medium,27
+Sound Engineer,religion,yes,individuals,experience,sometimes,no,small,high,no,no,yes,medium,high,high,27
+Civil Engineer,automotive,sometimes,companies,physical,no,yes,small,low,yes,yes,no,high,high,low,25
+Film Editor,design,no,individuals,digital,sometimes,no,medium,low,yes,yes,no,medium,high,low,28
+Mechanical Technician,entertainment,sometimes,organizations,service,sometimes,yes,massive,high,yes,no,yes,low,medium,high,29
+Journalist,religion,sometimes,companies,content,sometimes,no,large,low,yes,yes,yes,medium,medium,medium,15
+Sound Engineer,education,sometimes,companies,physical,sometimes,yes,massive,medium,yes,no,no,high,medium,medium,21
+Marketing Specialist,music,yes,companies,content,yes,yes,massive,high,no,no,no,low,medium,medium,28
+Community Manager,entertainment,sometimes,organizations,service,sometimes,no,large,low,yes,yes,no,low,medium,low,26
+Music Producer,marketing,no,platform,content,no,yes,medium,low,no,no,no,low,high,high,20
+Architect,design,sometimes,platform,physical,no,yes,small,high,no,yes,yes,high,high,high,26
+Church Choir Member,social media,yes,platform,experience,sometimes,yes,massive,medium,no,no,no,low,high,high,14
+Interior Designer,marketing,no,platform,service,no,yes,massive,low,yes,no,no,medium,medium,medium,13
+Game Designer,design,sometimes,organizations,digital,yes,yes,small,low,no,no,yes,medium,medium,low,13
+Product Manager,music,yes,brands,service,no,yes,medium,low,no,no,no,medium,low,low,24
+Music Producer,design,sometimes,companies,experience,yes,no,small,low,no,no,yes,high,low,high,26
+Vehicle Armoring Specialist,design,no,companies,digital,sometimes,no,large,low,no,yes,yes,high,medium,medium,28
+Social Media Influencer,technology,yes,organizations,service,no,yes,medium,medium,no,no,no,high,medium,high,17
+Community Manager,marketing,yes,organizations,content,yes,no,large,medium,yes,yes,no,low,high,low,18
+Journalist,design,yes,platform,experience,no,yes,massive,low,no,yes,no,low,medium,high,15
+Product Manager,technology,no,platform,content,no,yes,large,high,yes,yes,yes,medium,high,high,14
+NGO Worker,religion,no,platform,experience,yes,yes,large,medium,yes,yes,no,medium,low,low,13
+Data Analyst,music,no,companies,content,yes,yes,small,medium,no,no,yes,medium,high,high,21
+Vehicle Armoring Specialist,technology,no,individuals,content,sometimes,yes,medium,medium,no,no,no,medium,low,high,20
+Automotive Engineer,entertainment,yes,organizations,digital,sometimes,no,large,low,no,no,yes,medium,medium,high,28
+Podcast Host,social media,sometimes,individuals,digital,no,yes,medium,low,yes,yes,no,low,medium,medium,20
+Teacher,automotive,no,organizations,physical,no,no,medium,high,no,yes,yes,high,medium,medium,30
+Software Developer,entertainment,no,brands,physical,sometimes,no,small,medium,yes,yes,yes,high,medium,medium,19
+Data Analyst,automotive,sometimes,organizations,physical,no,yes,medium,medium,yes,yes,yes,low,medium,high,18
+Fashion Model,religion,sometimes,individuals,physical,no,no,medium,high,no,yes,yes,high,medium,medium,26
+Church Choir Member,technology,sometimes,organizations,physical,sometimes,no,large,high,yes,no,no,high,high,low,15
+YouTuber,religion,sometimes,platform,experience,no,no,massive,medium,no,no,no,medium,high,low,26
+Architect,automotive,yes,platform,content,yes,no,small,low,yes,yes,no,high,medium,medium,13
+Marketing Specialist,non-profit,yes,brands,digital,yes,no,large,medium,no,no,yes,low,low,medium,18
+Architect,education,yes,platform,physical,sometimes,yes,small,medium,yes,no,no,medium,low,high,30
+NGO Worker,technology,no,platform,physical,no,yes,large,medium,no,no,yes,low,medium,medium,25
+Social Media Influencer,non-profit,yes,individuals,experience,sometimes,no,large,low,no,yes,yes,medium,low,medium,29
+Graphic Designer,marketing,sometimes,brands,physical,no,yes,massive,high,no,no,yes,medium,low,medium,30
+Event Coordinator,non-profit,sometimes,individuals,service,yes,no,large,low,no,no,no,high,medium,low,26
+Community Manager,education,yes,companies,content,no,yes,small,low,yes,no,no,medium,low,medium,30
+Teacher,marketing,yes,brands,digital,sometimes,no,medium,medium,yes,yes,no,low,high,medium,24
+Content Creator,technology,sometimes,brands,service,yes,no,massive,medium,no,no,yes,high,high,low,27
+NGO Worker,music,no,individuals,experience,sometimes,yes,large,low,no,no,yes,medium,high,high,30
+Religious Youth Leader,technology,sometimes,platform,experience,yes,no,large,medium,yes,yes,yes,low,low,high,23
+Game Designer,non-profit,sometimes,companies,physical,no,yes,large,medium,yes,no,yes,high,low,high,18
+Civil Engineer,design,sometimes,brands,service,sometimes,yes,medium,high,yes,no,no,low,low,high,19
+Event Coordinator,music,yes,brands,physical,yes,no,large,high,no,yes,no,low,high,high,23
+Vehicle Armoring Specialist,social media,sometimes,platform,digital,yes,yes,small,medium,no,yes,no,low,high,low,21
+Teacher,non-profit,no,organizations,experience,no,no,massive,low,yes,yes,no,low,low,medium,21
+UX Designer,technology,yes,individuals,digital,no,no,small,high,yes,no,no,low,low,low,25
+Graphic Designer,automotive,yes,brands,service,yes,yes,medium,medium,yes,yes,yes,high,low,low,27
+Product Manager,music,no,organizations,physical,yes,yes,massive,high,yes,no,no,high,medium,medium,16
+Data Analyst,social media,no,brands,digital,sometimes,yes,medium,low,no,no,no,high,high,medium,17
+Film Editor,automotive,no,brands,service,no,yes,small,low,yes,no,no,low,low,low,19
+Data Analyst,technology,yes,companies,physical,sometimes,yes,medium,medium,no,yes,yes,low,low,low,13
+Podcast Host,marketing,yes,platform,content,sometimes,no,medium,low,yes,no,no,high,high,medium,30
+Religious Youth Leader,automotive,no,organizations,digital,no,no,medium,medium,no,yes,no,medium,medium,low,29
+Church Choir Member,education,sometimes,platform,digital,sometimes,yes,small,medium,yes,yes,no,low,high,medium,18
+Product Manager,non-profit,yes,platform,experience,no,no,large,low,yes,yes,no,medium,low,medium,25
+Product Manager,social media,sometimes,organizations,physical,yes,no,large,high,yes,no,yes,low,medium,medium,24
+Religious Youth Leader,marketing,yes,platform,physical,no,no,massive,medium,no,no,no,high,high,low,14
+Community Manager,design,sometimes,companies,physical,sometimes,yes,large,medium,no,no,yes,high,medium,medium,25
+YouTuber,entertainment,sometimes,companies,physical,sometimes,no,massive,high,no,yes,yes,low,low,low,25
+Content Creator,entertainment,sometimes,brands,content,yes,no,medium,low,no,yes,yes,low,low,low,27
+Data Analyst,marketing,no,individuals,digital,no,no,large,medium,yes,no,no,low,high,high,21
+Religious Youth Leader,entertainment,yes,companies,content,sometimes,yes,small,medium,no,no,no,medium,high,medium,14
+Marketing Specialist,religion,no,individuals,content,no,yes,massive,low,no,yes,yes,medium,medium,high,26
+Photographer,technology,yes,platform,content,yes,yes,small,low,yes,no,no,high,low,medium,25
+Automotive Engineer,design,no,individuals,content,yes,yes,large,medium,yes,no,no,medium,low,high,15
+Community Manager,education,no,companies,content,sometimes,no,massive,medium,no,no,no,high,low,medium,28
+Civil Engineer,non-profit,yes,companies,service,sometimes,yes,massive,medium,no,yes,yes,medium,low,high,16
+Journalist,education,sometimes,platform,service,sometimes,no,small,high,yes,yes,yes,medium,high,high,22
+Video Editor,entertainment,sometimes,platform,physical,no,yes,medium,medium,yes,yes,yes,medium,low,high,23
+Game Designer,automotive,sometimes,companies,service,no,yes,massive,medium,yes,no,no,medium,medium,high,15
+UX Designer,religion,sometimes,individuals,content,yes,no,medium,medium,no,yes,no,medium,high,medium,25
+Journalist,design,yes,companies,content,yes,yes,massive,low,no,yes,no,low,low,high,18
+Fashion Model,religion,sometimes,companies,experience,no,no,medium,low,no,yes,yes,medium,high,high,25
+Graphic Designer,music,yes,brands,content,yes,yes,medium,low,no,yes,no,low,medium,low,29
+Journalist,design,no,brands,experience,yes,no,large,high,yes,yes,yes,low,low,low,15
+Product Manager,music,no,organizations,physical,sometimes,yes,large,low,yes,yes,no,high,high,high,29
+Podcast Host,non-profit,no,companies,service,yes,no,massive,low,no,no,no,medium,medium,low,19
+Product Manager,design,yes,organizations,service,yes,yes,small,high,no,yes,yes,high,low,low,23
+Sound Engineer,education,yes,individuals,service,no,yes,medium,low,no,yes,yes,high,medium,medium,23
+Podcast Host,entertainment,sometimes,platform,physical,no,no,small,low,no,yes,yes,high,high,medium,24
+Photographer,entertainment,no,organizations,digital,no,no,small,medium,no,yes,yes,low,high,medium,25
+Music Producer,education,yes,brands,service,yes,no,large,high,no,yes,yes,medium,medium,high,22
+Church Choir Member,marketing,sometimes,organizations,physical,sometimes,yes,small,medium,no,no,yes,high,medium,low,26
+Game Designer,entertainment,sometimes,brands,service,sometimes,yes,medium,low,no,no,yes,high,low,high,18
+Teacher,non-profit,no,individuals,experience,no,no,massive,medium,yes,yes,no,low,medium,medium,22
+UX Designer,marketing,yes,individuals,content,no,yes,small,medium,no,yes,no,high,high,high,20
+Religious Youth Leader,marketing,no,companies,physical,sometimes,no,massive,high,no,no,no,low,high,medium,20
+Community Manager,religion,no,brands,content,yes,yes,massive,high,no,no,yes,high,medium,medium,15
+Automotive Engineer,marketing,yes,organizations,experience,yes,yes,small,low,yes,no,yes,medium,high,medium,20
+Fashion Model,music,no,companies,experience,yes,yes,small,high,no,yes,no,low,low,medium,17
+NGO Worker,entertainment,no,individuals,experience,no,yes,small,low,no,yes,yes,high,medium,high,28
+NGO Worker,music,no,brands,experience,sometimes,yes,large,high,yes,yes,yes,medium,high,low,29
+Church Choir Member,religion,no,companies,digital,yes,no,small,high,no,yes,no,low,low,low,20
+Religious Youth Leader,automotive,no,brands,physical,sometimes,yes,massive,high,yes,no,no,low,high,low,17
+Music Producer,music,yes,platform,service,sometimes,yes,small,low,no,no,no,high,high,medium,24
+Film Editor,entertainment,yes,brands,service,no,yes,small,low,no,yes,no,medium,medium,low,17
+Social Media Influencer,music,yes,platform,digital,no,no,small,low,no,no,yes,high,high,high,18
+Civil Engineer,non-profit,sometimes,organizations,physical,sometimes,no,massive,low,yes,no,yes,medium,low,low,25
+Software Developer,entertainment,yes,brands,digital,yes,no,massive,low,no,no,no,high,high,low,13
+Civil Engineer,marketing,no,platform,experience,yes,yes,massive,medium,no,yes,no,medium,low,high,30
+Community Manager,automotive,yes,organizations,physical,no,no,medium,high,yes,yes,no,medium,low,medium,22
+Film Editor,music,no,organizations,service,yes,yes,medium,medium,yes,yes,yes,high,low,high,19
+Software Developer,technology,no,organizations,service,sometimes,no,small,low,no,no,no,high,medium,medium,25
+Community Manager,music,sometimes,companies,content,yes,no,small,low,yes,yes,no,high,medium,high,20
+Church Choir Member,automotive,no,platform,physical,yes,no,medium,medium,no,no,no,medium,medium,medium,28
+Teacher,technology,yes,companies,digital,sometimes,no,large,medium,yes,no,yes,low,medium,low,15
+Film Editor,marketing,no,brands,digital,yes,yes,small,low,yes,yes,no,low,low,medium,29
+Graphic Designer,automotive,no,brands,physical,sometimes,yes,massive,high,no,yes,yes,medium,high,low,13
+Teacher,technology,no,platform,service,yes,yes,large,high,no,yes,no,low,low,medium,23
+Fashion Model,technology,no,brands,experience,no,yes,massive,low,yes,no,no,medium,medium,low,23
+Software Developer,design,yes,brands,content,yes,no,massive,medium,no,yes,no,medium,high,high,28
+Software Developer,technology,sometimes,organizations,experience,yes,yes,massive,low,yes,no,no,low,low,medium,21
+Film Editor,education,no,individuals,content,no,yes,large,medium,no,no,yes,medium,medium,high,29
+Community Manager,non-profit,no,platform,experience,sometimes,no,large,medium,yes,no,no,low,medium,high,17
+Social Media Influencer,social media,no,organizations,service,sometimes,yes,massive,low,yes,yes,no,medium,medium,medium,17
+Game Designer,automotive,yes,individuals,content,sometimes,no,large,medium,yes,yes,no,high,low,low,19
+Data Analyst,music,yes,individuals,service,sometimes,no,small,low,no,no,no,low,high,high,27
+Architect,non-profit,yes,platform,content,yes,no,medium,low,no,yes,no,low,low,high,29
+Video Editor,design,no,organizations,experience,yes,yes,massive,medium,yes,no,no,medium,low,high,24
+Data Analyst,technology,sometimes,companies,experience,no,no,medium,low,no,no,yes,high,low,low,27
+Video Editor,education,no,organizations,experience,no,no,medium,high,no,yes,no,low,high,high,28
+Podcast Host,music,yes,platform,experience,yes,yes,massive,medium,no,yes,no,low,low,high,13
+Content Creator,marketing,sometimes,brands,physical,yes,yes,massive,medium,no,no,no,medium,low,medium,19
+Sound Engineer,marketing,no,brands,experience,yes,yes,large,medium,yes,yes,yes,low,low,high,19
+Photographer,religion,no,platform,content,yes,yes,medium,low,yes,yes,yes,high,high,high,27
+Game Designer,marketing,yes,platform,digital,sometimes,no,large,low,no,no,no,low,medium,medium,29
+Sound Engineer,design,no,individuals,service,sometimes,yes,massive,low,yes,yes,no,high,medium,high,14
+Software Developer,non-profit,no,platform,content,yes,yes,small,high,no,no,no,low,high,low,14
+Music Producer,social media,yes,individuals,service,no,yes,large,high,yes,yes,no,medium,high,low,17
+Social Media Influencer,education,no,brands,experience,no,yes,medium,high,no,no,no,medium,low,low,15
+Mechanical Technician,music,sometimes,brands,physical,yes,yes,small,medium,yes,yes,no,low,medium,medium,18
+Content Creator,technology,sometimes,companies,experience,yes,yes,small,low,no,no,no,high,high,medium,28
+Music Producer,technology,sometimes,platform,content,sometimes,yes,medium,high,yes,yes,no,high,high,low,16
+Video Editor,design,sometimes,organizations,content,yes,no,small,low,no,yes,no,low,low,medium,17
+Automotive Engineer,music,sometimes,companies,digital,yes,yes,massive,medium,no,no,yes,low,high,medium,13
+Religious Youth Leader,social media,sometimes,platform,digital,no,no,massive,medium,yes,no,yes,high,medium,medium,25
+Civil Engineer,religion,no,brands,physical,no,no,medium,high,no,no,no,medium,medium,medium,27
+Automotive Engineer,marketing,sometimes,organizations,digital,yes,no,massive,low,no,no,yes,high,medium,medium,23
+Music Producer,design,yes,organizations,service,no,yes,large,high,yes,yes,no,low,low,medium,13
+NGO Worker,music,no,brands,physical,yes,no,massive,low,yes,yes,no,medium,low,low,25
+UX Designer,non-profit,sometimes,brands,experience,sometimes,no,medium,low,yes,no,no,medium,high,medium,17
+Journalist,marketing,yes,platform,service,no,no,medium,medium,no,no,no,medium,high,medium,24
+Video Editor,social media,yes,companies,experience,yes,yes,large,high,no,yes,yes,medium,low,high,14
+Civil Engineer,religion,sometimes,individuals,experience,yes,yes,medium,high,no,no,yes,high,low,low,14
+Automotive Engineer,music,yes,organizations,digital,no,yes,massive,high,no,no,yes,medium,medium,high,23
+Community Manager,technology,yes,organizations,digital,yes,yes,medium,high,no,no,yes,medium,medium,low,16
+Teacher,music,sometimes,platform,experience,yes,yes,large,medium,no,no,yes,high,medium,high,24
+Film Editor,technology,sometimes,companies,content,sometimes,yes,massive,medium,yes,no,no,high,low,low,14
+Teacher,non-profit,sometimes,brands,service,no,yes,medium,medium,yes,yes,no,low,medium,high,17
+Civil Engineer,marketing,sometimes,individuals,service,no,yes,large,medium,no,yes,no,medium,low,high,15
+Journalist,music,sometimes,brands,service,no,yes,large,low,yes,no,yes,low,medium,medium,19
+Music Producer,social media,no,brands,physical,yes,no,medium,low,no,no,yes,low,low,high,23
+YouTuber,entertainment,no,platform,physical,sometimes,yes,massive,low,yes,yes,yes,medium,low,high,23
+Mechanical Technician,religion,sometimes,brands,content,sometimes,no,medium,high,yes,no,yes,low,high,low,19
+UX Designer,marketing,sometimes,companies,experience,no,no,large,low,no,yes,no,high,low,low,15
+Mechanical Technician,social media,yes,individuals,digital,yes,no,medium,low,no,yes,yes,low,low,medium,13
+Fashion Model,automotive,no,companies,digital,no,yes,massive,low,yes,no,no,low,medium,medium,16
+Film Editor,social media,yes,individuals,content,sometimes,no,large,medium,no,yes,yes,medium,medium,medium,27
+Religious Youth Leader,marketing,yes,brands,physical,yes,no,massive,low,no,no,no,low,low,low,25
+Graphic Designer,social media,sometimes,individuals,experience,sometimes,no,massive,medium,yes,no,no,high,medium,medium,24
+Interior Designer,non-profit,no,platform,experience,no,no,large,low,yes,yes,no,high,high,low,18
+Music Producer,education,yes,brands,digital,no,no,massive,medium,no,no,yes,high,low,low,29
+Architect,social media,yes,brands,physical,yes,yes,medium,high,no,yes,yes,low,low,medium,27
+Music Producer,education,sometimes,companies,service,no,yes,medium,high,no,no,no,medium,low,low,30
+Social Media Influencer,technology,yes,companies,service,yes,yes,small,low,yes,yes,yes,medium,medium,high,28
+Mechanical Technician,social media,no,brands,service,yes,yes,massive,low,no,no,no,high,low,medium,30
+Mechanical Technician,marketing,sometimes,brands,physical,sometimes,no,small,low,yes,no,yes,high,low,high,18
+Marketing Specialist,music,yes,organizations,digital,yes,yes,medium,high,yes,yes,yes,medium,high,high,24
+Religious Youth Leader,religion,yes,companies,content,yes,no,medium,medium,no,yes,yes,high,low,high,26
+Software Developer,entertainment,no,platform,service,no,no,small,medium,no,no,yes,low,high,medium,14
+YouTuber,religion,sometimes,platform,service,no,no,medium,low,yes,yes,yes,low,low,high,22
+Mechanical Technician,religion,yes,organizations,experience,no,no,massive,high,no,no,yes,medium,high,low,14
+Software Developer,marketing,no,individuals,service,yes,no,massive,high,no,yes,no,high,high,low,27
+Graphic Designer,automotive,sometimes,brands,physical,sometimes,no,massive,high,yes,yes,yes,low,medium,medium,23
+UX Designer,religion,no,organizations,experience,yes,yes,large,high,yes,yes,no,medium,low,high,14
+Content Creator,music,sometimes,companies,physical,sometimes,no,small,low,yes,no,no,high,high,high,28
+Vehicle Armoring Specialist,social media,sometimes,individuals,physical,yes,no,small,low,yes,yes,yes,high,low,high,25
+Interior Designer,music,sometimes,companies,experience,sometimes,yes,small,low,yes,no,no,medium,low,low,28
+NGO Worker,technology,sometimes,organizations,content,sometimes,yes,large,low,no,yes,yes,medium,high,medium,26
+NGO Worker,religion,no,individuals,content,yes,no,medium,low,no,yes,yes,low,low,low,13
+Vehicle Armoring Specialist,technology,yes,organizations,content,yes,no,large,medium,no,no,yes,medium,medium,low,24
+Graphic Designer,non-profit,no,brands,service,sometimes,yes,large,medium,no,yes,yes,low,medium,low,14
+Social Media Influencer,technology,no,companies,service,no,no,massive,high,no,no,no,low,high,high,14
+Fashion Model,social media,sometimes,brands,content,no,yes,small,high,no,yes,yes,low,medium,high,22
+Sound Engineer,music,yes,platform,physical,no,no,large,low,yes,no,no,low,medium,medium,13
+Photographer,education,yes,platform,digital,no,no,medium,medium,yes,no,yes,high,high,medium,13
+Vehicle Armoring Specialist,design,sometimes,organizations,experience,sometimes,yes,large,high,yes,yes,yes,medium,high,high,26
+Graphic Designer,design,yes,organizations,digital,no,yes,large,high,yes,no,yes,low,low,low,29
+Data Analyst,music,no,platform,experience,sometimes,yes,large,medium,yes,yes,yes,low,medium,low,26
+Software Developer,design,no,companies,digital,sometimes,yes,large,high,yes,yes,no,high,medium,medium,18
+Video Editor,music,sometimes,platform,experience,yes,no,small,low,no,no,yes,high,high,medium,30
+Civil Engineer,entertainment,yes,organizations,physical,sometimes,no,medium,medium,no,yes,yes,high,low,medium,19
+Game Designer,entertainment,sometimes,companies,experience,no,yes,small,low,no,no,yes,low,low,low,30
+YouTuber,non-profit,yes,brands,experience,sometimes,no,massive,high,yes,no,no,high,low,medium,22
+Product Manager,design,yes,companies,digital,yes,no,large,high,yes,yes,no,low,medium,high,21
+Podcast Host,automotive,no,individuals,physical,yes,no,large,low,no,yes,yes,low,low,high,20
+Product Manager,education,sometimes,organizations,service,sometimes,no,large,medium,no,yes,no,medium,medium,medium,22
+Journalist,marketing,no,companies,service,no,yes,massive,high,no,yes,no,low,low,medium,30
+Marketing Specialist,automotive,sometimes,companies,experience,sometimes,yes,large,high,no,yes,yes,medium,medium,medium,16
+Interior Designer,music,no,platform,experience,sometimes,no,large,medium,yes,yes,yes,medium,high,medium,19
+Marketing Specialist,social media,no,companies,experience,no,yes,large,high,yes,no,no,medium,low,medium,30
+Civil Engineer,technology,yes,platform,content,yes,yes,small,low,no,yes,no,high,high,high,15
+Church Choir Member,education,yes,individuals,service,sometimes,yes,small,low,yes,yes,no,medium,low,high,30
+Vehicle Armoring Specialist,technology,yes,companies,content,no,no,large,low,yes,yes,yes,low,medium,medium,28
+Podcast Host,social media,no,organizations,service,sometimes,no,medium,medium,no,yes,yes,high,low,low,14
+Community Manager,design,yes,companies,content,yes,yes,medium,high,yes,no,no,medium,low,low,25
+Podcast Host,entertainment,yes,individuals,content,sometimes,yes,small,low,no,yes,no,medium,medium,low,16
+Mechanical Technician,non-profit,yes,platform,digital,sometimes,no,massive,high,yes,yes,no,medium,low,medium,28
+Film Editor,non-profit,yes,companies,physical,yes,yes,small,low,yes,no,no,low,low,high,18
+YouTuber,marketing,yes,organizations,physical,no,no,massive,low,no,yes,no,high,low,high,13
+Religious Youth Leader,technology,sometimes,organizations,content,sometimes,yes,medium,low,yes,no,yes,low,low,high,13
+Journalist,automotive,no,organizations,experience,yes,yes,small,high,no,no,no,low,low,low,20
+Film Editor,design,yes,brands,experience,no,no,medium,high,no,yes,yes,medium,low,low,18
+Photographer,non-profit,yes,platform,digital,yes,yes,massive,high,yes,yes,yes,high,high,high,29
+YouTuber,design,no,brands,content,sometimes,yes,medium,high,no,yes,no,medium,high,medium,19
+NGO Worker,music,sometimes,platform,physical,sometimes,yes,large,high,no,no,yes,medium,medium,low,15
+Automotive Engineer,marketing,no,organizations,service,sometimes,no,small,high,no,no,no,low,high,high,26
+Fashion Model,religion,no,individuals,physical,sometimes,yes,large,medium,no,no,yes,medium,high,high,28
+Content Creator,social media,yes,brands,content,yes,yes,massive,low,yes,yes,yes,medium,low,medium,24
+Music Producer,education,sometimes,brands,physical,yes,yes,medium,low,no,no,yes,low,low,low,23
+Event Coordinator,social media,no,organizations,content,sometimes,no,massive,high,no,no,yes,high,medium,low,21
+Mechanical Technician,automotive,no,platform,content,sometimes,yes,medium,medium,no,yes,yes,medium,low,high,13
+Graphic Designer,marketing,yes,platform,service,no,no,massive,low,yes,yes,no,medium,medium,high,14
+YouTuber,education,sometimes,individuals,experience,sometimes,yes,medium,low,no,no,yes,high,high,low,13
+Product Manager,entertainment,yes,companies,experience,no,yes,small,medium,no,no,no,high,medium,medium,27
+Music Producer,technology,sometimes,organizations,content,no,yes,massive,high,no,no,yes,medium,low,high,26
+Data Analyst,music,yes,companies,service,yes,yes,large,medium,yes,yes,yes,high,medium,medium,28
+Automotive Engineer,music,yes,brands,experience,yes,yes,small,high,no,yes,no,high,medium,medium,21
+Music Producer,non-profit,no,companies,physical,yes,no,medium,medium,yes,yes,yes,medium,high,low,25
+UX Designer,non-profit,no,brands,digital,no,no,large,medium,yes,no,yes,low,low,high,20
+Civil Engineer,marketing,yes,organizations,digital,yes,no,small,high,no,yes,no,high,medium,high,13
+Interior Designer,marketing,no,brands,digital,yes,no,massive,medium,yes,no,yes,high,high,low,18
+UX Designer,religion,sometimes,brands,experience,yes,no,massive,medium,no,yes,no,medium,low,low,30
+UX Designer,education,yes,organizations,content,yes,yes,small,high,no,yes,yes,high,high,medium,27
+Architect,technology,sometimes,organizations,content,no,no,massive,low,yes,no,no,low,medium,medium,14
+Sound Engineer,design,no,platform,service,yes,yes,small,medium,no,yes,yes,high,low,high,19
+Journalist,social media,sometimes,platform,service,sometimes,no,large,medium,yes,no,yes,low,low,medium,15
+Religious Youth Leader,education,no,organizations,physical,yes,no,large,medium,yes,yes,no,high,high,low,29
+Product Manager,education,no,individuals,content,sometimes,yes,medium,high,yes,yes,yes,high,low,low,23
+Video Editor,design,yes,organizations,experience,sometimes,no,massive,low,yes,no,no,medium,high,low,20
+Church Choir Member,music,no,organizations,content,yes,no,medium,medium,yes,no,yes,medium,high,high,17
+Sound Engineer,religion,yes,organizations,service,no,no,small,low,no,yes,no,medium,low,high,16
+Graphic Designer,design,yes,brands,digital,no,no,large,high,no,no,yes,high,low,low,17
+Civil Engineer,technology,sometimes,individuals,content,no,yes,medium,medium,no,yes,no,high,medium,medium,13
+NGO Worker,entertainment,yes,organizations,physical,sometimes,yes,medium,high,no,yes,no,low,low,high,24
+UX Designer,music,sometimes,brands,service,no,yes,massive,medium,yes,yes,yes,high,low,low,14
+Interior Designer,automotive,sometimes,companies,physical,no,no,small,high,yes,no,no,high,medium,low,21
+Game Designer,automotive,yes,brands,experience,no,yes,massive,medium,yes,yes,no,medium,medium,medium,29
+Software Developer,non-profit,sometimes,individuals,physical,sometimes,no,massive,low,no,yes,no,medium,low,medium,26
+Church Choir Member,education,no,brands,experience,yes,no,massive,medium,no,yes,yes,medium,medium,low,27
+NGO Worker,entertainment,no,platform,digital,sometimes,no,small,medium,no,no,no,medium,low,high,15
+Architect,technology,yes,brands,experience,no,yes,large,low,no,yes,no,medium,medium,low,27
+Software Developer,religion,yes,platform,content,yes,no,large,high,yes,yes,no,medium,low,low,13
+Automotive Engineer,social media,sometimes,individuals,service,no,no,medium,medium,yes,no,no,high,high,low,20
+Religious Youth Leader,religion,no,organizations,experience,no,yes,medium,low,no,yes,no,medium,high,low,25
+Photographer,social media,no,organizations,experience,sometimes,yes,small,high,no,no,yes,high,medium,medium,24
+Civil Engineer,design,yes,brands,physical,yes,no,medium,low,no,yes,yes,low,medium,high,20
+Content Creator,non-profit,no,individuals,experience,yes,no,large,high,no,no,no,low,medium,medium,29
+Community Manager,design,sometimes,brands,physical,no,yes,medium,low,yes,no,no,medium,medium,high,26
+Civil Engineer,music,sometimes,individuals,content,sometimes,no,large,high,yes,yes,no,high,medium,medium,23
+Marketing Specialist,non-profit,no,platform,service,sometimes,no,medium,low,no,yes,no,low,high,medium,20
+Music Producer,technology,no,organizations,content,no,no,large,low,no,yes,no,high,high,low,23
+Journalist,social media,no,companies,digital,no,yes,massive,medium,no,yes,no,medium,high,medium,29
+Architect,non-profit,no,brands,content,yes,no,large,high,no,no,yes,high,low,high,22
+Journalist,education,yes,platform,physical,sometimes,yes,small,low,no,no,yes,high,high,high,21
+Music Producer,education,no,platform,digital,yes,yes,large,low,yes,no,no,low,high,high,21
+Graphic Designer,religion,yes,brands,content,no,yes,large,high,no,no,no,high,high,high,18
+Film Editor,automotive,no,individuals,content,yes,no,massive,medium,no,no,yes,low,high,medium,27
+YouTuber,design,no,companies,service,sometimes,yes,large,low,yes,no,yes,high,medium,medium,14
+Fashion Model,education,no,companies,content,no,yes,large,medium,yes,yes,yes,high,low,medium,13
+Church Choir Member,entertainment,yes,companies,service,sometimes,yes,large,medium,yes,no,no,low,high,high,26
+Religious Youth Leader,entertainment,no,organizations,service,sometimes,no,large,high,yes,yes,yes,low,low,low,25
+Religious Youth Leader,non-profit,no,brands,content,sometimes,yes,medium,low,yes,yes,no,medium,low,low,27
+Sound Engineer,religion,no,brands,experience,no,yes,medium,medium,no,no,yes,medium,low,medium,26
+Church Choir Member,music,sometimes,individuals,digital,yes,no,massive,medium,yes,yes,yes,high,medium,high,26
+Film Editor,social media,no,individuals,physical,no,yes,massive,medium,no,yes,yes,high,low,high,14
+NGO Worker,entertainment,no,individuals,digital,no,no,large,medium,yes,yes,yes,low,low,medium,26
+Social Media Influencer,education,no,brands,physical,no,yes,large,medium,yes,yes,no,low,high,low,26
+Photographer,automotive,yes,companies,experience,no,no,medium,medium,yes,no,no,low,medium,medium,24
+Podcast Host,entertainment,sometimes,companies,digital,yes,no,medium,medium,yes,no,no,medium,high,medium,26
+UX Designer,marketing,sometimes,organizations,physical,sometimes,no,small,high,no,yes,no,low,low,low,19
