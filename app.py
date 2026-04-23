@@ -6,6 +6,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 app = Flask(__name__)
+app.secret_key = 'snoopy'
 
 ada_pipeline_m1  = joblib.load('models/exploration_pipeline_m1.pkl')  # ~50% real labels
 ada_pipeline_m2  = joblib.load('models/exploration_pipeline_m2.pkl')  # ~80% profile-based
