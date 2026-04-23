@@ -8,6 +8,13 @@ load_dotenv()
 app = Flask(__name__)
 app.secret_key = 'snoopy'
 
+
+app.config['SESSION_TYPE'] = 'filesystem'
+app.config['SESSION_PERMANENT'] = False
+app.config['SESSION_USE_SIGNER'] = True
+app.config['SESSION_FILE_DIR'] = '/tmp/flask_sessions'
+
+os.makedirs('/tmp/flask_sessions', exist_ok=True)
 ada_pipeline_m1  = joblib.load('models/exploration_pipeline_m1.pkl')  # ~50% real labels
 ada_pipeline_m2  = joblib.load('models/exploration_pipeline_m2.pkl')  # ~80% profile-based
 knn              = joblib.load('models/guessing_knn.pkl')
